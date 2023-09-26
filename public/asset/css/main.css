@@ -1,0 +1,952 @@
+.highlight {
+  background-color: #d7d7d7 !important;
+}
+body {
+  width: 100%;
+  height: 100%;
+  font-size: clamp(11px, 2vw, 12px);
+}
+.header-odd {
+  flex-direction: row-reverse;
+}
+p {
+  margin-bottom: 0 !important;
+  hyphens: auto !important;
+}
+.page-content {
+  hyphens: auto !important;
+}
+.main {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-size: 100%;
+  background-repeat: unset;
+  padding-right: 70px;
+  padding-left: 56px;
+}
+.main .image-background {
+  z-index: 0;
+  display: none;
+  position: absolute;
+  width: 100%;
+  object-fit: cover;
+}
+.main .page-container {
+  z-index: 10;
+  max-width: 79% !important;
+  padding-top: 60px !important;
+  position: relative !important;
+  margin: 0 auto !important;
+  height: max-content;
+}
+.main .page-container .page-header {
+  margin: 0;
+  padding: 0;
+  position: absolute !important;
+  width: 100%;
+  left: 50%;
+  top: 30px !important;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #000 !important;
+}
+.main .page-container .page-header .page-number {
+  font-size: 8px !important;
+  color: #000 !important;
+  margin-bottom: 0 !important;
+}
+.main .page-container .page-header .page-header-title {
+  font-size: 10px !important;
+  color: #000 !important;
+  margin-bottom: 5px !important;
+}
+.main .page-container .page-body .page-title {
+  font-size: 11px;
+  font-weight: 700;
+  color: #fff;
+}
+.main .page-container .page-body .content-title .page-content {
+  font-size: 0.688rem;
+  line-height: 125%;
+  color: #fff;
+  position: absolute;
+  bottom: 56px;
+  right: 0;
+  width: 306px;
+  text-align: justify;
+}
+.main .page-container .page-body .content-text {
+  font-size: 0.688rem;
+  line-height: 125%;
+  text-align: justify;
+}
+/* Media query targeting iOS devices */
+.main.page-template-1 {
+  height: 100%;
+  position: relative;
+  background-size: 100%;
+  background-repeat: unset;
+  padding-right: 70px;
+  padding-left: 56px;
+  max-width: 79% !important;
+  margin: 0 auto !important;
+}
+.main.page-template-1 .image-background {
+  z-index: 0;
+  display: none;
+  position: absolute;
+  width: 100%;
+  object-fit: cover;
+}
+.main.page-template-1 .page-container {
+  z-index: 10;
+  padding-bottom: 56px;
+  padding-top: 0 !important;
+  position: relative;
+  margin: 0 auto;
+  height: 100%;
+  max-width: unset !important;
+}
+.main.page-template-1 .page-container .page-header {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  width: 100% !important;
+  left: 50%;
+  top: 31px;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #fff !important;
+}
+.main.page-template-1 .page-container .page-header .page-number {
+  color: #fff !important;
+}
+.main.page-template-1 .page-container .page-header .page-header-title {
+  color: #fff !important;
+}
+.main.page-template-1 .page-container .page-body {
+  padding-top: 60px !important;
+  margin-top: 20px;
+}
+.main.page-template-1 .page-container .page-body h1.page-title {
+  font-size: 44px !important;
+  font-weight: 700;
+  color: #fff;
+  line-height: 128% !important;
+}
+.main.page-template-1 .page-container .page-body h1.limit-width {
+  width: 50% !important;
+}
+.main.page-template-1 .page-container .page-body .page-content {
+  font-size: 11px !important;
+  line-height: 128% !important;
+  color: #fff;
+  position: absolute;
+  bottom: 56px;
+  right: 0;
+  width: 306px;
+  letter-spacing: -0.2px !important;
+}
+.main.page-template-2 {
+  height: 100%;
+}
+.main.page-template-2 .page-container .page-header {
+  border-bottom: 1px solid #000;
+}
+.main.page-template-2 .page-container .page-header .page-number {
+  color: red;
+}
+.main.page-template-2 .page-container .page-header .page-header-title {
+  color: #000;
+}
+.main.page-template-2 .page-body {
+  margin-top: 0;
+}
+.main.page-template-2 .page-body .image-container {
+  width: 100% !important;
+  height: 440px !important;
+  overflow: hidden !important;
+}
+.main.page-template-2 .page-body .image-container .content-image {
+  object-fit: cover !important;
+  width: 100% !important;
+  overflow: auto !important;
+}
+.main.page-template-2 .page-body .flex-item-container {
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  margin-top: 40px !important;
+}
+.main.page-template-2 .page-body .flex-item-container .page-title {
+  display: flex;
+  width: 28%;
+  font-size: 24px;
+  font-weight: 700;
+  color: #0075be;
+  line-height: 108% !important;
+}
+.main.page-template-2 .page-body .flex-item-container .page-content {
+  font-size: 11px;
+  line-height: 128% !important;
+  color: #000;
+  position: unset;
+  text-align: justify !important;
+  width: 65%;
+}
+.page-3-container {
+  overflow: visible !important;
+}
+.page-template-3 {
+  padding-left: 0;
+  padding-right: 0;
+}
+.page-template-3 .page-container {
+  padding-bottom: 0 !important;
+}
+.page-template-3 .page-container .page-body {
+  position: relative;
+}
+.page-template-3 .page-container .page-body .flex-container {
+  display: flex;
+}
+.page-template-3 .page-container .page-body .flex-container .content-text {
+  width: 66%;
+  margin-left: auto !important;
+  font-size: 11px !important;
+  line-height: 128% !important;
+  text-align: justify !important;
+}
+.page-template-3 .pt-page {
+  padding-top: 70px;
+}
+.page-template-3 .pb-page {
+  padding-bottom: 54px;
+}
+.page-template-3 .page-container.blue-color-background {
+  max-width: unset !important;
+  width: 100% !important;
+  left: 0 !important;
+  margin-top: 30px !important;
+  background-color: #0075be !important;
+  justify-content: space-between;
+  padding-top: 40px !important;
+  padding-bottom: 40px !important;
+}
+.page-template-3 .page-container.blue-color-background .page-body {
+  max-width: 79% !important;
+  margin: 0 auto !important;
+}
+.page-template-3 .page-container.blue-color-background .page-body .content-title {
+  font-size: 16px !important;
+  line-height: 128% !important;
+  width: 31%;
+  color: #fff;
+}
+.page-template-3 .page-container.blue-color-background .page-body .content-text {
+  width: 66%;
+  font-size: 11px !important;
+  color: #fff;
+  line-height: 128% !important;
+  text-align: justify !important;
+}
+.page-template-3 .page-container.pb-page {
+  margin-top: 40px !important;
+  padding-top: 0 !important;
+}
+.page-template-3 .page-container.pb-page .page-body .content-text.content-text-blue {
+  color: #0075be;
+  font-size: 16px !important;
+  line-height: 128% !important;
+  text-align: justify !important;
+}
+.main.page-template-4 {
+  height: 100%;
+}
+.main.page-template-4 .page-container {
+  height: 100%;
+  padding-top: 0 !important;
+}
+.main.page-template-4 .page-container .page-body {
+  height: 100%;
+}
+.main.page-template-4 .page-container .page-body .flex-item-container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  height: 100%;
+}
+.main.page-template-4 .page-container .page-body .flex-item-container .item-container {
+  width: 66%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 11px !important;
+}
+.main.page-template-4 .page-container .page-body .flex-item-container .item-container .content-text {
+  line-height: 128% !important;
+  padding-top: 60px !important;
+}
+.main.page-template-4 .page-container .page-body .flex-item-container .image-container {
+  position: absolute;
+  bottom: 50px;
+}
+.main.page-template-4 .page-container .page-body .flex-item-container .image-container .content-image {
+  width: 100%;
+}
+.page-template-5 .background-image {
+  position: absolute;
+  width: 100%;
+  object-fit: cover;
+  left: 0;
+}
+.page-template-5 .page-container {
+  height: 100%;
+  padding-top: 0 !important;
+}
+.page-template-5 .flex-item-container {
+  position: absolute !important;
+  bottom: 0 !important;
+  width: 80% !important;
+  height: 70% !important;
+}
+.page-template-5 .flex-item-container .item-container {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  padding-top: 60px !important;
+  padding-left: 56px !important;
+  padding-bottom: 56px !important;
+  padding-right: 56px !important;
+  width: 50% !important;
+  height: 85% !important;
+  background: #0075be !important;
+  background: linear-gradient(0deg, #0075be 0%, rgba(0, 117, 190, 0.5) 50%, rgba(0, 117, 190, 0.03) 100%) !important;
+}
+.page-template-5 .flex-item-container .item-container .content-text {
+  font-size: 11px !important;
+  line-height: 128% !important;
+  color: #fff;
+}
+.page-template-6 .background-image {
+  position: absolute !important;
+  width: 25% !important;
+  object-fit: cover;
+  left: 0 !important;
+  height: 100%;
+}
+.page-template-6 .page-container {
+  padding-top: 0 !important;
+  height: inherit !important;
+}
+.page-template-6 .page-container .page-body {
+  height: inherit !important;
+}
+.page-template-6 .page-container .page-body .flex-item-container {
+  height: inherit !important;
+  display: flex !important;
+}
+.page-template-6 .page-container .page-body .flex-item-container .page-content {
+  width: 66%;
+  margin-left: auto !important;
+  font-size: 11px !important;
+  line-height: 128% !important;
+  color: #000;
+  position: unset;
+  top: unset;
+  left: unset;
+  right: unset;
+  padding-bottom: 50px !important;
+  text-align: justify !important;
+  text-align-last: left !important;
+  padding-top: 0 !important;
+  margin-top: auto !important;
+  letter-spacing: -0.6px !important;
+}
+.page-template-7 .page-container .page-body .flex-item-container {
+  display: flex !important;
+  flex-direction: column !important;
+  row-gap: 30px !important;
+}
+.page-template-7 .page-container .page-body .flex-item-container .text-container {
+  width: 66% !important;
+  margin-left: auto !important;
+  margin-top: auto;
+}
+.page-template-7 .page-container .page-body .flex-item-container .text-container .content-text {
+  font-size: 11px !important;
+  line-height: 128% !important;
+  text-align: justify !important;
+  text-align-last: left !important;
+  hyphens: auto !important;
+}
+.page-template-7 .page-container .page-body .flex-item-container .text-container .padding-bottom-area {
+  padding-bottom: 20px !important;
+}
+.page-template-7 .page-container .page-body .flex-item-container .image-container .content-image {
+  width: 100% !important;
+}
+.page-template-9 .page-body .image-container .content-image {
+  width: 100%;
+}
+.page-template-9 .page-body .flex-item-container {
+  margin-top: 30px !important;
+  display: flex !important;
+  column-gap: 14px !important;
+}
+.page-template-9 .page-body .flex-item-container .text-container {
+  width: 48% !important;
+}
+.page-template-9 .page-body .flex-item-container .text-container .content-text {
+  position: relative;
+  top: unset;
+  left: unset;
+  right: unset;
+  bottom: unset;
+  font-size: 11px !important;
+  line-height: 128% !important;
+  text-align: justify !important;
+}
+.page-template-9 .page-body .flex-item-container .text-container .special-spacing-case {
+  letter-spacing: -0.5px !important;
+}
+.page-template-10 {
+  position: relative;
+}
+.page-template-10 .image-content-container {
+  position: absolute !important;
+  height: 66% !important;
+  left: 0 !important;
+  width: 100% !important;
+}
+.page-template-10 .image-content-container .content-image {
+  object-fit: cover !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+.page-template-10 .image-content-container .blue-gradient {
+  position: absolute !important;
+  width: 100% !important;
+  height: 100% !important;
+  top: 0 !important;
+  bottom: 0 !important;
+  background: #0075be !important;
+  background: linear-gradient(0deg, #0075be 0%, rgba(0, 117, 190, 0) 70%, rgba(0, 117, 190, 0) 100%) !important;
+}
+.page-template-10 .page-container {
+  padding-top: 300px !important;
+}
+.page-template-10 .page-container .page-header {
+  border-bottom: 1px solid #fff !important;
+}
+.page-template-10 .page-container .page-header .page-number {
+  color: #fff !important;
+}
+.page-template-10 .page-container .page-header .page-header-title {
+  color: #fff !important;
+}
+.page-template-10 .page-container .page-body {
+  height: 100% !important;
+}
+.page-template-10 .page-container .page-body .flex-item-container {
+  height: 100% !important;
+  display: flex !important;
+  flex-direction: column !important;
+  row-gap: 80px !important;
+}
+.page-template-10 .page-container .page-body .flex-item-container .text-container {
+  width: 66% !important;
+  margin-left: auto !important;
+}
+.page-template-10 .page-container .page-body .flex-item-container .text-container .content-text {
+  font-size: 11px !important;
+  line-height: 128% !important;
+  text-align: justify !important;
+}
+.page-template-10 .page-container .page-body .flex-item-container .text-white-container {
+  margin-top: auto !important;
+  width: auto !important;
+}
+.page-template-10 .page-container .page-body .flex-item-container .text-white-container .content-text {
+  color: #fff !important;
+  font-size: 16px !important;
+  line-height: 128% !important;
+}
+.page-template-11 {
+  background-color: #0075be !important;
+}
+.page-template-11 .content-image {
+  position: absolute !important;
+  height: 82% !important;
+  top: 65px !important;
+  right: -50% !important;
+}
+.page-template-11 .content-image.left-item {
+  left: -50% !important;
+  right: unset !important;
+}
+.page-template-11 .page-container {
+  height: 100% !important;
+  padding-top: 0 !important;
+}
+.page-template-11 .page-container .page-header {
+  border-bottom: 1px solid #fff !important;
+}
+.page-template-11 .page-container .page-header .page-number {
+  color: #fff !important;
+}
+.page-template-11 .page-container .page-header .page-header-title {
+  color: #fff !important;
+}
+.page-template-11 .page-container .page-body {
+  height: 100% !important;
+}
+.page-template-11 .page-container .page-body .flex-item-container {
+  height: 100% !important;
+}
+.page-template-11 .page-container .page-body .flex-item-container .text-container {
+  height: 100% !important;
+  display: flex !important;
+  flex-direction: column !important;
+  row-gap: 30px !important;
+  width: 51% !important;
+  hyphens: auto !important;
+}
+.page-template-11 .page-container .page-body .flex-item-container .text-container .text-title {
+  padding-top: 60px !important;
+  font-size: 16px !important;
+  line-height: 128% !important;
+  color: #fff !important;
+}
+.page-template-11 .page-container .page-body .flex-item-container .text-container .content-text {
+  text-align: justify !important;
+  font-size: 11px !important;
+  line-height: 128% !important;
+  color: #fff !important;
+  padding-bottom: 50px !important;
+}
+.page-template-11 .page-container .page-body .flex-item-container .ml-autow {
+  margin-left: auto !important;
+}
+.page-template-11 .page-container .page-body .flex-item-container .mt-autow {
+  margin-top: auto !important;
+}
+.page-template-13 .page-container .page-body .flex-item-container {
+  display: flex !important;
+}
+.page-template-13 .page-container .page-body .flex-item-container .text-container {
+  width: 68% !important;
+  margin-left: auto !important;
+  hyphens: auto !important;
+}
+.page-template-13 .page-container .page-body .flex-item-container .text-container .content-text {
+  font-size: 10.9px !important;
+  line-height: 128% !important;
+  text-align: justify !important;
+}
+.page-template-13 .blue-background {
+  position: absolute !important;
+  bottom: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  background-color: #0075be !important;
+}
+.page-template-13 .blue-background .page-container {
+  padding: 50px 0 !important;
+}
+.page-template-13 .blue-background .page-container .content-text {
+  color: #fff !important;
+  font-size: 15.9px !important;
+  line-height: 125% !important;
+  font-weight: medium !important;
+  text-align: justify !important;
+  letter-spacing: 0.6px;
+}
+.page-template-14 .page-body .image-container .content-image {
+  margin-top: 24px !important;
+  width: 100% !important;
+}
+.page-template-14 .page-body .flex-item-container {
+  display: flex !important;
+  column-gap: 14px !important;
+}
+.page-template-14 .page-body .flex-item-container .text-container {
+  width: 48% !important;
+}
+.page-template-14 .page-body .flex-item-container .text-container .content-text {
+  position: relative !important;
+  top: unset !important;
+  left: unset !important;
+  right: unset !important;
+  bottom: unset !important;
+  font-size: 11px !important;
+  line-height: 125% !important;
+  text-align: justify !important;
+  hyphens: auto !important;
+}
+.page-template-14 .page-body .flex-item-container .text-container .special-space-case {
+  letter-spacing: -0.2px !important;
+}
+.page-template-15 .page-container .page-body .flex-item-container {
+  display: flex !important;
+}
+.page-template-15 .page-container .page-body .flex-item-container .text-container {
+  width: 56% !important;
+  hyphens: auto !important;
+}
+.page-template-15 .page-container .page-body .flex-item-container .text-container .content-text {
+  font-size: 10.9px !important;
+  line-height: 125% !important;
+  text-align: justify !important;
+}
+.page-template-15 .blue-background {
+  position: absolute !important;
+  bottom: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  background-color: #0075be !important;
+}
+.page-template-15 .blue-background .page-container {
+  padding: 50px 0 !important;
+}
+.page-template-15 .blue-background .page-container .content-text {
+  color: #fff !important;
+  font-size: 16px !important;
+  line-height: 125% !important;
+  font-weight: medium !important;
+  text-align: justify !important;
+}
+.page-template-16 .image-container .content-image {
+  height: 100%;
+  position: absolute;
+}
+.page-template-16 .image-right .content-image {
+  right: 0;
+}
+.page-template-16 .image-left .content-image {
+  left: 0;
+}
+.page-template-18 .page-container {
+  position: unset !important;
+}
+.page-template-18 .page-container .page-header {
+  max-width: 79% !important;
+  border-bottom: 1px solid #fff !important;
+}
+.page-template-18 .page-container .page-header .page-number {
+  color: #fff !important;
+}
+.page-template-18 .page-container .page-header .page-header-title {
+  color: #fff !important;
+}
+.page-template-18 .page-container .page-title {
+  font-weight: 600 !important;
+  line-height: 128% !important;
+  font-size: 44px !important;
+  color: #fff !important;
+  letter-spacing: -3px;
+  word-spacing: -0.3px;
+}
+.page-template-18 .page-container .flex-item-container {
+  position: absolute !important;
+  max-width: 78% !important;
+  width: 100% !important;
+  bottom: 50px !important;
+  margin-top: auto !important;
+  display: flex !important;
+  column-gap: 14px !important;
+}
+.page-template-18 .page-container .flex-item-container .content-text {
+  width: 48% !important;
+  font-size: 11px !important;
+  line-height: 128% !important;
+  color: #fff !important;
+  text-align: justify !important;
+  letter-spacing: -0.8px !important;
+  hyphens: auto !important;
+}
+.page-template-18 .page-container .flex-item-container .left-area {
+  letter-spacing: -0.9px !important;
+  width: 57% !important;
+}
+.page-template-19 .page-container .page-body .image-container {
+  height: 228px !important;
+}
+.page-template-19 .page-container .page-body .image-container .content-image {
+  object-fit: cover !important;
+  height: 100% !important;
+}
+.page-template-19 .page-container .page-body .flex-item-area {
+  margin-top: 20px !important;
+  display: flex !important;
+  flex-direction: row !important;
+  column-gap: 20px !important;
+}
+.page-template-19 .page-container .page-body .flex-item-area .left-item-area,
+.page-template-19 .page-container .page-body .flex-item-area .right-item-area {
+  width: 50% !important;
+}
+.page-template-19 .page-container .page-body .flex-item-area .left-item-area .item-container .number-order,
+.page-template-19 .page-container .page-body .flex-item-area .right-item-area .item-container .number-order {
+  font-size: 24px !important;
+  line-height: 108% !important;
+  color: #e0393d !important;
+  font-weight: 600 !important;
+  padding-top: 10px !important;
+}
+.page-template-19 .page-container .page-body .flex-item-area .left-item-area .item-container .content-text,
+.page-template-19 .page-container .page-body .flex-item-area .right-item-area .item-container .content-text {
+  padding-top: 11px !important;
+  font-size: 10.6px !important;
+  line-height: 128% !important;
+  text-align: justify !important;
+  letter-spacing: -0.8px !important;
+  word-spacing: -0.3px !important;
+}
+.page-template-19 .page-container .page-body .content-text-bottom {
+  padding-top: 20px !important;
+  font-size: 11px !important;
+  line-height: 128% !important;
+}
+.page-template-20 .page-container {
+  height: inherit !important;
+  padding-top: 0 !important;
+}
+.page-template-20 .page-container .page-header {
+  border-bottom: 1px solid #fff !important;
+}
+.page-template-20 .page-container .page-header .page-number {
+  color: #fff !important;
+}
+.page-template-20 .page-container .page-header .page-header-title {
+  color: #fff !important;
+}
+.page-template-20 .page-container .page-body {
+  height: inherit !important;
+}
+.page-template-20 .page-container .page-body .page-title {
+  padding-top: 60px !important;
+  font-size: 44px !important;
+  font-weight: 600 !important;
+  width: 160px !important;
+}
+.page-template-20 .page-container .page-body .flex-item-container .content-text {
+  position: absolute !important;
+  bottom: 94px !important;
+  width: 66% !important;
+  font-size: 11px !important;
+  color: #fff !important;
+  right: 0 !important;
+  text-align: justify !important;
+  line-height: 128% !important;
+}
+.page-template-20 .page-container .page-body .flex-item-container .bottom-different-element {
+  bottom: 66px !important;
+}
+.page-template-21 .page-container .page-header .page-number {
+  color: red !important;
+}
+.page-template-21 .page-container .page-header .page-header-title {
+  color: #000 !important;
+}
+.page-template-22 .page-container .page-header .page-number {
+  color: red !important;
+}
+.page-template-22 .page-container .page-body .flex-item-container .flex-container {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+  column-gap: 3.9% !important;
+  row-gap: 20px !important;
+  justify-content: flex-start !important;
+  margin-top: 20px !important;
+}
+.page-template-22 .page-container .page-body .flex-item-container .flex-container .item-container {
+  width: 29% !important;
+  background-color: #e6e7e8 !important;
+  padding: 4px !important;
+}
+.page-template-22 .page-container .page-body .flex-item-container .flex-container .item-container .image-container {
+  height: 120px !important;
+  width: 100% !important;
+  background-color: #fff !important;
+  position: relative;
+}
+.page-template-22 .page-container .page-body .flex-item-container .flex-container .item-container .image-container .content-image {
+  position: absolute !important;
+  bottom: 0 !important;
+  width: 100% !important;
+  height: 115% !important;
+}
+.page-template-22 .page-container .page-body .flex-item-container .flex-container .item-container .text-container {
+  padding: 8px !important;
+  padding-top: 9px !important;
+  padding-bottom: 6px !important;
+}
+.page-template-22 .page-container .page-body .flex-item-container .flex-container .item-container .text-container .people-name {
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  margin-bottom: 10px !important;
+  line-height: 128% !important;
+  letter-spacing: -0.3px;
+  word-spacing: -0.3px;
+}
+.page-template-22 .page-container .page-body .flex-item-container .flex-container .item-container .text-container .people-job-title {
+  font-size: 8px !important;
+  color: #626366 !important;
+  line-height: 128% !important;
+  letter-spacing: -0.3px;
+  word-spacing: -0.3px;
+}
+.page-template-23 .background-image {
+  width: 100% !important;
+  height: 100% !important;
+  position: absolute !important;
+  z-index: 1 !important;
+}
+.page-template-23 .gradient-red-background {
+  position: absolute !important;
+  bottom: 0 !important;
+  width: 100% !important;
+  height: 56% !important;
+  background: #ff0000 !important;
+  background: linear-gradient(0deg, #ff0000 0%, rgba(121, 9, 9, 0) 100%) !important;
+  z-index: 2 !important;
+}
+.page-template-23 .page-container {
+  padding-top: 0 !important;
+  height: inherit !important;
+}
+.page-template-23 .page-container .page-header .page-number {
+  color: red !important;
+}
+.page-template-23 .page-container .page-body {
+  height: inherit !important;
+  position: unset !important;
+}
+.page-template-23 .page-container .page-body .page-title {
+  font-size: 24px !important;
+  line-height: 108% !important;
+  font-weight: 600 !important;
+  color: red !important;
+  padding-top: 60px !important;
+}
+.page-template-23 .page-container .page-body .page-title-job {
+  font-size: 11px !important;
+  color: #000 !important;
+  font-weight: 600 !important;
+}
+.page-template-23 .page-container .page-body .content-text-container {
+  position: absolute !important;
+  bottom: 56px !important;
+}
+.page-template-23 .page-container .page-body .content-text-container .flex-item-container {
+  display: flex !important;
+  flex-direction: row !important;
+  column-gap: 14px !important;
+}
+.page-template-23 .page-container .page-body .content-text-container .flex-item-container .left-area-flex,
+.page-template-23 .page-container .page-body .content-text-container .flex-item-container .right-area-flex {
+  width: 50% !important;
+}
+.page-template-23 .page-container .page-body .content-text-container .flex-item-container .left-area-flex .content-title-text,
+.page-template-23 .page-container .page-body .content-text-container .flex-item-container .right-area-flex .content-title-text {
+  font-size: 16px !important;
+  line-height: 128% !important;
+  color: #fff !important;
+  margin-bottom: 30px !important;
+}
+.page-template-23 .page-container .page-body .content-text-container .flex-item-container .content-text {
+  font-size: 11px !important;
+  letter-spacing: -0.6px !important;
+  line-height: 128% !important;
+  color: #fff !important;
+  text-align: justify !important;
+}
+.page-template-24 .page-body .flex-item-container {
+  display: flex !important;
+  column-gap: 14px !important;
+}
+.page-template-24 .page-body .flex-item-container .left-item-container,
+.page-template-24 .page-body .flex-item-container .right-item-container {
+  width: 50% !important;
+}
+.page-template-24 .page-body .flex-item-container .left-item-container .content-text,
+.page-template-24 .page-body .flex-item-container .right-item-container .content-text {
+  text-align: justify !important;
+  font-size: 11px !important;
+  line-height: 128% !important;
+  letter-spacing: -0.6px !important;
+}
+.page-template-24 .page-body .flex-item-container .left-item-container .content-title,
+.page-template-24 .page-body .flex-item-container .right-item-container .content-title {
+  font-size: 16px !important;
+  line-height: 128% !important;
+  color: red !important;
+  margin-bottom: 30px !important;
+}
+.page-template-24 .page-body .mb-element-1 {
+  margin-bottom: 60px !important;
+}
+.page-template-25 .content-text {
+  font-size: unset !important;
+}
+.page-template-25 .page-container .page-header {
+  border-bottom: 1px solid #fff !important;
+}
+.page-template-25 .page-container .page-header .page-number {
+  color: #fff !important;
+}
+.page-template-25 .page-container .page-header .page-header-title {
+  color: #fff !important;
+}
+.page-template-25 .page-container .page-body .page-title {
+  font-size: 20px !important;
+  font-weight: 600 !important;
+}
+.page-template-25 .page-container .page-body .flex-item-container {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+  column-gap: 10% !important;
+  justify-content: space-between;
+}
+.page-template-25 .page-container .page-body .flex-item-container .flex-item {
+  display: flex !important;
+  flex-direction: row;
+  width: 45% !important;
+}
+.page-template-25 .page-container .page-body .flex-item-container .flex-item .image-container {
+  width: 25% !important;
+}
+.page-template-25 .page-container .page-body .flex-item-container .flex-item .image-container .content-image {
+  width: 100% !important;
+}
+.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container {
+  padding-left: 14px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  column-gap: 5px;
+}
+.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .text-title,
+.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .content-text {
+  color: #fff !important;
+}
+.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .text-title {
+  margin-bottom: 5px !important;
+}
+.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .content-text.font-size-xs {
+  font-size: 8px !important;
+}
+.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .content-text.font-size-s {
+  font-size: 11px !important;
+}
+.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .content-text.font-size-m {
+  font-size: 14px !important;
+}
+.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .content-text.font-size-xl {
+  font-size: 20px !important;
+}

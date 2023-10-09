@@ -1,79 +1,105 @@
-    <!-- begin page 35 -->
-    <div data-background-image="" class="book-page-{{ $page }}">
+<!-- begin page 34 -->
+<div data-background-image="" class="book-page-{{ $page }}">
 
-        <!-- container page book -->
-        <div class="fb5-cont-page-book">
+    <!-- container page book -->
+    <div class="fb5-cont-page-book">
 
-            <!-- gradient for page -->
-            <div class="fb5-gradient-page"></div>
+        <!-- gradient for page -->
+        <div class="fb5-gradient-page"></div>
 
-            <!-- PDF.js -->
-            <canvas id="canv15"></canvas>
+        <!-- PDF.js -->
+        <canvas id="canv14"></canvas>
 
-            <!-- description for page -->
-            <div class="fb5-page-book">
-                <div class="main page-template-15">
-                    <div class="page-container">
-                        <div class="page-header header-odd">
-                            <p class="page-number">
-                                35
-                            </p>
-                            <div class="page-header-title">
-                                Kaleidoskop Early Work RDMP RU V Balikpapan
-                            </div>
+        <!-- description for page -->
+        <div class="fb5-page-book">
+            <div class="main page-template-14">
+                <div class="page-container">
+                    <div class="page-header">
+                        <p class="page-number">
+                            34
+                        </p>
+                        <div class="page-header-title">
+                            Kaleidoskop Early Work RDMP RU V Balikpapan
                         </div>
-                        <div class="page-body">
-                            <div class="flex-item-container">
-                                <div class="text-container">
-                                    <p class="content-text highlight-text-content">
-                                        Tidak hanya berkaitan dengan teknis, dalam proses pengadaannya,
-                                        beberapa kendala yang dialami dalam proyek ini adalah
-                                        keterbatasan lahan yang dimiliki oleh Direksi KEET untuk tempat
-                                        penyimpanan material harus berpindah-pindah. Selain itu,
-                                        pengadaan material sipil dan elektrikal dari luar negeri
-                                        membutuhkan upaya ekspedisi profesional. Proses pengadaan tanah
-                                        urug juga terkendala oleh cuaca dan kondisi laut saat kapal
-                                        tongkang beroperasi, serta keterbatasan penggunaan jetty untuk
-                                        kapal bersandar.
-                                        <br> <br>
-                                        Hambatan dan tantangan yang lekat dalam ingatan tim Pertamina
-                                        adalah pandemi COVID-19. Tidak
-                                        bisa dipungkiri pengerjaan proyek menjadi terganggu akibat
-                                        adanya pandemi karena tidak ada
-                                        rincian dalam pro-
-                                        ses perencanaan awal. Kendala terberat yang hadir saat masa
-                                        pandemi yakni jumlah manpower
-                                        yang harus turun drastis. Proses mendatangkan manpower pendukung
-                                        dari luar RU V Balikpapan
-                                        juga terkendala syarat ketat untuk mengizinkan penambahan
-                                        manpower baru pada saat pandemi
-                                        dimana semua proses protokol kesehatan harus diterapkan baik
-                                        mulai melakukan tes PCR,
-                                        vaksin, hingga karantina. Tidak hanya manpower, suplai arus
-                                        barang yang menjadi salah satu
-                                        segmen equipment yang didatangkan khusus juga terhambat saat
-                                        pandemi Covid 19, sehingga
-                                        menyebabkan proses produksi juga terkendala oleh keterbatasan.
-                                    </p>
+                    </div>
+                    <div class="page-body">
+                        <div class="flex-item-container">
+                            <div class="text-container">
+                                <p class="content-text highlight-text-content">
+                                    Muncul berbagai unforeseen yang tidak kalah menantang karena
+                                    permasalahan pipa air beserta
+                                    pipa minyak yang melewati area demolish lahan site development
+                                    ini terdapat puing bangunan
+                                    yang telah berdiri sejak zaman dulu yang berada di bawah
+                                    timbunan tanah. Saat melakukan
+                                    pekerjaan di badan jalan bahkan ditemukan rel yang dulunya
+                                    difungsikan sebagai transportasi
+                                    operasional kilang. Keberadaan berbagai unforeseen yang tidak
+                                    diperkirakan dan muncul dalam
+                                    proses perencanaan mengakibatkan pekerjaan demolish site
+                                    development menjadi lebih rumit.
+                                    <br> <br>
+                                    Kompleksitas ini kian terasa karena area kerja yang bersamaan
+                                    dengan kontraktor lain dan
+                                    keterlambatan dalam serah terima kepada kontraktor. Pada proyek
+                                    site development 2A
+                                    kontraktor untuk EPC memiliki spesifikasi yang presisi sehingga
+                                    pada proses serah terima,
+                                    desain acuan yang dipegang oleh kontraktor untuk penerimaan
+                                    sebuah lahan vs apa yang
+                                    dikerjakan banyak mengalami perbedaan. Sebagai contoh, di
+                                    spesifikasi tertulis elevasi
+                                    senilai 5,5, tapi pemenuhannya senilai 4,5. Namun, kendala ini
+                                    juga tidak serta merta
+                                    menjadi kesalahan dan kekurangan tim konstruksi karena jika
+                                    melihat kondisi di lapangan,
+                                    masalah permukaan atau elevasi permukaan tanah memang tidak bisa
+                                    konkret. Terlebih, jika
+                                    mempertimbangkan kendala cuaca saat hujan. Tanah yang tadinya
+                                    padat kemudian tergerus air
+                                    sehingga terdapat area yang harus dilakukan re-grading dan
+                                    pemadatan ulang.
+                                    <br> <br>
+                                    Selain kendala yang terjadi di dalam kilang, pekerjaan site
+                                    development 2A juga melakukan
+                                    persiapan lahan di area luar kilang, seperti lahan untuk parkir,
+                                    workshop, atau jalur
+                                    boiler. Pekerjaan di luar kilang ini pun rentan akan per
+                                </p>
+                            </div>
+                            <div class="text-container">
+                                <p class="content-text special-space-case highlight-text-content">
+                                    masalahan dengan pihak luar, seperti masyarakat sekitar dan
+                                    Organisasi Masyarakat (Ormas).
+                                    Di depan gerbang RU 5 Balikpapan terdapat cagar budaya, Tugu
+                                    Peringatan Demonstrasi Rakyat
+                                    Kalimantan melawan Belanda. Dari hasil observasi, bangunan
+                                    tersebut akan terdampak jalur
+                                    jembatan pekerjaan boiler sehingga relokasi Tugu tersebut harus
+                                    dilakukan. Proses
+                                    pemindahannya cukup sulit karena ada pertentangan dari Ormas dan
+                                    warga yang saling mengklaim
+                                    kepemilikan Tugu tersebut. Adanya resistensi dari masyarakat ini
+                                    kian menjadi situasi yang
+                                    menegangkan karena spanduk-spanduk provokatif mulai bermunculan
+                                    sehingga tim Pertamina
+                                    melakukan eskalasi isu ke stakeholders, yakni Walikota
+                                    Balikpapan yang pada akhirnya
+                                    bersedia turun tangan untuk mengatasi isu tersebut. Guna
+                                    mengantisipasi kondisi yang tidak
+                                    kondusif,
+                                </p>
+                                <div class="image-container">
+                                    <img src="{{ asset('asset/img/IMG_5212.jpg') }}" alt="" class="content-image">
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="blue-background">
-                        <div class="page-container">
-                            <p class="content-text highlight-text-content">
-                                Di tengah keterbatasan pandemi, tim berupaya optimal dan proyek Early
-                                Work Site Development 2A berhasil melaksanakan Operational Acceptance
-                                pada tanggal 31 Desember 2020. Kini, lahan pun telah diserahterimakan
-                                kepada kontraktor EPC ISBL OSBL sekaligus dilakukan instalasi peralatan
-                                kilang.
-                            </p>
-                        </div>
-                    </div>
                 </div>
             </div>
+        </div>
 
-        </div> <!-- end container page book -->
+    </div> <!-- end container page book -->
 
-    </div>
-    <!-- end page 35 -->
+</div>
+<!-- end page 34 -->

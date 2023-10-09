@@ -859,6 +859,9 @@ p {
   color: #fff !important;
   margin-bottom: 30px !important;
 }
+.page-template-23 .page-container .page-body .content-text-container .flex-item-container .width-90-percent {
+  width: 90% !important;
+}
 .page-template-23 .page-container .page-body .content-text-container .flex-item-container .content-text {
   font-size: 11px !important;
   letter-spacing: -0.6px !important;
@@ -894,6 +897,10 @@ p {
 .page-template-25 .content-text {
   font-size: unset !important;
 }
+.page-template-25 .page-container {
+  height: inherit !important;
+  padding-top: 0 !important;
+}
 .page-template-25 .page-container .page-header {
   border-bottom: 1px solid #fff !important;
 }
@@ -903,30 +910,44 @@ p {
 .page-template-25 .page-container .page-header .page-header-title {
   color: #fff !important;
 }
+.page-template-25 .page-container .page-body {
+  height: inherit !important;
+}
 .page-template-25 .page-container .page-body .page-title {
+  padding-top: 60px !important;
   font-size: 20px !important;
   font-weight: 600 !important;
 }
+.page-template-25 .page-container .page-body .city-location-text {
+  color: #fff !important;
+  font-size: 9px !important;
+  position: absolute !important;
+  top: 143px !important;
+  left: 54% !important;
+}
 .page-template-25 .page-container .page-body .flex-item-container {
+  position: absolute !important;
+  bottom: 50px !important;
+  width: 100% !important;
   display: flex !important;
   flex-direction: row !important;
   flex-wrap: wrap !important;
-  column-gap: 10% !important;
+  row-gap: 70px;
   justify-content: space-between;
 }
 .page-template-25 .page-container .page-body .flex-item-container .flex-item {
   display: flex !important;
   flex-direction: row;
-  width: 45% !important;
+  width: 47% !important;
 }
 .page-template-25 .page-container .page-body .flex-item-container .flex-item .image-container {
-  width: 25% !important;
+  width: 24% !important;
 }
 .page-template-25 .page-container .page-body .flex-item-container .flex-item .image-container .content-image {
   width: 100% !important;
 }
 .page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container {
-  padding-left: 14px !important;
+  padding-left: 12px !important;
   display: flex !important;
   flex-direction: column !important;
   column-gap: 5px;
@@ -934,19 +955,363 @@ p {
 .page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .text-title,
 .page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .content-text {
   color: #fff !important;
+  font-weight: unset !important;
 }
 .page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .text-title {
   margin-bottom: 5px !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.6px !important;
 }
-.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .content-text.font-size-xs {
+.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .font-size-xs {
   font-size: 8px !important;
 }
-.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .content-text.font-size-s {
+.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .font-size-s {
   font-size: 11px !important;
 }
-.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .content-text.font-size-m {
+.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .font-size-m {
   font-size: 14px !important;
 }
-.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .content-text.font-size-xl {
+.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container b {
+  font-weight: 600 !important;
+}
+.page-template-25 .page-container .page-body .flex-item-container .flex-item .text-container .font-size-xl {
   font-size: 20px !important;
+}
+.page-template-26 .page-container {
+  padding-top: 0 !important;
+}
+.page-template-26 .page-container .page-header {
+  border-bottom: 1px solid #fff !important;
+}
+.page-template-26 .page-container .page-header .page-number {
+  color: #fff !important;
+}
+.page-template-26 .page-container .page-header .page-header-title {
+  color: #fff !important;
+}
+.page-template-26 .page-container .page-body .page-title {
+  padding-top: 60px !important;
+  font-size: 20px !important;
+  font-weight: 600 !important;
+}
+.page-template-26 .page-container .page-body .position-absolute-container {
+  position: absolute;
+}
+.page-template-26 .page-container .page-body .position-absolute-container .content-text {
+  font-size: 9px !important;
+  margin-bottom: 12px !important;
+  color: #fff !important;
+  line-height: 128% !important;
+}
+.page-template-26 .page-container .page-body .page-item-1 {
+  top: 112px !important;
+  left: 9px !important;
+}
+.page-template-26 .page-container .page-body .page-item-2 {
+  top: 110px !important;
+  left: 171px !important;
+}
+.page-template-26 .page-container .page-body .page-item-3 {
+  top: 110px !important;
+  left: 330px !important;
+}
+.page-template-26 .page-container .page-body .page-item-4 {
+  top: 577px !important;
+  left: 8px !important;
+}
+.page-template-26 .page-container .page-body .page-item-5 {
+  top: 575px !important;
+  left: 165px !important;
+}
+.page-template-27 .page-container {
+  padding-top: 0 !important;
+  height: inherit !important;
+}
+.page-template-27 .page-container .page-header .page-number {
+  color: red !important;
+}
+.page-template-27 .page-container .page-body {
+  height: inherit;
+}
+.page-template-27 .page-container .page-body .text-container {
+  height: 100% !important;
+  width: 100% !important;
+}
+.page-template-27 .page-container .page-body .text-container .position-absolute-container {
+  position: absolute !important;
+}
+.page-template-27 .page-container .page-body .text-container .position-absolute-container .text-number {
+  font-size: 20px !important;
+  font-weight: 600 !important;
+  margin-bottom: 5px !important;
+  color: red !important;
+  line-height: 128% !important;
+}
+.page-template-27 .page-container .page-body .text-container .position-absolute-container .text-title {
+  font-size: 11px !important;
+  color: red !important;
+  font-weight: 600 !important;
+  margin-bottom: 10px !important;
+}
+.page-template-27 .page-container .page-body .text-container .position-absolute-container .content-text {
+  font-size: 11px !important;
+  line-height: 128% !important;
+}
+.page-template-27 .page-container .page-body .text-container .page-item-1 {
+  top: 240px;
+  left: 10px;
+}
+.page-template-27 .page-container .page-body .text-container .page-item-2 {
+  top: 70px !important;
+  left: 170px !important;
+}
+.page-template-27 .page-container .page-body .text-container .page-item-3 {
+  top: 230px;
+  left: 330px;
+}
+.page-template-27 .page-container .page-body .text-container .page-item-4 {
+  top: 480px;
+  left: 170px;
+}
+.page-template-27 .page-container .page-body .text-container .page-item-5 {
+  top: 550px;
+  left: 330px;
+}
+.page-template-28 .page-container {
+  padding-top: 0 !important;
+  height: inherit !important;
+}
+.page-template-28 .page-container .page-header .page-number {
+  color: red !important;
+}
+.page-template-28 .page-container .page-body {
+  height: inherit;
+}
+.page-template-28 .page-container .page-body .text-container {
+  height: 100% !important;
+  width: 100% !important;
+}
+.page-template-28 .page-container .page-body .text-container .position-absolute-container {
+  position: absolute !important;
+}
+.page-template-28 .page-container .page-body .text-container .position-absolute-container .text-number {
+  font-size: 20px !important;
+  font-weight: 600 !important;
+  margin-bottom: 5px !important;
+  color: red !important;
+  line-height: 128% !important;
+}
+.page-template-28 .page-container .page-body .text-container .position-absolute-container .text-title {
+  font-size: 11px !important;
+  color: red !important;
+  font-weight: 600 !important;
+  margin-bottom: 10px !important;
+  line-height: 128% !important;
+}
+.page-template-28 .page-container .page-body .text-container .position-absolute-container .content-text {
+  font-size: 11px !important;
+  line-height: 128% !important;
+}
+.page-template-28 .page-container .page-body .text-container .page-item-1 {
+  top: 230px;
+  left: 30px;
+}
+.page-template-28 .page-container .page-body .text-container .page-item-2 {
+  top: 65px !important;
+  left: 220px !important;
+}
+.page-template-28 .page-container .page-body .text-container .page-item-3 {
+  left: 390px;
+  width: 150px;
+  top: 220px;
+}
+.page-template-28 .page-container .page-body .text-container .page-item-4 {
+  left: 220px;
+  top: 435px;
+}
+.page-template-28 .page-container .page-body .text-container .page-item-5 {
+  top: 540px;
+  left: 390px;
+  width: 200px;
+}
+.page-template-29 .page-container {
+  padding-top: 0 !important;
+  height: inherit !important;
+}
+.page-template-29 .page-container .page-header .page-number {
+  color: red !important;
+}
+.page-template-29 .page-container .page-body {
+  height: inherit;
+}
+.page-template-29 .page-container .page-body .text-container {
+  height: 100% !important;
+  width: 100% !important;
+}
+.page-template-29 .page-container .page-body .text-container .position-absolute-container {
+  position: absolute !important;
+}
+.page-template-29 .page-container .page-body .text-container .position-absolute-container .text-number {
+  font-size: 20px !important;
+  font-weight: 600 !important;
+  margin-bottom: 5px !important;
+  color: red !important;
+  line-height: 128% !important;
+}
+.page-template-29 .page-container .page-body .text-container .position-absolute-container .text-title {
+  font-size: 11px !important;
+  color: red !important;
+  font-weight: 600 !important;
+  margin-bottom: 10px !important;
+  line-height: 128% !important;
+}
+.page-template-29 .page-container .page-body .text-container .position-absolute-container .content-text {
+  font-size: 11px !important;
+  line-height: 128% !important;
+}
+.page-template-29 .page-container .page-body .text-container .page-item-1 {
+  top: 65px;
+  left: -10px;
+}
+.page-template-29 .page-container .page-body .text-container .page-item-2 {
+  top: 65px !important;
+  left: 180px !important;
+}
+.page-template-29 .page-container .page-body .text-container .page-item-3 {
+  left: -10px;
+  width: 200px;
+  top: 395px;
+}
+.page-template-29 .page-container .page-body .text-container .page-item-4 {
+  left: 180px;
+  top: 395px;
+}
+.page-template-23.background-red-page {
+  background-color: #e03a3e !important;
+}
+.page-template-23.background-red-page .page-header {
+  border-bottom: 1px solid #fff !important;
+}
+.page-template-23.background-red-page .page-header .page-number {
+  color: #fff !important;
+}
+.page-template-23.background-red-page .page-header .page-header-title {
+  color: #fff !important;
+}
+.page-template-30 .page-container {
+  max-width: unset !important;
+  height: inherit;
+  padding-top: 0 !important;
+}
+.page-template-30 .page-container .page-body {
+  width: 60% !important;
+  position: absolute !important;
+  bottom: 50px !important;
+}
+.page-template-30 .page-container .page-body .flex-container .content-number {
+  font-size: 72px !important;
+  color: #fff !important;
+  font-weight: 800 !important;
+  line-height: 128% !important;
+  text-align: right !important;
+}
+.page-template-30 .page-container .page-body .flex-container .content-text {
+  font-size: 44px !important;
+  color: #fff !important;
+  font-weight: 800 !important;
+  line-height: 128% !important;
+  text-align: right !important;
+}
+.page-template-31 .page-container .page-header .page-number {
+  color: red !important;
+}
+.page-template-31 .page-container p {
+  line-height: 128% !important;
+}
+.page-template-31 .page-container .mb-size-1 {
+  margin-bottom: 9.5px !important;
+}
+.page-template-31 .page-container .mb-size-1-2 {
+  margin-bottom: 15px !important;
+}
+.page-template-31 .page-container .mb-size-2 {
+  margin-bottom: 20px !important;
+}
+.page-template-31 .page-container .mb-size-3 {
+  margin-bottom: 30px !important;
+}
+.page-template-31 .page-container .font-bold {
+  font-weight: 800 !important;
+}
+.page-template-31 .page-container .font-semibold {
+  font-weight: 600 !important;
+}
+.page-template-31 .page-container .font-size-1 {
+  font-size: 11px !important;
+}
+.page-template-31 .page-container .font-size-1-2 {
+  font-size: 14px !important;
+}
+.page-template-31 .page-container .font-size-2 {
+  font-size: 16px !important;
+}
+.page-template-31 .page-container .font-size-3 {
+  font-size: 24px !important;
+}
+.page-template-31 .page-container .color-red {
+  color: red !important;
+}
+.page-template-31 .page-container .color-grey {
+  color: #626366 !important;
+}
+.page-template-31 .page-container .color-blue {
+  color: #0075be !important;
+}
+.page-template-31 .page-container .mt-auto {
+  margin-top: auto !important;
+}
+.page-template-31 .page-container .display-flex-column {
+  display: flex !important;
+  flex-direction: column !important;
+}
+.page-template-31 .page-container .font-italic {
+  font-style: italic !important;
+}
+.page-template-31 .page-container .page-body .flex-container {
+  display: flex !important;
+  column-gap: 13px !important;
+}
+.page-template-31 .page-container .page-body .flex-container .flex-item-container {
+  width: 50% !important;
+}
+.page-template-31 .page-container .page-body .flex-container .flex-item-container .content-image {
+  width: 100% !important;
+}
+.page-template-31 .page-container .page-body .flex-container .flex-item-container .content-text {
+  text-align: justify !important;
+  letter-spacing: -0.2px;
+}
+.page-template-31 .page-container .page-body .flex-container .flex-item-container .people-quote {
+  letter-spacing: -0.6px !important;
+}
+.page-template-31 .page-container .page-body .border-bottom-area {
+  border-bottom: 1px solid black !important;
+}
+.page-template-31 .page-container .letter-spacing-1 {
+  letter-spacing: -0.3px !important;
+}
+.page-template-31 .page-container .letter-spacing-2 {
+  letter-spacing: -0.6px !important;
+}
+.page-template-31 .page-container .line-height-size-1 {
+  line-height: 75% !important;
+}
+.page-template-31 .page-container .word-spacing-1 {
+  word-spacing: -0.3px !important;
+}
+.page-template-31 .page-container .word-spacing-2 {
+  word-spacing: -0.6px !important;
+}
+.page-template-31 .page-container .no-hypens {
+  hyphens: none !important;
 }

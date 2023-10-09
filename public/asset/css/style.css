@@ -147,7 +147,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#69cccccc', e
 	position: absolute;
 	z-index: 5;
 	display: none;
-	width: 1100px; height: 715px;
+	width: 100px; height: 715px;
 }
 
 .remove_scroll{

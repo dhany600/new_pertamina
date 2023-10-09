@@ -1,105 +1,89 @@
-<!-- begin page 34 -->
-<div data-background-image="" class="book-page-{{ $page }}">
+<!-- begin page 33 -->
+        <div data-background-image="" class="book-page-{{ $page }}">
 
-    <!-- container page book -->
-    <div class="fb5-cont-page-book">
+            <!-- container page book -->
+            <div class="fb5-cont-page-book">
 
-        <!-- gradient for page -->
-        <div class="fb5-gradient-page"></div>
+                <!-- gradient for page -->
+                <div class="fb5-gradient-page"></div>
 
-        <!-- PDF.js -->
-        <canvas id="canv14"></canvas>
+                <!-- PDF.js -->
+                <canvas id="canv13"></canvas>
 
-        <!-- description for page -->
-        <div class="fb5-page-book">
-            <div class="main page-template-14">
-                <div class="page-container">
-                    <div class="page-header">
-                        <p class="page-number">
-                            34
-                        </p>
-                        <div class="page-header-title">
-                            Kaleidoskop Early Work RDMP RU V Balikpapan
-                        </div>
-                    </div>
-                    <div class="page-body">
-                        <div class="flex-item-container">
-                            <div class="text-container">
-                                <p class="content-text highlight-text-content">
-                                    Muncul berbagai unforeseen yang tidak kalah menantang karena
-                                    permasalahan pipa air beserta
-                                    pipa minyak yang melewati area demolish lahan site development
-                                    ini terdapat puing bangunan
-                                    yang telah berdiri sejak zaman dulu yang berada di bawah
-                                    timbunan tanah. Saat melakukan
-                                    pekerjaan di badan jalan bahkan ditemukan rel yang dulunya
-                                    difungsikan sebagai transportasi
-                                    operasional kilang. Keberadaan berbagai unforeseen yang tidak
-                                    diperkirakan dan muncul dalam
-                                    proses perencanaan mengakibatkan pekerjaan demolish site
-                                    development menjadi lebih rumit.
-                                    <br> <br>
-                                    Kompleksitas ini kian terasa karena area kerja yang bersamaan
-                                    dengan kontraktor lain dan
-                                    keterlambatan dalam serah terima kepada kontraktor. Pada proyek
-                                    site development 2A
-                                    kontraktor untuk EPC memiliki spesifikasi yang presisi sehingga
-                                    pada proses serah terima,
-                                    desain acuan yang dipegang oleh kontraktor untuk penerimaan
-                                    sebuah lahan vs apa yang
-                                    dikerjakan banyak mengalami perbedaan. Sebagai contoh, di
-                                    spesifikasi tertulis elevasi
-                                    senilai 5,5, tapi pemenuhannya senilai 4,5. Namun, kendala ini
-                                    juga tidak serta merta
-                                    menjadi kesalahan dan kekurangan tim konstruksi karena jika
-                                    melihat kondisi di lapangan,
-                                    masalah permukaan atau elevasi permukaan tanah memang tidak bisa
-                                    konkret. Terlebih, jika
-                                    mempertimbangkan kendala cuaca saat hujan. Tanah yang tadinya
-                                    padat kemudian tergerus air
-                                    sehingga terdapat area yang harus dilakukan re-grading dan
-                                    pemadatan ulang.
-                                    <br> <br>
-                                    Selain kendala yang terjadi di dalam kilang, pekerjaan site
-                                    development 2A juga melakukan
-                                    persiapan lahan di area luar kilang, seperti lahan untuk parkir,
-                                    workshop, atau jalur
-                                    boiler. Pekerjaan di luar kilang ini pun rentan akan per
+                <!-- description for page -->
+                <div class="fb5-page-book">
+                    <div class="main page-template-13">
+                        <div class="page-container">
+                            <div class="page-header header-odd">
+                                <p class="page-number">
+                                    33
                                 </p>
-                            </div>
-                            <div class="text-container">
-                                <p class="content-text special-space-case highlight-text-content">
-                                    masalahan dengan pihak luar, seperti masyarakat sekitar dan
-                                    Organisasi Masyarakat (Ormas).
-                                    Di depan gerbang RU 5 Balikpapan terdapat cagar budaya, Tugu
-                                    Peringatan Demonstrasi Rakyat
-                                    Kalimantan melawan Belanda. Dari hasil observasi, bangunan
-                                    tersebut akan terdampak jalur
-                                    jembatan pekerjaan boiler sehingga relokasi Tugu tersebut harus
-                                    dilakukan. Proses
-                                    pemindahannya cukup sulit karena ada pertentangan dari Ormas dan
-                                    warga yang saling mengklaim
-                                    kepemilikan Tugu tersebut. Adanya resistensi dari masyarakat ini
-                                    kian menjadi situasi yang
-                                    menegangkan karena spanduk-spanduk provokatif mulai bermunculan
-                                    sehingga tim Pertamina
-                                    melakukan eskalasi isu ke stakeholders, yakni Walikota
-                                    Balikpapan yang pada akhirnya
-                                    bersedia turun tangan untuk mengatasi isu tersebut. Guna
-                                    mengantisipasi kondisi yang tidak
-                                    kondusif,
-                                </p>
-                                <div class="image-container">
-                                    <img src="{{ asset('asset/img/IMG_5212.jpg') }}" alt="" class="content-image">
+                                <div class="page-header-title">
+                                    Kaleidoskop Early Work RDMP RU V Balikpapan
                                 </div>
+                            </div>
+                            <div class="page-body">
+                                <div class="flex-item-container">
+                                    <div class="text-container">
+                                        <p class="content-text highlight-text-content">
+                                            Kabel-kabel yang sebelumnya masuk di area rencana proyek itu
+                                            dialihkan agar siap digunakan.
+                                            Dari dokumen awal FEED yang diterima, terdapat penyesuaian dan
+                                            penyempurnaan pada fase DED
+                                            (Detailed Engineering Drawing) di proyek EPC itu agar bisa
+                                            dipakai oleh tim konstruksi
+                                            sebagai panduan untuk melakukan pekerjaan. Kompleksitas kendala
+                                            kabel di site development 2A
+                                            ini dapat diilustrasikan sebagai berikut: pergeseran titik yang
+                                            awalnya berada di titik A
+                                            diproyeksikan akan bergeser sekitar 100 meter menuju titik B.
+                                            Namun, kondisi yang ditemukan
+                                            di lapangan adalah kabel yang akan disambung berada di titik B,
+                                            bukan di titik A. Merespon
+                                            ketidaksesuaian yang ada di lapa-
+                                            ngan, maka ketika ditemukan jalur kabel tetap dan tidak akan
+                                            dipindah, pekerjaan konstruksi
+                                            dilakukan secara paralel sembari terus melakukan pencarian
+                                            titik-titik yang akan dilakukan
+                                            tie-in. Tim Pertamina beruntung karena perpindahan titik tie-in
+                                            dengan kabel yang telah
+                                            dibeli kontraktor masih memadai sehingga tidak ada tambahan
+                                            procurement. Terkait isu drawing
+                                            yang tidak sesuai dari perencanaan awal karena adanya jalur
+                                            kabel aktif, tim Pertamina
+                                            dengan tanggap melaksanakan survei secara berkala untuk mencari
+                                            titik kabel yang sesuai yang
+                                            akan dipindahkan dengan berkoordinasi secara ekstensif bersama
+                                            rekan dari RU V yang lebih
+                                            berpengalaman dan memahami area kilang. Kendala terkait jalur
+                                            kabel ini tidak hanya berlaku
+                                            di area kilang, namun juga di luar area kilang. Pemantauan telah
+                                            dilakukan secara ketat,
+                                            namun proses instalasi masih mengalami gangguan karena jalur
+                                            kabel tersebut dipotong pihak
+                                            yang tidak bertanggung jawab.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="blue-background">
+                            <div class="page-container">
+                                <p class="content-text highlight-text-content">
+                                    Temuan yang mengganggu juga dialami saat melakukan pekerjaan piping,
+                                    yakni pekerjaan pengalihan
+                                    pipa-pipa yang sebelumnya masuk area rencana proyek RDMP menuju ke clear
+                                    area. Pada proyek piping,
+                                    terdapat sekitar 17 modifikasi test package yang harus dipindahkan jalur
+                                    pipa eksistingnya untuk
+                                    meminimalisir hambatan terhadap pekerjaan bagi kontraktor selanjutnya.
+                                </p>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
+
+            </div> <!-- end container page book -->
+
         </div>
-
-    </div> <!-- end container page book -->
-
-</div>
-<!-- end page 34 -->
+        <!-- end page 33 -->

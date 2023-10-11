@@ -20,6 +20,144 @@
     var DISPLAY
     var PAGE_MODE
 
+    // static text for each pages
+    var text_to_voices = [
+        // page 1
+        [
+            `Kata Mereka Tentang Early Work`,
+        ],
+        // page 2
+        [
+            `Sebagai pekerjaan pendahuluan dengan banyak proyek pembangunan fasilitas pendukung, ter
+            iring tantangan serta hal berkesan yang layak dijadikan pembelajaran.Kumpulan cerita menarik
+            serta pengalaman selama proses pengerjaan proyek Early Work digali secara mendalam.Mari
+            menyelami kisah - kisah pengalaman setiap personil dalam mengerjakan proyek serta sebagai
+            bentuk apresiasi atas kerja keras yang penuh sinergi saat membangun pondasi pada Early Work
+            di Kilang Pertamina RU V Balikpapan.`,
+        ],
+        // page 3
+        [
+            `Para Pelopor Early Work`,
+        ],
+        // page 4
+        [
+            `Kehadiran Early Work sebagai pekerjaan pendahuluan
+            untuk RDMP RU V Balikpapan melalui serangkaian proses
+            ekstensif, baik dari tahapan inisiasi, perencanaan, hingga
+            pengambilan keputusan. Para pelopor Early Work ber
+            sedia keluar dari zona nyaman di tengah kondisi yang
+            menuntut mereka untuk menguatkan sinergi. Para
+            pelopor ini membangun tim yang agile, fokus dan tang
+            gap dalam menghadapi setiap kendala yang muncul di
+            lapangan hingga proyek Early Work dinyatakan selesai.`,
+        ],
+        // page 5
+        [
+            `Bambang Harimurti, VP Project Management`,
+            `Kita justru berkorban dengan
+            menggusur fasilitas Pertamina
+            sendiri karena lebih memilih untuk
+            mengutamakan masyarakat.`,
+            `Bambang Harimurti`,
+            `Sebuah Pengorbanan Untuk Masyarakat`,
+            `Mega proyek RDMP RU V Balikpapan memiliki
+            keistimewaan tersendiri pada bagian kepemi
+            likan area. Penggunaan lahan proyek yang
+            memang dimiliki oleh Pertamina bertujuan
+            agar dapat meminimalisir dampak negatif ke
+            masyarakat sekitar. Dampak sosial yang akan
+            terlalu besar akibat pemindahan masyarakat
+            tentunya akan sangat merugikan.`,
+            `Oleh sebab itu, Bambang Harimurti, salah se
+            orang pelopor dalam Early Work pada RDMP
+            RU V Balikpapan memilih untuk melakukan
+            penggusuran fasilitas di area kilang sendiri.
+            Penggusuran fasilitas kilang yang meliputi Pe
+            rumahan, Stadion Persiba, hingga Workshop
+            dan Warehouse seluruh kilang. Hal ini dilaku
+            kan sebagai upaya untuk menambah lahan didalam area kilang sendiri yang nantinya dapat
+            digunakan sesuai plot plan dari RDMP RU V
+            Balikpapan. Kemudian, fasilitas pengganti
+            dibangun pada area lain di dalam kilang agar
+            tidak menghambat para pekerja.`,
+            `Pembangunan Apartemen adalah salah satu
+            pengganti dari perumahan Parikesit yang
+            di-demolish demi menambah area plot plan di
+            dalam kilang. Pembangunan fasilitas-fasilitas
+            ini yang kemudian disebut sebagai Early Work
+            dari RDMP RU V Balikpapan, sebuah pekerjaan
+            awal untuk rencana yang lebih besar. Namun,
+            pada prosesnya banyak pendapat masyarakat
+            yang belum mengerti alasan dibalik penger
+            jaan Early Work dan kemudian mencemooh
+            pekerjaan yang dilakukan.`
+        ],
+        // page 6
+        [
+            `“Bapak ini mau bangun kilang atau mau bangun
+            apartemen?”, Pertanyaan tersebut terkadang
+            membuat Bambang Harimurti sakit hati. Be
+            liau mengaku bahwa perkataan tersebut
+            muncul karena masyarakat belum memahami
+            strategi Early Work.`,
+            `Meski begitu, beliau lebih memilih untuk tidak
+            larut dalam pemikiran negatif dan terus men
+            jalankan pekerjaan. Bagaimanapun, pekerjaan
+            ini dilakukan untuk mengutamakan kese
+            jahteraan masyarakat sekitar kilang.`,
+            `Bambang Harimurti`,
+            `Menerima dan Memegang Teguh Sebuah Amanah`,
+            `“Pekerjaan Early Work menjadi salah satu amanah yang telah
+            diberikan dan dipegang teguh oleh Bambang Harimurti. Beliau
+            yang semula berada di bagian operasi pun perlu beradaptasi ketika
+            mendapat amanah di bagian proyek”`,
+            `Dengan segala kekurangan dan tantangan yang
+            ada, beliau menerima tugas tersebut demi ke
+            berhasilan RDMP RU V Balikpapan. Meskipun
+            begitu, kekurangan pengalaman serta man
+            power tetap menjadi kendala utama selama
+            memulai pekerjaan Early Work.`,
+            `Dengan segala tantangan yang datang, beli
+            au tetap berpegang teguh dan terus berusaha
+            untuk beradaptasi dengan lingkungan proyek.
+            Keberhasilan pun akhirnya dapat diraih dan terli
+            hat dari setiap proyek.`,
+            `Fasilitas-fasilitas yang dibangun dapat ber
+            operasi secara optimal dan memiliki kuali
+            tas yang baik, tentunya menjadi kebanggaan
+            tersendiri. Beliau menyadari bahwa terdapat
+            kekurangan dari pengalamannya memegang
+            sebuah proyek.`,
+            `Namun, melalui konsistensi serta komitmen
+            yang tinggi, beliau berhasil menghadapi se
+            tiap tantangan yang ada dan dapat menyele
+            saikan setiap pekerjaan dalam Early Work.
+            Meski begitu, beliau tak ingin cepat berpuas diri.`,
+            `Beliau akan lebih puas dan bangga apabila
+            dapat melihat seluruh pekerjaan RDMP RU
+            V Balikpapan telah diselesaikan serta ber-
+            operasi secara normal.`,
+            `Proyek dengan pendanaan masif ini memang
+            akan sangat membanggakan apabila telah
+            berhasil terlaksana.Dari setiap pekerjaan
+            yang telah dilaksanakan oleh beliau, banyak
+            juga pelajaran yang dapat dipetik dan menjadi
+            sebuah acuan untuk proyek di masa depan.`,
+            `Pelajaran yang didapat beliau selama menger -
+            jakan proyek yakni pada bagian perencanaan.
+            Tanpa memiliki perencanaan yang matang
+            dan detail, sebuah proyek akan kesulitan untuk
+            mencapai keberhasilan.`,
+            `Hal ini akan berakibat pada change order yang
+            membuat waktu pengerjaan semakin lama
+            dan menghambat proyek utama yakni RDMP
+            RU V Balikpapan.Sebuah mega proyek yang
+            bertujuan untuk meningkatkan kapasitas serta
+            kualitas kilang dan menjadi salah satu upaya
+            mencapai kemandirian energi di tanah air.`,
+        ]
+    ];
+
 
 
 
@@ -490,9 +628,9 @@
 
 
     /* =  set Page
-   --------------------------
-   NO the problem with the Iphone Landscape
-   */
+    --------------------------
+    NO the problem with the Iphone Landscape
+    */
 
     setPageTurn = function (nr_) {
         var nr = nr_;
@@ -504,7 +642,7 @@
 
 
     /* =  set Page from page links  ( pdf links in page )
-   -------------------------------------------------------*/
+    -------------------------------------------------------*/
 
     setPagePdfLinks = function (num_, id_) {
 
@@ -1173,7 +1311,6 @@
 
 
                     //calculate zoom
-                    //    zoom max default:1
                     var zoom = _this.first_zoom + c
                     var zoom_max = 1//Number(Book_v5.getConfig('zoom_max'))
                     if (zoom >= zoom_max) {
@@ -1540,7 +1677,6 @@
             var address = $.address.pathNames()[$.address.pathNames().length - 1];
             var results = $('#fb5-deeplinking ul li[data-address=' + address + ']');
             var nrPage = results.attr('data-page')
-
             if (RTL == 'true') {
                 var nrPage = (Book_v5.getLength() + 1) - results.attr('data-page');
             }
@@ -2777,55 +2913,44 @@
 
         let current_pages = Book_v5.getCurrentPages();
         let paragraphs = [];
-        let left_element = $('.book-page-' + current_pages.left).find('.highlight-text-content');
-        let right_element = $('.book-page-' + current_pages.right).find('.highlight-text-content');
+        if (current_pages.left != null) {
+            if (text_to_voices[current_pages.left - 1] != undefined) {
+                text_to_voices[current_pages.left - 1].forEach(function (element) {
+                    paragraphs.push(element);
+                });
+            }
+        }
 
-        left_element.each(function () {
-            paragraphs.push(this);
-        });
-
-        right_element.each(function () {
-            paragraphs.push(this);
-        });
+        if (current_pages.right != null) {
+            if (text_to_voices[current_pages.right - 1] != undefined) {
+                text_to_voices[current_pages.right - 1].forEach(function (element) {
+                    paragraphs.push(element);
+                });
+            }
+        }
 
         paragraphs.forEach(function (element) {
             // if browser chrome and device not mobile
-            if (navigator.userAgent.indexOf('Chrome') != -1 && !Book_v5.isMobile()) {
-                // split the text into several parts, maximum 200 characters and do not cut words
-                let text = $(element).text();
-                var html = [];
-                var text_separates = splitSentence(text, 200);
-                text_separates.forEach(function (text_separate) {
-                    html.push('<text-el>' + text_separate + '</text-el>');
-                });
-                console.log(html);
+            // if (navigator.userAgent.indexOf('Chrome') != -1 && !Book_v5.isMobile()) {
+            //     // split the text into several parts, maximum 200 characters and do not cut words
+            //     let text = element;
+            //     var html = [];
+            //     var text_separates = splitSentence(text, 200);
+            //     text_separates.forEach(function (text_separate) {
+            //         html.push(text_separate);
+            //     });
 
-                $(element).html(html);
-                $(element).find('text-el').each(function () {
-                    speak(this);
-                });
-            } else {
-                speak(element);
-            }
+            //     $.each(html, function (index, value) {
+            //         speak(value);
+            //     });
+            // } else {
+            speak(element);
+            // }
+
+            console.log(element);
 
         });
 
-    }
-
-    function highlightText(start, end, element, support_boundary) {
-        if (!support_boundary) {
-            element.addClass('highlight');
-        } else {
-            element.removeClass('highlight');
-            const text = element.text();
-            const highlightedText = text.slice(0, start) + '<span class="highlight">' + text.slice(start, end) + '</span>' + text.slice(end);
-            element.html(highlightedText);
-        }
-    }
-
-    function resetHighlight(element) {
-        element.text(element.text())
-        element.removeClass('highlight');
     }
 
     function splitSentence(sentence, blockLength) {
@@ -2840,7 +2965,7 @@
 
     function speak(element) {
         try {
-            const text = $(element).text();
+            const text = element;
 
             // Cek apakah browser mendukung Web Speech API
             if ('speechSynthesis' in window) {
@@ -2877,7 +3002,6 @@
                 var support_boundary = false;
                 // Atur peristiwa untuk menambahkan highlight pada teks yang sedang dinarasikan
                 speech.onstart = () => {
-                    highlightText(0, 0, $(element), support_boundary); // Mulai dengan highlight pada karakter perta,ma
                 };
 
                 speech.onboundary = (event) => {
@@ -2885,13 +3009,9 @@
                         support_boundary = true;
                     }
                     console.log(support_boundary);
-
-                    resetHighlight($(element)); // Reset highlight sebelum menambahkan highlight baru
-                    highlightText(event.charIndex, event.charIndex + event.charLength, $(element), support_boundary);
                 };
 
                 speech.onend = () => {
-                    resetHighlight($(element)); // Reset highlight setelah ucapan selesai
                     currentlySpeaking = false;
                 };
 

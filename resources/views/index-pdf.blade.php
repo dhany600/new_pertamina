@@ -67,7 +67,7 @@
                     <li key="lazy_loading_thumbs">true</li> <!-- enabled/disabled lazdy loading for thumbs -->
                     <li key="double_click_enabled">true</li> <!-- enabled/disabled double click mouse for flipbook -->
                     <li key="rtl">false</li> <!-- enabled/disabled 'right to left' for eastern countries -->
-                    <li key="pdf_url">{{ asset('asset/img/pdf-fix.pdf') }}</li> <!-- pathway to a pdf file ( the file will be read live ) -->
+                    <li key="pdf_url">{{ asset('asset/img/dokumen-terbaru.pdf') }}</li> <!-- pathway to a pdf file ( the file will be read live ) -->
                     <!-- pathway to a pdf file ( the file will be read live ) -->
                     <li key="pdf_scale">2</li>
                     <!-- to live a pdf file (if you want to have a strong zoom - increase the value) -->
@@ -82,7 +82,7 @@
                 <!-- BEGIN deep linking -->
                 <section id="fb5-deeplinking">
                     <ul>
-                        @for ($i = 1; $i < 77; $i++)
+                        @for ($i = 1; $i < 114; $i++)
                             <li data-address="{{ $i }}" data-page="{{ $i }}"></li>
                         @endfor
                     </ul>
@@ -114,7 +114,7 @@
                 <div class="fb5-bcg-tools"></div>
 
                 <a id="fb5-logo" target="_blank" href="http://codecanyon.net/user/flashmaniac?ref=flashmaniac">
-                    <img alt="" src="img/logo.png">
+                    <img alt="" src="{{ asset('asset/img/logo.png') }}">
 
                 </a>
 

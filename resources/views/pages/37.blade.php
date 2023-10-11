@@ -1,5 +1,5 @@
-    <!-- begin page 37 -->
-    <div data-background-image="{{ asset('asset/img/Eksavation Area 51 A unit 065 & 066 Alkylation Wet Gas Sulphuric.jpg') }}" class="book-page-{{ $page }}">
+    <!-- begin page 36 -->
+    <div data-background-image="{{ asset('asset/img/Area 41 & 44 Eksavation Ext. jalan & Backfill (1).jpg') }}" class="book-page-{{ $page }}">
 
         <!-- container page book -->
         <div class="fb5-cont-page-book">
@@ -12,10 +12,10 @@
 
             <!-- description for page -->
             <div class="fb5-page-book">
-
+                
             </div>
 
         </div> <!-- end container page book -->
 
     </div>
-    <!-- end 37 -->
+    <!-- end 36 -->

@@ -1,50 +1,48 @@
-     <!-- begin page 22 -->
-     <div data-background-image="" class="book-page-{{ $page }}">
+<!-- begin page 21 -->
+<div data-background-image="{{ asset('asset/img/Kilas Balik_Divider.jpg') }}" class="book-page-{{ $page }}">
 
-         <!-- container page book -->
-         <div class="fb5-cont-page-book">
+    <!-- container page book -->
+    <div class="fb5-cont-page-book">
 
-             <!-- gradient for page -->
-             <div class="fb5-gradient-page"></div>
+        <!-- gradient for page -->
+        <div class="fb5-gradient-page"></div>
 
-             <!-- PDF.js -->
-             <canvas id="canv2"></canvas>
+        <!-- PDF.js -->
+        <canvas id="canv1"></canvas>
 
-             <!-- description for page -->
-             <div class="fb5-page-book">
-                 <div class="main page-template-2">
-                     <div class="page-container">
-                         <div class="page-header">
-                             <p class="page-number">
-                                 22
-                             </p>
-                             <div class="page-header-title">
-                                 Kaleidoskop Early Work RDMP RU V Balikpapan
-                             </div>
-                         </div>
-                         <div class="page-body">
-                             <div class="image-container">
-                                 <img src="{{ asset('asset/img/FA_Kilas_Balik.png') }}" alt="" class="content-image">
-                             </div>
-                             <div class="flex-item-container">
-                                 <h1 class="page-title highlight-text-content">
-                                     Pondasi Proyek Utama
-                                 </h1>
-                                 <div class="page-content highlight-text-content">
-                                     Peningkatan kapasitas serta kualitas kilang Balikpapan merupakan
-                                     salah satu bentuk intensifikasi, yakni melakukan penambahan unit
-                                     proses dan utilitas tanpa pembukaan lahan baru. Keputusan ini
-                                     diambil karena Pertamina memperhitungkan berbagai aspek, termasuk
-                                     aspek sosial yang akan mungkin muncul jika mengembangkan kilang
-                                     dengan membuka lahan di luar lahan milik Pertamina.
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                 </div>
-             </div>
+        <!-- description for page -->
+        <div class="fb5-page-book">
+            <div class="main page-template-1">
+                <img src="{{ asset('asset/img/Kilas Balik_Divider.jpg') }}  " alt="" class="image-background">
+                <div class="page-container">
+                    <div class="page-header">
+                        <p class="page-number">
+                            21
+                        </p>
+                        <div class="page-header-title">
+                            Kaleidoskop Early Work RDMP RU V Balikpapan
+                        </div>
+                    </div>
+                    <div class="page-body">
+                        <h1 class="page-title highlight-text-content">
+                            Kilas Balik
+                        </h1>
+                        <div class="page-content highlight-text-content">
+                            Dimulai dengan visi untuk negeri berlanjut dengan dedikasi tanpa henti.
+                            Sepanjang perjalanan proyek Early Work, PT Kilang Pertamina Balikpapan
+                            telah menunjukkan sinergi–hasil kolektif pengetahuan, keterampilan,
+                            inovasi, serta kerjasama yang solid dalam meletakkan sebuah pondasi.
+                            Serangkaian proses panjang dalam menyelesaikan 14 proyek menjadi sarana
+                            yang tepat untuk mendalami kilas balik proyek Early Work. Mari melangkah
+                            bersama menuju cerita penuh dengan makna.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-         </div> <!-- end container page book -->
+    </div>
+    <!-- end container page book -->
 
-     </div>
-     <!-- end page 22 -->
+</div>
+<!-- end page 21 -->

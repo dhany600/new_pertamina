@@ -26,10 +26,13 @@
                         <h1 class="page-title highlight-text-content">
                             RDMP RU V Balikpapan
                         </h1>
+                        <p class="city-location-text">
+                            Banjarmasin
+                        </p>
                         <div class="flex-item-container">
                             <div class="flex-item">
                                 <div class="image-container">
-                                    <img src="https://placehold.co/510x500" alt="" class="content-image" />
+                                    <img src="{{ asset('asset/img/rdmp-ru-balikpapan-1.png') }}" alt="" class="content-image" />
                                 </div>
                                 <div class="text-container">
                                     <h3 class="text-title font-size-m">
@@ -51,7 +54,7 @@
                             </div>
                             <div class="flex-item">
                                 <div class="image-container">
-                                    <img src="https://placehold.co/510x500" alt="" class="content-image" />
+                                    <img src="{{ asset('asset/img/rdmp-ru-balikpapan-2.png') }}" alt="" class="content-image" />
                                 </div>
                                 <div class="text-container">
                                     <h3 class="text-title font-size-m">
@@ -67,7 +70,42 @@
                                         Sesudah RDMP
                                     </p>
                                     <p class="content-text font-size-l">
-                                        <b>360</b> <span class="font-size-xs"> RDMP</span>
+                                        <b>Euro V</b>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="flex-item">
+                                <div class="image-container">
+                                    <img src="{{ asset('asset/img/rdmp-ru-balikpapan-3.png') }}" alt="" class="content-image" />
+                                </div>
+                                <div class="text-container">
+                                    <h3 class="text-title font-size-m">
+                                        Kompleksitas Kilang, NCI
+                                    </h3>
+                                    <p class="content-text font-size-s">
+                                        Sebelum RDMP
+                                    </p>
+                                    <p class="content-text font-size-l">
+                                        <b>3,7</b>
+                                    </p>
+                                    <p class="content-text font-size-s">
+                                        Sesudah RDMP
+                                    </p>
+                                    <p class="content-text font-size-l">
+                                        <b>8,0</b>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="flex-item">
+                                <div class="image-container">
+                                    <img src="{{ asset('asset/img/rdmp-ru-balikpapan-4.png') }}" alt="" class="content-image" />
+                                </div>
+                                <div class="text-container">
+                                    <h3 class="text-title font-size-m">
+                                        Target TKDN
+                                    </h3>
+                                    <p class="content-text font-size-l">
+                                        <b>30-35%</b>
                                     </p>
                                 </div>
                             </div>
@@ -77,8 +115,10 @@
             </div>
         </div>
 
+
     </div>
     <!-- end container page book -->
+
 
 </div>
 <!-- end page 17 -->

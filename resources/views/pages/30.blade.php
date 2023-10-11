@@ -1,65 +1,86 @@
-<!-- begin page 30 -->
-<div data-background-image="" class="book-page-{{ $page }}">
+    <!-- begin page 29 -->
+    <div data-background-image="" class="book-page-{{ $page }}"s>
 
-    <!-- container page book -->
-    <div class="fb5-cont-page-book">
+        <!-- container page book -->
+        <div class="fb5-cont-page-book">
 
-        <!-- gradient for page -->
-        <div class="fb5-gradient-page"></div>
+            <!-- gradient for page -->
+            <div class="fb5-gradient-page"></div>
 
-        <!-- PDF.js -->
-        <canvas id="canv10"></canvas>
+            <!-- PDF.js -->
+            <canvas id="canv9"></canvas>
 
-        <!-- description for page -->
-        <div class="fb5-page-book">
-            <div class="main page-template-10">
-                <div class="image-content-container">
-                    <img src="{{ asset('asset/img/Unforseen Wika.jpeg') }}" alt="" class="content-image">
-                    <div class="blue-gradient"></div>
-                </div>
-                <div class="page-container">
-                    <div class="page-header">
-                        <p class="page-number">
-                            30
-                        </p>
-                        <div class="page-header-title">
-                            Kaleidoskop Early Work RDMP RU V Balikpapan
-                        </div>
-                    </div>
-                    <div class="page-body">
-                        <div class="flex-item-container">
-                            <div class="text-container text-white-container">
-                                <p class="content-text highlight-text-content">
-                                    Menimbang kendala unforeseen yang mengganggu proses pemasangan
-                                    tiang pancang, tim Pertamina berinisiatif untuk lebih
-                                    memperketat setiap aspek pekerjaan. Seperti halnya kendala
-                                    unforeseen yang terdapat pada Site Development, hal ini juga
-                                    berpengaruh besar terhadap timeline pekerjaan dan menyebabkan
-                                    kesulitan saat proses aktualisasi berjalan.
-                                </p>
+            <!-- description for page  -->
+            <div class="fb5-page-book">
+                <div class="main page-template-9">
+                    <div class="page-container">
+                        <div class="page-header header-odd">
+                            <p class="page-number">
+                                29
+                            </p>
+                            <div class="page-header-title">
+                                Kaleidoskop Early Work RDMP RU V Balikpapan
                             </div>
-                            <div class="text-container">
-                                <p class="content-text highlight-text-content">
-                                    Maka dari itu, histori catatan proyek menjadi krusial adanya.
-                                    Setiap perencanaan, sisa material harus terdokumentasi dengan
-                                    baik untuk proyek ekspansi di masa depan sehingga dapat
-                                    mempengaruhi kelancaran proses pengerjaan. Dalam lingkup proyek
-                                    ini, detail teknis dan sinergi dari tim Pertamina menjadi faktor
-                                    kunci dalam mengatasi permasalahan di lapangan sehingga proyek
-                                    Site Development bisa terselesaikan dan Operational Acceptance
-                                    bisa terselesaikan pada tanggal 31 Desember 2018 sehingga dengan
-                                    ini area yang akan digunakan di proyek EPC ISBL OSBL telah
-                                    dinyatakan siap dan diserahterimakan ke Kontraktor EPC ISBL
-                                    OSBL.
-                                </p>
+                        </div>
+                        <div class="page-body">
+                            <div class="image-container">
+                                <img src="{{ asset('asset/img/PC070828.JPG') }}" alt="" class="content-image">
+                            </div>
+                            <div class="flex-item-container">
+                                <div class="text-container">
+                                    <p class="content-text highlight-text-content">
+                                        Lebih lanjut, pada saat proses pembangunan Jetty Construction,
+                                        kendala tidak hanya datang dari
+                                        daratan melainkan dalam sisi laut pun muncul yang mana
+                                        memerlukan proses menjangkau dasar laut
+                                        sedalam 210 meter. Seiring berjalannya waktu, ternyata dalam
+                                        proses penanaman pancang untuk
+                                        jembatan mengalami hambatan sebab ditemukannya rel kereta api
+                                        yang ternyata dibuang di dalam
+                                        dasar laut oleh para pendahulu. Penemuan unforeseen tersebut
+                                        menyebabkan penanaman pancang Jetty
+                                        Construction tidak bisa terpasang dengan sempurna.
+                                        <br> <br>
+                                        Proses pemancangan untuk jembatan Jetty Construction cukup
+                                        memakan waktu yang panjang karena
+                                        faktor unforeseen. Dengan sigap, tim Pertamina berkoordinasi dan
+                                        bekerjasama dengan regu
+                                        penyelam untuk mengangkat material yang menghambat proses
+                                        penanaman pancang.
+                                    </p>
+                                </div>
+                                <div class="text-container">
+                                    <p class="content-text special-spacing-case highlight-text-content">
+                                        Pekerjaan untuk mengangkat unforeseen tersebut tidak bisa
+                                        langsung diseksekusi karena
+                                        membutuhkan pembersihan menggunakan kompresor dan crane.
+                                        <br> <br>
+                                        Unforeseen lainnya, yakni adanya bangkai kapal, plat besi hingga
+                                        bangkai tank yang berada di
+                                        dasar laut juga menghambat proses pemancangan. Guna mengatasi
+                                        hal ini, maka dredging menjadi
+                                        tidak terhindarkan. Regu penyelam kembali diturunkan untuk
+                                        mengecek sedalam 20 meter dari
+                                        permukaan laut untuk melihat hambatan yang menghalangi di
+                                        sekitar pemasangan alat pemancang.
+                                        Hambatan tidak terduga yang cukup mengejutkan di saat regu
+                                        penyelam mencari titik
+                                        permasalahan adalah kemunculan hewan se-
+                                        perti buaya muara yang menghalangi proses pencarian titik.
+                                        Beberapa cara pun dikerahkan agar
+                                        proses pemancangan berjalan dengan lancar, seperti penggunaan
+                                        crawler untuk memungut
+                                        unforeseen yang berada di dasar laut.
+                                    </p>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
         </div>
+        <!-- end container page book -->
 
-    </div> <!-- end container page book -->
-
-</div>
-<!-- end page 30 -->
+    </div>
+    <!-- end page 29 -->

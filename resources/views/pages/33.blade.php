@@ -1,89 +1,76 @@
-    <!-- begin page 33 -->
-                    <div data-background-image="" class="book-page-{{ $page }}">
+<!-- begin page 32 -->
+<div data-background-image="" class="book-page-{{ $page }}">
 
-                        <!-- container page book -->
-                        <div class="fb5-cont-page-book">
+<!-- container page book -->
+<div class="fb5-cont-page-book">
 
-                            <!-- gradient for page -->
-                            <div class="fb5-gradient-page"></div>
+    <!-- gradient for page -->
+    <div class="fb5-gradient-page"></div>
 
-                            <!-- PDF.js -->
-                            <canvas id="canv13"></canvas>
+    <!-- PDF.js -->
+    <canvas id="canv12"></canvas>
 
-                            <!-- description for page -->
-                            <div class="fb5-page-book">
-                                <div class="main page-template-13">
-                                    <div class="page-container">
-                                        <div class="page-header header-odd">
-                                            <p class="page-number">
-                                                33
-                                            </p>
-                                            <div class="page-header-title">
-                                                Kaleidoskop Early Work RDMP RU V Balikpapan
-                                            </div>
-                                        </div>
-                                        <div class="page-body">
-                                            <div class="flex-item-container">
-                                                <div class="text-container">
-                                                    <p class="content-text highlight-text-content">
-                                                        Kabel-kabel yang sebelumnya masuk di area rencana proyek itu
-                                                        dialihkan agar siap digunakan.
-                                                        Dari dokumen awal FEED yang diterima, terdapat penyesuaian dan
-                                                        penyempurnaan pada fase DED
-                                                        (Detailed Engineering Drawing) di proyek EPC itu agar bisa
-                                                        dipakai oleh tim konstruksi
-                                                        sebagai panduan untuk melakukan pekerjaan. Kompleksitas kendala
-                                                        kabel di site development 2A
-                                                        ini dapat diilustrasikan sebagai berikut: pergeseran titik yang
-                                                        awalnya berada di titik A
-                                                        diproyeksikan akan bergeser sekitar 100 meter menuju titik B.
-                                                        Namun, kondisi yang ditemukan
-                                                        di lapangan adalah kabel yang akan disambung berada di titik B,
-                                                        bukan di titik A. Merespon
-                                                        ketidaksesuaian yang ada di lapa-
-                                                        ngan, maka ketika ditemukan jalur kabel tetap dan tidak akan
-                                                        dipindah, pekerjaan konstruksi
-                                                        dilakukan secara paralel sembari terus melakukan pencarian
-                                                        titik-titik yang akan dilakukan
-                                                        tie-in. Tim Pertamina beruntung karena perpindahan titik tie-in
-                                                        dengan kabel yang telah
-                                                        dibeli kontraktor masih memadai sehingga tidak ada tambahan
-                                                        procurement. Terkait isu drawing
-                                                        yang tidak sesuai dari perencanaan awal karena adanya jalur
-                                                        kabel aktif, tim Pertamina
-                                                        dengan tanggap melaksanakan survei secara berkala untuk mencari
-                                                        titik kabel yang sesuai yang
-                                                        akan dipindahkan dengan berkoordinasi secara ekstensif bersama
-                                                        rekan dari RU V yang lebih
-                                                        berpengalaman dan memahami area kilang. Kendala terkait jalur
-                                                        kabel ini tidak hanya berlaku
-                                                        di area kilang, namun juga di luar area kilang. Pemantauan telah
-                                                        dilakukan secara ketat,
-                                                        namun proses instalasi masih mengalami gangguan karena jalur
-                                                        kabel tersebut dipotong pihak
-                                                        yang tidak bertanggung jawab.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="blue-background">
-                                        <div class="page-container">
-                                            <p class="content-text highlight-text-content">
-                                                Temuan yang mengganggu juga dialami saat melakukan pekerjaan piping,
-                                                yakni pekerjaan pengalihan
-                                                pipa-pipa yang sebelumnya masuk area rencana proyek RDMP menuju ke clear
-                                                area. Pada proyek piping,
-                                                terdapat sekitar 17 modifikasi test package yang harus dipindahkan jalur
-                                                pipa eksistingnya untuk
-                                                meminimalisir hambatan terhadap pekerjaan bagi kontraktor selanjutnya.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div> <!-- end container page book -->
-
+    <!-- description for page -->
+    <div class="fb5-page-book">
+        <div class="main page-template-11">
+            <img src="{{ asset('asset/img/Area 41 & 44 Eksavation Ext. jalan & Backfill .jpg') }}" alt="" class="content-image left-item">
+            <div class="page-container">
+                <div class="page-header">
+                    <p class="page-number">
+                        32
+                    </p>
+                    <div class="page-header-title">
+                        Kaleidoskop Early Work RDMP RU V Balikpapan
                     </div>
-                    <!-- end page 33 -->
+                </div>
+                <div class="page-body">
+                    <div class="flex-item-container">
+                        <div class="text-container ml-autow">
+                            <p class="content-text mt-autow highlight-text-content">
+                                Pekerjaan penyiapan lahan atau site development pada proyek
+                                Early Work terbagi menjadi dua
+                                tahapan. Pembersihan dan persiapan lahan sebagian telah
+                                dikerjakan pada tahap 1, namun
+                                mengingat kebutuhan yang berada di sisi fasilitas eksisting
+                                masih terdapat beberapa bangunan
+                                berupa area rawa-rawa maupun hutan sehingga pekerjaan site
+                                development 2A harus dilakukan.
+                                Proyek ini bertujuan agar proses pembangunan plot plan kilang
+                                terbaru bisa dieksekusi
+                                sekaligus diserahterimakan ke kontraktor EPC, ISBL, dan OSBL
+                                untuk optimalisasi operasional
+                                RDMP RU V Balikpapan. Lahan pada proyek Site Development 2A ini
+                                nantinya akan digunakan
+                                untuk kebutuhan beberapa area, yakni untuk ISBL sebagai FRCC,
+                                NHT, DHT, Gasoline Block,
+                                Alkylation, area OSBL Selatan Spherical tank, PCT, area Gunung
+                                10 untuk Gasoline tank,
+                                finishing WWTP Area serta Jembatan Gate 5A.
+                                <br> <br>
+                                Ruang lingkup pekerjaan site development 2A didominasi oleh
+                                pekerjaan sipil. Pekerjaan sipil
+                                ini meliputi pekerjaan soil cutting and soil filling, compacting
+                                untuk persiapan lahan,
+                                pekerjaan demolish bangunan eksisting, pembangunan akses seperti
+                                jalan sementara dan
+                                jembatan untuk mempermudah konstruksi. Tidak hanya itu, terdapat
+                                pekerjaan elektrikal dan
+                                piping yang bertujuan meningkatkan fasilitas kilang.
+                                <br> <br>
+                                Pada tahapan awal site development 2A, infrastruktur yang
+                                memadai masih belum tersedia
+                                sehingga dibangunlah akses jalan sementara sebagai media
+                                transportasi untuk kendaraan berat
+                                untuk kebutuhan konstruksi
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div> <!-- end container page book -->
+
+</div>
+<!-- end page 32 -->

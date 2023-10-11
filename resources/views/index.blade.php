@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
 
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -59,7 +59,7 @@
                     <li key="page_height">708</li> <!-- height for page -->
                     <li key="gotopage_width">25</li> <!-- width for field input goto page -->
                     <li key="zoom_double_click">1</li> <!-- value zoom after double click -->
-                    <li key="zoom_max">1</li> <!-- value zoom after double click -->
+                    <li key="zoom_max">4</li> <!-- value zoom after double click -->
                     <li key="zoom_step">0.06</li> <!-- zoom step ( if click icon zoomIn or zoomOut -->
                     <li key="toolbar_visible">true</li> <!-- enabled/disabled toolbar -->
                     <li key="tooltip_visible">true</li> <!-- enabled/disabled tooltip for icon -->
@@ -114,6 +114,95 @@
                         <li data-address="page30" data-page="30"></li>
                         <li data-address="page31" data-page="31"></li>
                         <li data-address="page32" data-page="32"></li>
+                        <li data-address="page33" data-page="33"></li>
+                        <li data-address="page34" data-page="34"></li>
+                        <li data-address="page35" data-page="35"></li>
+                        <li data-address="page36" data-page="36"></li>
+                        <li data-address="page37" data-page="37"></li>
+                        <li data-address="page38" data-page="38"></li>
+                        <li data-address="page39" data-page="39"></li>
+                        <li data-address="page40" data-page="40"></li>
+                        <li data-address="page41" data-page="41"></li>
+                        <li data-address="page42" data-page="42"></li>
+                        <li data-address="page43" data-page="43"></li>
+                        <li data-address="page44" data-page="44"></li>
+                        <li data-address="page45" data-page="45"></li>
+                        <li data-address="page46" data-page="46"></li>
+                        <li data-address="page47" data-page="47"></li>
+                        <li data-address="page48" data-page="48"></li>
+                        <li data-address="page49" data-page="49"></li>
+                        <li data-address="page50" data-page="50"></li>
+                        <li data-address="page51" data-page="51"></li>
+                        <li data-address="page52" data-page="52"></li>
+                        <li data-address="page53" data-page="53"></li>
+                        <li data-address="page54" data-page="54"></li>
+                        <li data-address="page55" data-page="55"></li>
+                        <li data-address="page56" data-page="56"></li>
+                        <li data-address="page57" data-page="57"></li>
+                        <li data-address="page50" data-page="50"></li>
+                        <li data-address="page58" data-page="58"></li>
+                        <li data-address="page59" data-page="59"></li>
+                        <li data-address="page60" data-page="60"></li>
+                        <li data-address="page61" data-page="61"></li>
+                        <li data-address="page62" data-page="62"></li>
+                        <li data-address="page63" data-page="63"></li>
+                        <li data-address="page64" data-page="64"></li>
+                        <li data-address="page65" data-page="65"></li>
+                        <li data-address="page66" data-page="66"></li>
+                        <li data-address="page67" data-page="67"></li>
+                        <li data-address="page68" data-page="68"></li>
+                        <li data-address="page69" data-page="69"></li>
+                        <li data-address="page70" data-page="70"></li>
+                        <li data-address="page71" data-page="71"></li>
+                        <li data-address="page72" data-page="72"></li>
+                        <li data-address="page73" data-page="73"></li>
+                        <li data-address="page74" data-page="74"></li>
+                        <li data-address="page75" data-page="75"></li>
+                        <li data-address="page76" data-page="76"></li>
+                        <li data-address="page77" data-page="77"></li>
+                        <li data-address="page78" data-page="78"></li>
+                        <li data-address="page79" data-page="79"></li>
+                        <li data-address="page80" data-page="80"></li>
+                        <li data-address="page81" data-page="81"></li>
+                        <li data-address="page82" data-page="82"></li>
+                        <li data-address="page83" data-page="83"></li>
+                        <li data-address="page84" data-page="84"></li>
+                        <li data-address="page85" data-page="85"></li>
+                        <li data-address="page86" data-page="86"></li>
+                        <li data-address="page87" data-page="87"></li>
+                        <li data-address="page88" data-page="88"></li>
+                        <li data-address="page89" data-page="89"></li>
+                        <li data-address="page90" data-page="90"></li>
+                        <li data-address="page91" data-page="91"></li>
+                        <li data-address="page92" data-page="92"></li>
+                        <li data-address="page93" data-page="93"></li>
+                        <li data-address="page94" data-page="94"></li>
+                        <li data-address="page95" data-page="95"></li>
+                        <li data-address="page96" data-page="96"></li>
+                        <li data-address="page97" data-page="97"></li>
+                        <li data-address="page98" data-page="98"></li>
+                        <li data-address="page99" data-page="99"></li>
+                        <li data-address="page100" data-page="100"></li>
+                        <li data-address="page101" data-page="101"></li>
+                        <li data-address="page102" data-page="102"></li>
+                        <li data-address="page103" data-page="103"></li>
+                        <li data-address="page104" data-page="104"></li>
+                        <li data-address="page105" data-page="105"></li>
+                        <li data-address="page106" data-page="106"></li>
+                        <li data-address="page107" data-page="107"></li>
+                        <li data-address="page108" data-page="108"></li>
+                        <li data-address="page109" data-page="109"></li>
+                        <li data-address="page110" data-page="110"></li>
+                        <li data-address="page111" data-page="111"></li>
+                        <li data-address="page112" data-page="112"></li>
+                        <li data-address="page113" data-page="113"></li>
+                        <li data-address="page114" data-page="114"></li>
+                        <li data-address="page115" data-page="115"></li>
+                        <li data-address="page116" data-page="116"></li>
+                        <li data-address="page117" data-page="117"></li>
+                        <li data-address="page118" data-page="118"></li>
+                        <li data-address="page119" data-page="119"></li>
+                        <li data-address="page120" data-page="120"></li>
                     </ul>
                 </section>
                 <!-- END deep linking -->
@@ -131,7 +220,7 @@
 
                 <!-- BEGIN PAGES -->
                 <div id="fb5-book">
-                    @for ($i = 1; $i <= 37; $i++)
+                    @for ($i = 1; $i <= 152; $i++)
                         @include('pages.' . $i, ['page' => $i])
                     @endfor
                 </div>

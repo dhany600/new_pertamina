@@ -22,7 +22,7 @@
                         <div class="page-body">
                             <div class="flex-container mb-size-3">
                                 <div class="flex-item-container left-content-area display-flex-column">
-                                    <p class="people-name font-size-2 font-bold color-red mb-size-1 line-height-size-1">
+                                    <p class="people-name font-size-2 font-bold color-red mb-size-1 line-height-size-1 font-roboto-condensed">
                                         Imam Sunarto
                                     </p>
                                     <p class="people-job font-size-1 color-grey">
@@ -31,7 +31,7 @@
                                     </p>
                                     <p class="people-quote font-size-2 font-italic color-blue display-flex-column mt-auto">
                                         “Kunci keberhasilan sebuah proyek adalah keterbukaan dalam menerima tantangan.
-
+                                        <br><br>
                                         Sejatinya, tantangan yang akan membuat kita terus maju.”
                                     </p>
                                 </div>
@@ -46,11 +46,11 @@
                                 Imam Sunarto
                             </p>
                             <p class="content-title-text font-size-2 mb-size-2 letter-spacing-2 word-spacing-2">
-                                Komitmen Bukanlah Sebuah Pilihan, Melainkan Sebuah Keharusan
+                                Komitmen Bukanlah Sebuah Pilihan,<br> Melainkan Sebuah Keharusan
                             </p>
                             <div class="flex-container">
                                 <div class="flex-item-container left-content-area">
-                                    <p class="content-text font-size-1 word-spacing-2">
+                                    <p class="content-text font-size-1 letter-spacing-2">
                                         “Siapa yang tidak sanggup untuk menjalankan tanggung jawab besar ini, silakan
                                         menyerah sebelum memulai.” Sebuah pernyataan yang berani dan tantangan baru
                                         telah diberikan kepada tiap individu pelopor Early Work dari RDMP RU V

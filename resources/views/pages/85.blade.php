@@ -85,7 +85,7 @@
                                     </p>
                                 </div>
                                 <div class="flex-item-container right-content-area">
-                                    <p class="content-text font-size-1 letter-spacing-2 word-spacing-2">
+                                    <p class="content-text font-size-1 letter-spacing-1 word-spacing-2">
                                         Menjadi seorang pemimpin merupakan pekerjaan yang tidak mudah, terlebih dalam
                                         sebuah mega proyek. Kemampuan manajerial serta leadership sangat menjadi dasar
                                         utama yang perlu dikombinasikan dengan seksama agar dapat memperoleh hasil yang

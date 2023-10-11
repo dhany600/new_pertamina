@@ -9,13 +9,6 @@ body {
 .header-odd {
   flex-direction: row-reverse;
 }
-p {
-  margin-bottom: 0 !important;
-  hyphens: auto !important;
-}
-.page-content {
-  hyphens: auto !important;
-}
 .main {
   width: 100%;
   height: 100%;
@@ -24,6 +17,9 @@ p {
   background-repeat: unset;
   padding-right: 70px;
   padding-left: 56px;
+  background-position: bottom !important;
+  background-repeat-y: no-repeat !important;
+  background-size: 58px !important;
 }
 .main .image-background {
   z-index: 0;
@@ -53,14 +49,15 @@ p {
   border-bottom: 1px solid #000 !important;
 }
 .main .page-container .page-header .page-number {
-  font-size: 8px !important;
-  color: #000 !important;
+  font-size: 10px !important;
+  color: #000;
   margin-bottom: 0 !important;
+  font-weight: 500 !important;
 }
 .main .page-container .page-header .page-header-title {
-  font-size: 10px !important;
+  font-size: 8px !important;
   color: #000 !important;
-  margin-bottom: 5px !important;
+  margin-bottom: 8px !important;
 }
 .main .page-container .page-body .page-title {
   font-size: 11px;
@@ -133,7 +130,7 @@ p {
 }
 .main.page-template-1 .page-container .page-body h1.page-title {
   font-size: 44px !important;
-  font-weight: 700;
+  font-weight: 600 !important;
   color: #fff;
   line-height: 128% !important;
 }
@@ -322,11 +319,14 @@ p {
   padding-bottom: 56px !important;
   padding-right: 56px !important;
   width: 50% !important;
-  height: 85% !important;
+  height: 90% !important;
   background: #0075be !important;
   background: linear-gradient(0deg, #0075be 0%, rgba(0, 117, 190, 0.5) 50%, rgba(0, 117, 190, 0.03) 100%) !important;
+  display: flex !important;
+  flex-direction: column;
 }
 .page-template-5 .flex-item-container .item-container .content-text {
+  margin-top: auto !important;
   font-size: 11px !important;
   line-height: 128% !important;
   color: #fff;
@@ -694,17 +694,15 @@ p {
   font-size: 24px !important;
   line-height: 108% !important;
   color: #e0393d !important;
-  font-weight: 600 !important;
+  font-weight: 700 !important;
   padding-top: 10px !important;
 }
 .page-template-19 .page-container .page-body .flex-item-area .left-item-area .item-container .content-text,
 .page-template-19 .page-container .page-body .flex-item-area .right-item-area .item-container .content-text {
-  padding-top: 11px !important;
+  padding-top: 10px !important;
   font-size: 10.6px !important;
   line-height: 128% !important;
   text-align: justify !important;
-  letter-spacing: -0.8px !important;
-  word-spacing: -0.3px !important;
 }
 .page-template-19 .page-container .page-body .content-text-bottom {
   padding-top: 20px !important;
@@ -1228,55 +1226,6 @@ p {
 .page-template-31 .page-container p {
   line-height: 128% !important;
 }
-.page-template-31 .page-container .mb-size-1 {
-  margin-bottom: 9.5px !important;
-}
-.page-template-31 .page-container .mb-size-1-2 {
-  margin-bottom: 15px !important;
-}
-.page-template-31 .page-container .mb-size-2 {
-  margin-bottom: 20px !important;
-}
-.page-template-31 .page-container .mb-size-3 {
-  margin-bottom: 30px !important;
-}
-.page-template-31 .page-container .font-bold {
-  font-weight: 800 !important;
-}
-.page-template-31 .page-container .font-semibold {
-  font-weight: 600 !important;
-}
-.page-template-31 .page-container .font-size-1 {
-  font-size: 11px !important;
-}
-.page-template-31 .page-container .font-size-1-2 {
-  font-size: 14px !important;
-}
-.page-template-31 .page-container .font-size-2 {
-  font-size: 16px !important;
-}
-.page-template-31 .page-container .font-size-3 {
-  font-size: 24px !important;
-}
-.page-template-31 .page-container .color-red {
-  color: red !important;
-}
-.page-template-31 .page-container .color-grey {
-  color: #626366 !important;
-}
-.page-template-31 .page-container .color-blue {
-  color: #0075be !important;
-}
-.page-template-31 .page-container .mt-auto {
-  margin-top: auto !important;
-}
-.page-template-31 .page-container .display-flex-column {
-  display: flex !important;
-  flex-direction: column !important;
-}
-.page-template-31 .page-container .font-italic {
-  font-style: italic !important;
-}
 .page-template-31 .page-container .page-body .flex-container {
   display: flex !important;
   column-gap: 13px !important;
@@ -1297,21 +1246,99 @@ p {
 .page-template-31 .page-container .page-body .border-bottom-area {
   border-bottom: 1px solid black !important;
 }
-.page-template-31 .page-container .letter-spacing-1 {
+.color-red {
+  color: red !important;
+}
+p {
+  margin-bottom: 0 !important;
+  hyphens: auto !important;
+  font-family: 'Roboto', sans-serif !important;
+}
+.font-color-white {
+  color: #fff !important;
+}
+* {
+  font-family: 'Roboto', sans-serif !important;
+}
+.font-roboto-condensed {
+  font-family: 'Roboto Condensed', sans-serif !important;
+}
+.mb-size-1 {
+  margin-bottom: 9.5px !important;
+}
+.mb-size-1-2 {
+  margin-bottom: 15px !important;
+}
+.mb-size-2 {
+  margin-bottom: 20px !important;
+}
+.mb-size-3 {
+  margin-bottom: 30px !important;
+}
+.font-bold {
+  font-weight: 700 !important;
+}
+.font-semibold {
+  font-weight: 600 !important;
+}
+.font-size-1 {
+  font-size: 11px !important;
+}
+.font-size-1-2 {
+  font-size: 14px !important;
+}
+.font-size-2 {
+  font-size: 16px !important;
+}
+.font-size-3 {
+  font-size: 24px !important;
+}
+.color-grey {
+  color: #626366 !important;
+}
+.color-blue {
+  color: #0075be !important;
+}
+.mt-auto {
+  margin-top: auto !important;
+}
+.display-flex-column {
+  display: flex !important;
+  flex-direction: column !important;
+}
+.font-italic {
+  font-style: italic !important;
+}
+.letter-spacing-0 {
+  letter-spacing: 0 !important;
+}
+.letter-spacing-1 {
   letter-spacing: -0.3px !important;
 }
-.page-template-31 .page-container .letter-spacing-2 {
+.letter-spacing-1-2 {
+  letter-spacing: -0.4px !important;
+}
+.letter-spacing-2 {
   letter-spacing: -0.6px !important;
 }
-.page-template-31 .page-container .line-height-size-1 {
+.line-height-size-1 {
   line-height: 75% !important;
 }
-.page-template-31 .page-container .word-spacing-1 {
+.line-height-normal {
+  line-height: 128% !important;
+}
+.word-spacing-1 {
   word-spacing: -0.3px !important;
 }
-.page-template-31 .page-container .word-spacing-2 {
+.word-spacing-2 {
   word-spacing: -0.6px !important;
 }
-.page-template-31 .page-container .no-hypens {
+.no-hypens {
   hyphens: none !important;
+}
+.page-content {
+  hyphens: auto !important;
+}
+.text-align-justify {
+  text-align: justify !important;
 }

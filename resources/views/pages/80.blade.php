@@ -22,7 +22,7 @@
                         <div class="page-body">
                             <div class="flex-container mb-size-3">
                                 <div class="flex-item-container left-content-area display-flex-column">
-                                    <p class="people-name font-size-2 font-bold color-red mb-size-1 line-height-size-1">
+                                    <p class="people-name font-size-2 font-bold color-red mb-size-1 line-height-size-1 font-roboto-condensed">
                                         Bambang Harimurti
                                     </p>
                                     <p class="people-job font-size-1 color-grey">

@@ -15,7 +15,7 @@
             <div class="main page-template-3">
                 <div class="page-container pt-page">
                     <div class="page-header header-odd">
-                        <p class="page-number">
+                        <p class="page-number color-red">
                             23
                         </p>
                         <div class="page-header-title">

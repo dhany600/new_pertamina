@@ -46,8 +46,8 @@
                             </p>
                             <p class="people-quote font-size-2 font-italic color-blue mb-size-2">
                                 “Pekerjaan Early Work menjadi salah satu amanah yang telah diberikan dan dipegang teguh
-                                oleh Bambang Harimurti. Beliau yang semula berada di bagian operasi pun perlu
-                                beradaptasi ketika mendapat amanah di bagian proyek”
+                                oleh Bambang Harimurti. Beliau yang <br> semula berada di bagian operasi pun perlu
+                                beradaptasi ketika <br> mendapat amanah di bagian proyek”
                             </p>
                             <div class="flex-container">
                                 <div class="flex-item-container left-content-area">

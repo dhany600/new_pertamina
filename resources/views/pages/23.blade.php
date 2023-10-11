@@ -27,7 +27,7 @@
                                 <img src="{{ asset('asset/img/FA_Kilas_Balik.png') }}" alt="" class="content-image">
                             </div>
                             <div class="flex-item-container">
-                                <h1 class="page-title highlight-text-content">
+                                <h1 class="page-title highlight-text-content font-semibold">
                                     Pondasi Proyek Utama
                                 </h1>
                                 <div class="page-content highlight-text-content">

@@ -30,7 +30,7 @@
                                     </p>
                                     <p
                                         class="people-quote font-size-2 font-italic color-blue display-flex-column mt-auto">
-                                        “Kita bukan Superman, kita Super Team. Jadi gunakan semua sumber daya yang ada
+                                        “Kita bukan Superman, kita <br> Super Team. Jadi gunakan <br> semua sumber daya yang ada <br>
                                         untuk mencapai tujuan.”
                                     </p>
                                 </div>
@@ -65,7 +65,7 @@
                                     </p>
                                 </div>
                                 <div class="flex-item-container right-content-area">
-                                    <p class="content-text font-size-1 letter-spacing-2 word-spacing-2">
+                                    <p class="content-text font-size-1 letter-spacing-1 word-spacing-2">
                                         Menurutnya, kerja sama tim yang baik dan penggunaan semua sumber daya secara
                                         maksimal akan membantu mencapai tujuan secara lebih efektif. Selain itu,
                                         pendekatan kepemimpinan beliau yang menginspirasi dan mendukung agar setiap

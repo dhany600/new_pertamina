@@ -12,7 +12,7 @@
                     <div class="main page-template-24">
                         <div class="page-container">
                             <div class="page-header">
-                                <p class="page-number">
+                                <p class="page-number color-red">
                                     15
                                 </p>
                                 <div class="page-header-title">
@@ -22,22 +22,26 @@
                             <div class="page-body">
                                 <div class="flex-item-container mb-element-1">
                                     <div class="left-item-container">
-                                        <p class="content-text highlight-text-content">
-                                            Terima kasih dan apresiasi tertinggi kepada seluruh pihak
-                                            terutama dedikasi para pekerja yang telah berjuang mewujudkan
-                                            keberhasilan Early Work.
-                                            <br> <br>
-                                            Perjalanan Early Work menempuh proses panjang sejak perencanaan
-                                            proyek RDMP RU V Balikpapan. Skala RDMP RU V Balikpapan dengan
-                                            nilai investasi mencapai 7,2 miliar dolar membutuhkan persiapan
-                                            yang lebih komprehensif. Early Work hadir menjadi jawaban dari
-                                            tahapan pertama pekerjaan RDMP RU V Balikpapan yang diharapkan
-                                            akan menciptakan multiplier effect dari segi ekonomi untuk
-                                            Balikpapan dan Kalimantan Timur. Dampak dari proyek ini pun
-                                            mendapat dukungan dari Pemerintah Pusat hingga Pemerintah Daerah
-                                            sehingga memberikan akselerasi terhadap pemberian izin untuk
-                                            pelaksanaan proyek Early Work.
-                                        </p>
+                                        <div class="content-text">
+                                            <p class="highlight-text-content letter-spacing-0 font-size-1 line-height-normal text-align-justify">
+                                                Terima kasih dan apresiasi tertinggi kepada seluruh pihak
+                                                terutama dedikasi para pekerja yang telah berjuang mewujudkan
+                                                keberhasilan Early Work.
+                                            </p>
+                                            <br>
+                                            <p class="highlight-text-content letter-spacing-0 font-size-1 line-height-normal text-align-justify">
+                                                Perjalanan Early Work menempuh proses panjang sejak perencanaan
+                                                proyek RDMP RU V Balikpapan. Skala RDMP RU V Balikpapan dengan
+                                                nilai investasi mencapai 7,2 miliar dolar membutuhkan persiapan
+                                                yang lebih komprehensif. Early Work hadir menjadi jawaban dari
+                                                tahapan pertama pekerjaan RDMP RU V Balikpapan yang diharapkan
+                                                akan menciptakan multiplier effect dari segi ekonomi untuk
+                                                Balikpapan dan Kalimantan Timur. Dampak dari proyek ini pun
+                                                mendapat dukungan dari Pemerintah Pusat hingga Pemerintah Daerah
+                                                sehingga memberikan akselerasi terhadap pemberian izin untuk
+                                                pelaksanaan proyek Early Work.
+                                            </p>
+                                        </div>
                                     </div>
                                     <div class="right-item-container">
                                         <p class="content-text highlight-text-content">

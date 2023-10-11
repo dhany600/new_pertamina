@@ -22,14 +22,14 @@
                         <div class="page-body">
                             <div class="flex-container mb-size-3">
                                 <div class="flex-item-container left-content-area display-flex-column">
-                                    <p class="people-name font-size-2 font-bold color-red mb-size-1 line-height-size-1">
+                                    <p class="people-name font-size-2 font-bold color-red mb-size-1 line-height-size-1 font-roboto-condensed">
                                         Sabar P. Simatupang
                                     </p>
                                     <p class="people-job font-size-1 color-grey line-height-size-1">
                                         VP Project Control & Quality Assurance
                                     </p>
                                     <p class="people-quote font-size-2 font-italic color-blue display-flex-column mt-auto">
-                                        “Selama mengikuti proyek ini sejak tahun 2016, saya selalu percaya kepada Tuhan, With God Nothing is Impossible.”
+                                        “Selama mengikuti proyek ini <br> sejak tahun 2016, saya selalu <br> percaya kepada Tuhan, With  <br> God Nothing is Impossible.”
                                     </p>
                                 </div>
                                 <div class="flex-item-container right-content-area">

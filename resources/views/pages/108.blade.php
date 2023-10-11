@@ -32,7 +32,7 @@
                                         <img src="{{ asset('asset/img/Tri Wiyarso.jpg') }}" alt="" class="content-image">
                                     </div>
                                     <p
-                                        class="people-quote font-size-1-2 font-italic color-blue display-flex-column letter-spacing-2 word-spacing-2">
+                                        class="people-quote font-size-1-2 font-italic color-blue display-flex-column letter-spacing-2 word-spacing-2 font-roboto-condensed font-semibold">
                                         “Menyambut tantangan sebagai kawan,
                                         dengan menjaga pola komunikasi yang baik”
                                     </p>

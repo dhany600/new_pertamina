@@ -24,7 +24,7 @@
                             </div>
                         </div>
                         <div class="page-body">
-                            <h1 class="page-title highlight-text-content width-66-percent">
+                            <h1 class="page-title highlight-text-content width-66-percent font-semibold">
                                 Kata Mereka <br> Tentang Early Work
                             </h1>
                         </div>

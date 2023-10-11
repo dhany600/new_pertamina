@@ -13,7 +13,7 @@
                 <img src="{{ asset('asset/img/Djoko Koen Soewito1.jpg') }}" alt="" class="background-image">
                 <div class="gradient-red-background"></div>
                 <div class="page-container">
-                    <div class="page-header">
+                    <div class="page-header header-odd">
                         <p class="page-number">
                             14
                         </p>
@@ -22,7 +22,7 @@
                         </div>
                     </div>
                     <div class="page-body">
-                        <h1 class="page-title highlight-text-content">
+                        <h1 class="page-title highlight-text-content font-roboto-condensed">
                             Djoko Koen Soewito
                         </h1>
                         <p class="page-title-job highlight-text-content">

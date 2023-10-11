@@ -22,8 +22,8 @@
                             </div>
                         </div>
                         <div class="page-body">
-                            <h1 class="page-title highlight-text-content">
-                                Pengantar Direksi
+                            <h1 class="page-title highlight-text-content font-roboto-condensed">
+                                Kadek Ambara Jaya
                             </h1>
                             <p class="page-title-job highlight-text-content">
                                 Direktur Proyek Infrastruktur PT KPI

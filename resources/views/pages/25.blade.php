@@ -15,7 +15,7 @@
                 <div class="main page-template-4">
                     <div class="page-container">
                         <div class="page-header">
-                            <p class="page-number">
+                            <p class="page-number color-red">
                                 24
                             </p>
                             <div class="page-header-title">

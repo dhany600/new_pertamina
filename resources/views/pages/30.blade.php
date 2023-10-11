@@ -28,50 +28,58 @@
                             </div>
                             <div class="flex-item-container">
                                 <div class="text-container">
-                                    <p class="content-text highlight-text-content">
-                                        Lebih lanjut, pada saat proses pembangunan Jetty Construction,
-                                        kendala tidak hanya datang dari
-                                        daratan melainkan dalam sisi laut pun muncul yang mana
-                                        memerlukan proses menjangkau dasar laut
-                                        sedalam 210 meter. Seiring berjalannya waktu, ternyata dalam
-                                        proses penanaman pancang untuk
-                                        jembatan mengalami hambatan sebab ditemukannya rel kereta api
-                                        yang ternyata dibuang di dalam
-                                        dasar laut oleh para pendahulu. Penemuan unforeseen tersebut
-                                        menyebabkan penanaman pancang Jetty
-                                        Construction tidak bisa terpasang dengan sempurna.
-                                        <br> <br>
-                                        Proses pemancangan untuk jembatan Jetty Construction cukup
-                                        memakan waktu yang panjang karena
-                                        faktor unforeseen. Dengan sigap, tim Pertamina berkoordinasi dan
-                                        bekerjasama dengan regu
-                                        penyelam untuk mengangkat material yang menghambat proses
-                                        penanaman pancang.
-                                    </p>
+                                    <div class="content-text highlight-text-content">
+                                        <p class="highlight-text-content font-size-1 line-height-normal text-align-justify letter-spacing-0">
+                                            Lebih lanjut, pada saat proses pembangunan Jetty Construction,
+                                            kendala tidak hanya datang dari
+                                            daratan melainkan dalam sisi laut pun muncul yang mana
+                                            memerlukan proses menjangkau dasar laut
+                                            sedalam 210 meter. Seiring berjalannya waktu, ternyata dalam
+                                            proses penanaman pancang untuk
+                                            jembatan mengalami hambatan sebab ditemukannya rel kereta api
+                                            yang ternyata dibuang di dalam
+                                            dasar laut oleh para pendahulu. Penemuan unforeseen tersebut
+                                            menyebabkan penanaman pancang Jetty
+                                            Construction tidak bisa terpasang dengan sempurna.
+                                        </p>
+                                        <br>
+                                        <p class="highlight-text-content font-size-1 line-height-normal text-align-justify letter-spacing-0">
+                                            Proses pemancangan untuk jembatan Jetty Construction cukup
+                                            memakan waktu yang panjang karena
+                                            faktor unforeseen. Dengan sigap, tim Pertamina berkoordinasi dan
+                                            bekerjasama dengan regu
+                                            penyelam untuk mengangkat material yang menghambat proses
+                                            penanaman pancang.
+                                        </p>
+                                    </div>
                                 </div>
                                 <div class="text-container">
-                                    <p class="content-text special-spacing-case highlight-text-content">
-                                        Pekerjaan untuk mengangkat unforeseen tersebut tidak bisa
-                                        langsung diseksekusi karena
-                                        membutuhkan pembersihan menggunakan kompresor dan crane.
-                                        <br> <br>
-                                        Unforeseen lainnya, yakni adanya bangkai kapal, plat besi hingga
-                                        bangkai tank yang berada di
-                                        dasar laut juga menghambat proses pemancangan. Guna mengatasi
-                                        hal ini, maka dredging menjadi
-                                        tidak terhindarkan. Regu penyelam kembali diturunkan untuk
-                                        mengecek sedalam 20 meter dari
-                                        permukaan laut untuk melihat hambatan yang menghalangi di
-                                        sekitar pemasangan alat pemancang.
-                                        Hambatan tidak terduga yang cukup mengejutkan di saat regu
-                                        penyelam mencari titik
-                                        permasalahan adalah kemunculan hewan se-
-                                        perti buaya muara yang menghalangi proses pencarian titik.
-                                        Beberapa cara pun dikerahkan agar
-                                        proses pemancangan berjalan dengan lancar, seperti penggunaan
-                                        crawler untuk memungut
-                                        unforeseen yang berada di dasar laut.
-                                    </p>
+                                    <div class="content-text special-spacing-case">
+                                        <p class="highlight-text-content font-size-1 line-height-normal text-align-justify letter-spacing-0">
+                                            Pekerjaan untuk mengangkat unforeseen tersebut tidak bisa
+                                            langsung diseksekusi karena
+                                            membutuhkan pembersihan menggunakan kompresor dan crane.
+                                        </p>
+                                        <br>
+                                        <p class="highlight-text-content font-size-1 line-height-normal text-align-justify letter-spacing-1">
+                                            Unforeseen lainnya, yakni adanya bangkai kapal, plat besi hingga
+                                            bangkai tank yang berada di
+                                            dasar laut juga menghambat proses pemancangan. Guna mengatasi
+                                            hal ini, maka dredging menjadi
+                                            tidak terhindarkan. Regu penyelam kembali diturunkan untuk
+                                            mengecek sedalam 20 meter dari
+                                            permukaan laut untuk melihat hambatan yang menghalangi di
+                                            sekitar pemasangan alat pemancang.
+                                            Hambatan tidak terduga yang cukup mengejutkan di saat regu
+                                            penyelam mencari titik
+                                            permasalahan adalah kemunculan hewan se-
+                                            perti buaya muara yang menghalangi proses pencarian titik.
+                                            Beberapa cara pun dikerahkan agar
+                                            proses pemancangan berjalan dengan lancar, seperti penggunaan
+                                            crawler untuk memungut
+                                            unforeseen yang berada di dasar laut.
+                                        </p>
+                                    </div>
                                 </div>
                             </div>
                         </div>

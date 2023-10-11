@@ -14,7 +14,7 @@
         <div class="fb5-page-book">
             <div class="main page-template-26">
                 <div class="page-container">
-                    <div class="page-header">
+                    <div class="page-header header-odd">
                         <p class="page-number">
                             18
                         </p>

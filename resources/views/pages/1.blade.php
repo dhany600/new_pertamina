@@ -20,11 +20,11 @@
                         </p>
                     </div>
                     <div class="page-body">
-                        <h1 class="page-title highlight-text-content">
+                        <h1 class="page-title highlight-text-content font-roboto-condensed">
                             Pertamina Siap Wujudkan Kemandirian Energi
                         </h1>
                         <div class="flex-item-container">
-                            <p class="content-text left-area highlight-text-content">
+                            <p class="content-text left-area">
                                 Kebutuhan energi untuk menunjang kegiatan perekonomian nasional
                                 terus mengalami peningkatan setiap tahun. Sebagai upaya dalam
                                 pemenuhan kebutuhan energi tersebut serta mewujudkan ketahanan dan
@@ -34,11 +34,11 @@
                                 proyek strategis yang dilaksanakan untuk meningkatkan pertumbuhan
                                 ekonomi, kesejahteraan masyarakat dan pemerataan pembangunan.
                             </p>
-                            <p class="content-text highlight-text-content">
+                            <p class="content-text">
                                 Salah satu PSN di bidang energi adalah pengembangan produksi kilang
                                 minyak yang dilaksanakan oleh PT Kilang Pertamina Balikpapan, anak
                                 Perusahaan dari PT Kilang Pertamina Internasional yang merupakan
-                                Subholding Refining & Petrochemical PT Pertamina (Persero) melalui
+                                <i>Subholding Refining & Petrochemical</i> PT Pertamina (Persero) melalui
                                 Refinery Deve-
                                 lopment Master Plan (RDMP) RU V Balikpapan.
                             </p>

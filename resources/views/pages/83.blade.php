@@ -22,7 +22,7 @@
                         <div class="page-body">
                             <div class="flex-container mb-size-2">
                                 <div class="flex-item-container left-content-area">
-                                    <p class="content-text font-size-1 letter-spacing-1 word-spacing-2">
+                                    <p class="content-text font-size-1">
                                         Terlebih dengan keberadaan Early Work yang berdekatan dengan lingkungan hidup
                                         masyarakat sekitar kilang. Proses perizinan serta demolish lahan selama
                                         pekerjaan
@@ -38,7 +38,7 @@
                                     </p>
                                 </div>
                                 <div class="flex-item-container right-content-area">
-                                    <p class="content-text font-size-1 letter-spacing-2 word-spacing-2">
+                                    <p class="content-text font-size-1">
                                         lahan juga menjadi tolok ukur atas keberlangsungan sebuah proyek. Tak hanya luas
                                         lahan, tapi juga mengenai biaya operasional
                                         serta kesiapan sumber daya manusia.
@@ -67,7 +67,7 @@
                             </p>
                             <div class="flex-container">
                                 <div class="flex-item-container left-content-area">
-                                    <p class="content-text font-size-1 word-spacing-2">
+                                    <p class="content-text font-size-1">
                                         Tanggung jawab dalam proses pengerjaan, baik tahap awal perencanaan, eksekusi,
                                         hingga finishing tentunya menjadi hal yang luar biasa bagi beliau. Bersinergi di
                                         setiap momentum yang tak terduga membuat beliau terbiasa dengan membaca

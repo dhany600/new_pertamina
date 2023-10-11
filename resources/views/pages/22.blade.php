@@ -15,7 +15,7 @@
             <div class="main page-template-1">
                 <img src="{{ asset('asset/img/Kilas Balik_Divider.jpg') }}  " alt="" class="image-background">
                 <div class="page-container">
-                    <div class="page-header">
+                    <div class="page-header header-odd">
                         <p class="page-number">
                             21
                         </p>

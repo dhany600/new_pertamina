@@ -10,10 +10,10 @@
     <title>Kaleidoskop Pertamina</title>
 
     <!-- add css style -->
+    <link type="text/css" href="{{ asset('asset/css/font-awesome.min.css') }}" rel="stylesheet">
     <link type="text/css" href="{{ asset('asset/css/style.css') }}" rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Play:400,700">
-    <link type="text/css" href="{{ asset('asset/css/font-awesome.min.css') }}" rel="stylesheet">
-    <link type="text/css" href="{{ asset('asset/css/main.css') }}" rel="stylesheet">
+    {{-- <link type="text/css" href="{{ asset('asset/css/main.css') }}" rel="stylesheet"> --}}
 
     <!-- add js code -->
     <script src="{{ asset('asset/js/jquery.js') }}"></script>

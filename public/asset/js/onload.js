@@ -24,138 +24,155 @@
     var text_to_voices = [
         // page 1
         [
-            `Kata Mereka Tentang Early Work`,
+            `Pertamina Siap Wujudkan Kemandirian Energi`,
+            `Kebutuhan energi untuk menunjang kegiatan
+            perekonomian nasional terus mengalami
+            peningkatan setiap tahun. Sebagai upaya dalam
+            pemenuhan kebutuhan energi tersebut serta
+            mewujudkan ketahanan dan kemandirian energi
+            negeri, Pemerintah melalui Komite Percepa
+            tan Penyediaan Infrastruktur Prioritas (KPPIP)
+            mendorong kegiatan Proyek Strategis Nasional
+            (PSN) agar segera terselesaikan. PSN merupakan
+            proyek strategis yang dilaksanakan untuk mening
+            katkan pertumbuhan ekonomi, kesejahteraan
+            masyarakat dan pemerataan pembangunan.`,
+            `Salah satu PSN di bidang energi adalah
+            pengembangan produksi kilang minyak
+            yang dilaksanakan oleh PT Kilang Pertamina
+            Balikpapan, anak Perusahaan dari PT Kilang
+            Pertamina Internasional yang merupakan
+            Subholding Refining & Petrochemical PT
+            Pertamina (Persero) melalui Refinery Deve
+            lopment Master Plan (RDMP) RU V Balikpapan.`
         ],
         // page 2
         [
-            `Sebagai pekerjaan pendahuluan dengan banyak proyek pembangunan fasilitas pendukung, ter
-            iring tantangan serta hal berkesan yang layak dijadikan pembelajaran.Kumpulan cerita menarik
-            serta pengalaman selama proses pengerjaan proyek Early Work digali secara mendalam.Mari
-            menyelami kisah - kisah pengalaman setiap personil dalam mengerjakan proyek serta sebagai
-            bentuk apresiasi atas kerja keras yang penuh sinergi saat membangun pondasi pada Early Work
-            di Kilang Pertamina RU V Balikpapan.`,
+            `01`,
+            `Refinery Unit (RU) V Balikpapan sebelumnya
+            memiliki kapasitas yang setara dengan 25%
+            dari kapasitas intake nasional dan market
+            share BBM 15,6% skala nasional.`,
+            `02`,
+            `Pemerintah terus mendorong percepatan
+            kegiatan proyek Refinery Development Master
+            Plan (RDMP) Balikpapan dalam upaya mening-
+            katkan kapasitas produksi untuk mendukung
+            kemandirian energi nasional.`,
+            `03`,
+            `Peningkatan kapasitas pengolahan kilang dari
+            260.000 barel menjadi 360.000 barel per hari,
+            sekaligus produk berkualitas Euro II menjadi
+            Euro V.`,
+            `04`,
+            `PT Kilang Pertamina Balikpapan akan men-
+            transformasi kilang dalam empat aspek yakni
+            Crude Flexibility, Profitability, Energy Security,
+            dan Product Quality.`,
+            `05`,
+            `Membangun pondasi dengan kokoh untuk
+            proyek RDMP RU V Balikpapan sejak tahun
+            2016 hingga 2022.`,
+            `Berbekal ambisi serta motivasi yang kuat, PT Kilang Pertamina Balikpapan siap membawa tonggak
+            sejarah serta harapan Indonesia dalam mewujudkan kemandirian energi.`,
         ],
         // page 3
         [
-            `Para Pelopor Early Work`,
+            `Selayang
+            Pandang`,
         ],
         // page 4
         [
-            `Kehadiran Early Work sebagai pekerjaan pendahuluan
-            untuk RDMP RU V Balikpapan melalui serangkaian proses
-            ekstensif, baik dari tahapan inisiasi, perencanaan, hingga
-            pengambilan keputusan. Para pelopor Early Work ber
-            sedia keluar dari zona nyaman di tengah kondisi yang
-            menuntut mereka untuk menguatkan sinergi. Para
-            pelopor ini membangun tim yang agile, fokus dan tang
-            gap dalam menghadapi setiap kendala yang muncul di
-            lapangan hingga proyek Early Work dinyatakan selesai.`,
+            `Dengan penuh sukacita yang luar biasa, PT Kilang Pertamina
+            Internasional mempersembahkan Kaleidoskop Early Work
+            dengan tajuk “Membangun Pondasi Penuh Sinergi, Wujudkan
+            Mimpi Demi Negeri”. Kaleidoskop ini merupakan kumpulan cer-
+            ita dan pengalaman inspiratif dalam berbagai proyek yang telah
+            dilakukan oleh PT Kilang Pertamina Balikpapan.`,
+            `Dalam buku kaleidoskop ini, pembaca bisa belajar sekaligus
+            eksplorasi 14 proyek yang telah selesai dikerjakan oleh PT
+            Kilang Pertamina Balikpapan. 14 proyek ini dilaksanakan pada
+            tahap awal fase eksekusi Proyek RDMP RU V Balikpapan atau
+            yang lebih dikenal sebagai proyek-proyek Early Work. Dengan
+            dilaksanakannya penyiapan lahan dan fasilitas pendukung pada
+            proyek Early Work ini diharapkan sebagai langkah akselerasi
+            penyelesaian proyek utama RDMP. Setiap proyek yang dikerjakan
+            memiliki ceritanya sendiri, tantangan yang dihadapi, keberhasilan
+            yang dicapai, dan pembelajaran berharga yang dapat diambil.`,
+            `Melalui buku kaleidoskop ini, PT Kilang Pertamina Internasional
+            berharap dapat membawa pembaca dalam perjalanan yang
+            mengagumkan melalui perspektif berbagai pihak yang terlibat
+            dalam setiap proyek.Dari pihak manajemen hingga pelaksana
+            teknis yang berdedikasi dalam mewujudkan impian besar tanah
+            air.Setiap individu memberikan kontribusi terbaiknya men -
+            ciptakan dampak positif dalam industri energi dan masyarakat
+            secara luas.`
         ],
         // page 5
         [
-            `Bambang Harimurti, VP Project Management`,
-            `Kita justru berkorban dengan
-            menggusur fasilitas Pertamina
-            sendiri karena lebih memilih untuk
-            mengutamakan masyarakat.`,
-            `Bambang Harimurti`,
-            `Sebuah Pengorbanan Untuk Masyarakat`,
-            `Mega proyek RDMP RU V Balikpapan memiliki
-            keistimewaan tersendiri pada bagian kepemi
-            likan area. Penggunaan lahan proyek yang
-            memang dimiliki oleh Pertamina bertujuan
-            agar dapat meminimalisir dampak negatif ke
-            masyarakat sekitar. Dampak sosial yang akan
-            terlalu besar akibat pemindahan masyarakat
-            tentunya akan sangat merugikan.`,
-            `Oleh sebab itu, Bambang Harimurti, salah se
-            orang pelopor dalam Early Work pada RDMP
-            RU V Balikpapan memilih untuk melakukan
-            penggusuran fasilitas di area kilang sendiri.
-            Penggusuran fasilitas kilang yang meliputi Pe
-            rumahan, Stadion Persiba, hingga Workshop
-            dan Warehouse seluruh kilang. Hal ini dilaku
-            kan sebagai upaya untuk menambah lahan didalam area kilang sendiri yang nantinya dapat
-            digunakan sesuai plot plan dari RDMP RU V
-            Balikpapan. Kemudian, fasilitas pengganti
-            dibangun pada area lain di dalam kilang agar
-            tidak menghambat para pekerja.`,
-            `Pembangunan Apartemen adalah salah satu
-            pengganti dari perumahan Parikesit yang
-            di-demolish demi menambah area plot plan di
-            dalam kilang. Pembangunan fasilitas-fasilitas
-            ini yang kemudian disebut sebagai Early Work
-            dari RDMP RU V Balikpapan, sebuah pekerjaan
-            awal untuk rencana yang lebih besar. Namun,
-            pada prosesnya banyak pendapat masyarakat
-            yang belum mengerti alasan dibalik penger
-            jaan Early Work dan kemudian mencemooh
-            pekerjaan yang dilakukan.`
+            `Kaleidoskop ini juga menampilkan inovasi serta teknologi terkini
+            yang digunakan dalam setiap proyek di fase Early Work ini, serta
+            bagaimana PT Kilang Pertamina Balikpapan terus beradaptasi
+            dengan perubahan lingkungan secara dinamis. Seiring dengan
+            transformasi energi global dan tantangan dalam menjaga
+            keberlanjutan, PT Kilang Pertamina Balikpapan mengambil setiap
+            langkah strategis guna memastikan kelangsungan operasional
+            serta kontribusi dalam menciptakan masa depan kemandirian
+            energi yang lebih baik.`,
+            `Direksi dan Manajemen PT Kilang Internasional serta PT Kilang
+            Pertamina Balikpapan berterima kasih kepada seluruh pihak dan
+            tim yang telah memberikan kontribusi besarnya atas keberhasilan
+            menjalani proyek Early Work dari tahun 2016 ini.`,
+            `Akhir kata, PT Kilang Pertamina Internasional berharap bahwa buku
+            kaleidoskop dengan tajuk “Membangun Pondasi Penuh Sinergi,
+            Wujudkan Mimpi Demi Negeri” ini mampu membawa setiap
+            pembacanya menyelami perjalanan yang mendalam dan memikat
+            melalui jendela proyek - proyek yang menakjubkan di PT Kilang
+            Pertamina Balikpapan.Semoga buku kaleidoskop ini menjadi
+            sebuah sumber inspirasi dan wawasan, serta memperkuat
+            semangat kita dalam menyelesaikan proyek RDMP RU V Balik -
+            papan dengan cita cita mulia menyediakan pasokan energi
+            terbaik ke pelosok negeri serta mewujudkan kemandirian energi.`,
+            `Jakarta, September 2023`
         ],
         // page 6
         [
-            `“Bapak ini mau bangun kilang atau mau bangun
-            apartemen?”, Pertanyaan tersebut terkadang
-            membuat Bambang Harimurti sakit hati. Be
-            liau mengaku bahwa perkataan tersebut
-            muncul karena masyarakat belum memahami
-            strategi Early Work.`,
-            `Meski begitu, beliau lebih memilih untuk tidak
-            larut dalam pemikiran negatif dan terus men
-            jalankan pekerjaan. Bagaimanapun, pekerjaan
-            ini dilakukan untuk mengutamakan kese
-            jahteraan masyarakat sekitar kilang.`,
-            `Bambang Harimurti`,
-            `Menerima dan Memegang Teguh Sebuah Amanah`,
-            `“Pekerjaan Early Work menjadi salah satu amanah yang telah
-            diberikan dan dipegang teguh oleh Bambang Harimurti. Beliau
-            yang semula berada di bagian operasi pun perlu beradaptasi ketika
-            mendapat amanah di bagian proyek”`,
-            `Dengan segala kekurangan dan tantangan yang
-            ada, beliau menerima tugas tersebut demi ke
-            berhasilan RDMP RU V Balikpapan. Meskipun
-            begitu, kekurangan pengalaman serta man
-            power tetap menjadi kendala utama selama
-            memulai pekerjaan Early Work.`,
-            `Dengan segala tantangan yang datang, beli
-            au tetap berpegang teguh dan terus berusaha
-            untuk beradaptasi dengan lingkungan proyek.
-            Keberhasilan pun akhirnya dapat diraih dan terli
-            hat dari setiap proyek.`,
-            `Fasilitas-fasilitas yang dibangun dapat ber
-            operasi secara optimal dan memiliki kuali
-            tas yang baik, tentunya menjadi kebanggaan
-            tersendiri. Beliau menyadari bahwa terdapat
-            kekurangan dari pengalamannya memegang
-            sebuah proyek.`,
-            `Namun, melalui konsistensi serta komitmen
-            yang tinggi, beliau berhasil menghadapi se
-            tiap tantangan yang ada dan dapat menyele
-            saikan setiap pekerjaan dalam Early Work.
-            Meski begitu, beliau tak ingin cepat berpuas diri.`,
-            `Beliau akan lebih puas dan bangga apabila
-            dapat melihat seluruh pekerjaan RDMP RU
-            V Balikpapan telah diselesaikan serta ber-
-            operasi secara normal.`,
-            `Proyek dengan pendanaan masif ini memang
-            akan sangat membanggakan apabila telah
-            berhasil terlaksana.Dari setiap pekerjaan
-            yang telah dilaksanakan oleh beliau, banyak
-            juga pelajaran yang dapat dipetik dan menjadi
-            sebuah acuan untuk proyek di masa depan.`,
-            `Pelajaran yang didapat beliau selama menger -
-            jakan proyek yakni pada bagian perencanaan.
-            Tanpa memiliki perencanaan yang matang
-            dan detail, sebuah proyek akan kesulitan untuk
-            mencapai keberhasilan.`,
-            `Hal ini akan berakibat pada change order yang
-            membuat waktu pengerjaan semakin lama
-            dan menghambat proyek utama yakni RDMP
-            RU V Balikpapan.Sebuah mega proyek yang
-            bertujuan untuk meningkatkan kapasitas serta
-            kualitas kilang dan menjadi salah satu upaya
-            mencapai kemandirian energi di tanah air.`,
-        ]
+            `Kontributor`,
+            `Tidak ada kesuksesan tanpa adanya sinergi berkelanjutan.
+            Seperti halnya kaleidoskop yang merupakan hasil kerja keras
+            dan kolaborasi berbagai pihak, kami mengucapkan terima
+            kasih sebesar-besarnya atas dedikasi, kerja keras, dan semangat
+            kolaboratif yang telah ditunjukkan oleh para kontributor dalam
+            penyusunan buku ini. Semangat para kontributor dalam men-
+            dokumentasikan proyek-proyek Early Work ini diharapkan bisa
+            menyala, membawa energi baru untuk meningkatkan pemahaman
+            dan pengetahuan yang dapat diterapkan dalam proyek-proyek
+            masa depan.`,
+        ],
+        // page 7
+        [
+            `Rohmadi`,
+            `Sr Manager Project Quality
+            Planning, Audit & Assurance`,
+            `Novriandi`,
+            `Sr Engineer II Project Insp.
+            Non Process`,
+            `Rohmat Hidayat`,
+            `Jr Engineer II Project Insp.
+            Non Process`,
+            `Nur Endah Fitriianto`,
+            `Sr Officer I Project Quality &
+            Audit Rep`,
+            `Syarifah Farida Alhabsyi`,
+            `Sr Officer I Project Quality &
+            Audit Rep`,
+            `Whiny Hardiyati Erlina`,
+            `Jr Officer I Quality Management`,
+            `Ibnu Khoirul Fajar`,
+            `Corporate Secretary`,
+            `Andi Pardede`,
+            `Corporate Secretary`
+        ],
     ];
 
 
@@ -1660,37 +1677,7 @@
         },
 
         change_address: function () {
-            var th = this;
-            if (general.browser_firefox()) {
-            }
-            ///for slug
-            var slug = $.address.pathNames()[0];
-            if (th.tmp_slug != undefined && slug != th.tmp_slug) {
-                if (general.browser_firefox()) {
-                }
-                return;
-            }
 
-            th.tmp_slug = slug;
-
-            //normal
-            var address = $.address.pathNames()[$.address.pathNames().length - 1];
-            var results = $('#fb5-deeplinking ul li[data-address=' + address + ']');
-            var nrPage = results.attr('data-page')
-            if (RTL == 'true') {
-                var nrPage = (Book_v5.getLength() + 1) - results.attr('data-page');
-            }
-            //error nr page
-            if (!nrPage) {
-                if (RTL == 'true') {
-                    nrPage = Book_v5.getLength();
-                } else {
-                    nrPage = 1;
-                }
-            }
-
-            $('#fb5-book').turn('page', nrPage);
-            Book_v5.resize_page();
 
         },
 
@@ -2906,6 +2893,38 @@
     }, 500);
 
     Book_v5.change_address = function (page_) {
+        var th = this;
+        if (general.browser_firefox()) {
+        }
+        ///for slug
+        var slug = $.address.pathNames()[0];
+        if (th.tmp_slug != undefined && slug != th.tmp_slug) {
+            if (general.browser_firefox()) {
+            }
+            return;
+        }
+
+        th.tmp_slug = slug;
+
+        //normal
+        var address = $.address.pathNames()[$.address.pathNames().length - 1];
+        var results = $('#fb5-deeplinking ul li[data-address=' + address + ']');
+        var nrPage = results.attr('data-page')
+        if (RTL == 'true') {
+            var nrPage = (Book_v5.getLength() + 1) - results.attr('data-page');
+        }
+        //error nr page
+        if (!nrPage) {
+            if (RTL == 'true') {
+                nrPage = Book_v5.getLength();
+            } else {
+                nrPage = 1;
+            }
+        }
+
+        $('#fb5-book').turn('page', nrPage);
+        Book_v5.resize_page();
+
         if ('speechSynthesis' in window) {
             speechSynthesis.cancel();
             $('.highlight').removeClass('highlight');
@@ -2931,21 +2950,21 @@
 
         paragraphs.forEach(function (element) {
             // if browser chrome and device not mobile
-            // if (navigator.userAgent.indexOf('Chrome') != -1 && !Book_v5.isMobile()) {
-            //     // split the text into several parts, maximum 200 characters and do not cut words
-            //     let text = element;
-            //     var html = [];
-            //     var text_separates = splitSentence(text, 200);
-            //     text_separates.forEach(function (text_separate) {
-            //         html.push(text_separate);
-            //     });
+            if (navigator.userAgent.indexOf('Chrome') != -1 && !Book_v5.isMobile()) {
+                //     // split the text into several parts, maximum 200 characters and do not cut words
+                let text = element;
+                var html = [];
+                var text_separates = splitSentence(text, 200);
+                text_separates.forEach(function (text_separate) {
+                    html.push(text_separate);
+                });
 
-            //     $.each(html, function (index, value) {
-            //         speak(value);
-            //     });
-            // } else {
-            speak(element);
-            // }
+                $.each(html, function (index, value) {
+                    speak(value);
+                });
+            } else {
+                speak(element);
+            }
 
             console.log(element);
 

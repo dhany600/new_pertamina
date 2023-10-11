@@ -1257,9 +1257,7 @@ p {
 .font-color-white {
   color: #fff !important;
 }
-* {
-  font-family: 'Roboto', sans-serif !important;
-}
+
 .font-roboto-condensed {
   font-family: 'Roboto Condensed', sans-serif !important;
 }

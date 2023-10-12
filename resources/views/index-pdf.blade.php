@@ -12,6 +12,7 @@
     <!-- add css style -->
     <link type="text/css" href="{{ asset('asset/css/font-awesome.min.css') }}" rel="stylesheet">
     <link type="text/css" href="{{ asset('asset/css/style.css') }}" rel="stylesheet">
+    <link type="text/css" href="{{ asset('asset/css/awikwok.css') }}" rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Play:400,700">
     {{-- <link type="text/css" href="{{ asset('asset/css/main.css') }}" rel="stylesheet"> --}}
 
@@ -91,6 +92,58 @@
 
                 <!-- BEGIN ABOUT -->
                 <section id="fb5-about">
+                    <div class="book">
+                        <!-- For Next/Prev Controls -->
+                        <input type="checkbox" id="c1">
+                        <input type="checkbox" id="c2">
+                        <input type="checkbox" id="c3">
+                        <!-- Book Cover -->
+                        <div id="cover">
+                        </div>
+                        <!-- Pages -->
+                        <div class="flip-book">
+                            <!-- Page 1 -->
+                            <div class="flip" id="p1">
+                                <div class="back">
+                                    <img src="{{ asset('asset/img/page-1.jpg') }}" alt="">
+                                    <label for="c1" class="back-btn">Before</label>
+                                </div>
+                                <div class="front">
+                                    <h2>Page 1</h2>
+                                    <label for="c1" class="next-btn">NEXT</label>
+                                </div>
+                            </div>
+                            <!-- Page 2 -->
+                            <div class="flip" id="p2">
+                                <div class="back">
+                                    <label for="c2" class="back-btn">Before</label>
+                                </div>
+                                <div class="front">
+                                    <img src="{{ asset('asset/img/page-2.jpg') }}" alt="">
+                                    <label for="c2" class="next-btn">NEXT</label>
+                                </div>
+                            </div>
+                            <!-- Page 3 -->
+                            <div class="flip" id="p3">
+                                <div class="back">
+                                    <label for="c3" class="back-btn">Before</label>
+                                </div>
+                                <div class="front">
+                                    <h2>Page 3</h2>
+                                    <label for="c3" class="next-btn">NEXT</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <script>
+                        // Check if the current URL contains "/cover" when the page loads
+                        window.onload = function () {
+                            if (window.location.pathname.includes("/cover")) {
+                                // If yes, log a message to the console
+                                console.log("URL contains /cover");
+                            }
+                        };
+                    </script>
                 </section>
                 <!-- END ABOUT -->
 
@@ -104,6 +157,8 @@
                 <div id="fb5-book">
                 </div>
                 <!-- END PAGES -->
+                
+                
 
             </div>
             <!-- END CONTAINER BOOK -->

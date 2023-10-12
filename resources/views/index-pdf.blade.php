@@ -67,7 +67,7 @@
                     <li key="lazy_loading_thumbs">true</li> <!-- enabled/disabled lazdy loading for thumbs -->
                     <li key="double_click_enabled">true</li> <!-- enabled/disabled double click mouse for flipbook -->
                     <li key="rtl">false</li> <!-- enabled/disabled 'right to left' for eastern countries -->
-                    <li key="pdf_url">{{ asset('asset/img/11-oktober.pdf') }}</li> <!-- pathway to a pdf file ( the file will be read live ) -->
+                    <li key="pdf_url">{{ asset('asset/img/11-oktober_merged (2)_organized.pdf') }}</li> <!-- pathway to a pdf file ( the file will be read live ) -->
                     <!-- pathway to a pdf file ( the file will be read live ) -->
                     <li key="pdf_scale">2</li>
                     <!-- to live a pdf file (if you want to have a strong zoom - increase the value) -->

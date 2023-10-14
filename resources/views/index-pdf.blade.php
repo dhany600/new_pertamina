@@ -56,8 +56,8 @@
             <!-- CONFIGURATION BOOK -->
             <section id="config">
                 <ul>
-                    <li key="page_width">918</li> <!-- width for page -->
-                    <li key="page_height">1298</li> <!-- height for page -->
+                    <li key="page_width">2018</li> <!-- width for page -->
+                    <li key="page_height">2410</li> <!-- height for page -->
                     <li key="gotopage_width">25</li> <!-- width for field input goto page -->
                     <li key="zoom_double_click">1</li> <!-- value zoom after double click -->
                     <li key="zoom_step">0.06</li> <!-- zoom step ( if click icon zoomIn or zoomOut -->
@@ -70,9 +70,9 @@
                     <li key="rtl">false</li> <!-- enabled/disabled 'right to left' for eastern countries -->
                     <li key="pdf_url">{{ asset('asset/img/11-oktober_merged (2)_organized.pdf') }}</li> <!-- pathway to a pdf file ( the file will be read live ) -->
                     <!-- pathway to a pdf file ( the file will be read live ) -->
-                    <li key="pdf_scale">2</li>
+                    <li key="pdf_scale">4</li>
                     <!-- to live a pdf file (if you want to have a strong zoom - increase the value) -->
-                    <li key="page_mode">auto</li> <!-- value to 'single', 'double', or 'auto' -->
+                    <li key="page_mode">double</li> <!-- value to 'single', 'double', or 'auto' -->
                     <li key="sound_sheet"></li> <!-- sound for sheet -->
                 </ul>
             </section>
@@ -91,59 +91,7 @@
                 <!-- END deep linking -->
 
                 <!-- BEGIN ABOUT -->
-                <section id="fb5-about">
-                    <div class="book">
-                        <!-- For Next/Prev Controls -->
-                        <input type="checkbox" id="c1">
-                        <input type="checkbox" id="c2">
-                        <input type="checkbox" id="c3">
-                        <!-- Book Cover -->
-                        <div id="cover">
-                        </div>
-                        <!-- Pages -->
-                        <div class="flip-book">
-                            <!-- Page 1 -->
-                            <div class="flip" id="p1">
-                                <div class="back">
-                                    <img src="{{ asset('asset/img/page-1.jpg') }}" alt="">
-                                    <label for="c1" class="back-btn">Before</label>
-                                </div>
-                                <div class="front">
-                                    <h2>Page 1</h2>
-                                    <label for="c1" class="next-btn">NEXT</label>
-                                </div>
-                            </div>
-                            <!-- Page 2 -->
-                            <div class="flip" id="p2">
-                                <div class="back">
-                                    <label for="c2" class="back-btn">Before</label>
-                                </div>
-                                <div class="front">
-                                    <img src="{{ asset('asset/img/page-2.jpg') }}" alt="">
-                                    <label for="c2" class="next-btn">NEXT</label>
-                                </div>
-                            </div>
-                            <!-- Page 3 -->
-                            <div class="flip" id="p3">
-                                <div class="back">
-                                    <label for="c3" class="back-btn">Before</label>
-                                </div>
-                                <div class="front">
-                                    <h2>Page 3</h2>
-                                    <label for="c3" class="next-btn">NEXT</label>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <script>
-                        // Check if the current URL contains "/cover" when the page loads
-                        window.onload = function () {
-                            if (window.location.pathname.includes("/cover")) {
-                                // If yes, log a message to the console
-                                console.log("URL contains /cover");
-                            }
-                        };
-                    </script>
+                <section id="fb5-about" >
                 </section>
                 <!-- END ABOUT -->
 
@@ -153,6 +101,54 @@
                 </section>
                 <!-- END LINKS -->
 
+                <div class="book" id="page25">
+                    <!-- For Next/Prev Controls -->
+                    <input type="checkbox" id="c1">
+                    <input type="checkbox" id="c2">
+                    <input type="checkbox" id="c3">
+                    <!-- Book Cover -->
+                    <div id="cover">
+                    </div>
+                    <!-- Pages -->
+                    <div class="flip-book">
+                        <!-- Page 1 -->
+                        <div class="flip" id="p1">
+                            <div class="back">
+                                <img src="{{ asset('asset/img/apage-1.jpg') }}" alt="">
+                            </div>
+                            <div class="front">
+                            </div>
+                        </div>
+                        <!-- Page 2 -->
+                        <div class="flip" id="p2">
+                            <div class="inner-page inner-1">
+                                <div class="back">
+                                    <img src="{{ asset('asset/img/apage-2.jpg') }}" alt="">
+                                </div>
+                                <div class="front">
+                                    <img src="{{ asset('asset/img/apage-2.jpg') }}" alt="">
+                                </div>
+                            </div>
+                            <div class="inner-page inner-2">
+                                <div class="back">
+                                    <img src="{{ asset('asset/img/Cakrawala Proyek_Divider.jpg') }}" alt="">
+                                </div>
+                                <div class="front">
+                                    <img src="{{ asset('asset/img/a-page-3.jpg') }}" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Page 3 -->
+                        <div class="flip" id="p3">
+                            <div class="back">
+                                <img src="{{ asset('asset/img/Cakrawala Proyek_Divider.jpg') }}" alt="">
+                            </div>
+                            <div class="front">
+                                {{-- <img src="{{ asset('asset/img/Halaman 21.jpg') }}" alt=""> --}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <!-- BEGIN PAGES -->
                 <div id="fb5-book">
                 </div>

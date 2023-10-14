@@ -1,22 +1,22 @@
 .book {
     display: flex;
-    background-color: red !important;
-    position: fixed !important;
-    top: 10vh;
-    left: 28px;
-    width: 96vw;
-    height: 50vh;
-    z-index: 300;
+    // background-color: red !important;
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    // z-index: 300;
 }
 
 #cover {
     width: 50%;
-    height: 400px;
+    height: 100%;
 }
 
 .flip-book {
     width: 50%;
-    height: 400px;
+    height: 100%;
     position: relative;
     perspective: 1500px;
 }
@@ -32,6 +32,17 @@
     transform: rotateY(0deg);
     transition: .5s;
     color: #000;
+    .inner-page{
+        width: 100%;
+        height: 100%;
+        position: absolute;
+    }
+    .inner-2{
+        transform-origin: right;
+        transform-style: preserve-3d;
+        transform: rotateY(-180deg) translateX(100%);
+        transition: .5s;
+    }
 }
 
 .front {
@@ -44,7 +55,7 @@
     box-sizing: border-box;
     padding: 0 13px;
     img{
-        width: 100%;
+        height: 100%;
     }
 }
 
@@ -88,7 +99,7 @@
 }
 
 #p3 {
-    z-index: 1;
+    z-index: 3;
 }
 
 #c1:checked~.flip-book #p1 {
@@ -98,6 +109,16 @@
 
 #c2:checked~.flip-book #p2 {
     transform: rotateY(-180deg);
+    z-index: 2;
+}
+
+#c1:checked~.flip-book .inner-2{
+    transform: rotateY(0deg) translateX(100%);
+    z-index: 2;
+}
+
+#c2:checked~.flip-book .inner-2{
+    transform: rotateY(-180deg) translateX(100%);
     z-index: 2;
 }
 

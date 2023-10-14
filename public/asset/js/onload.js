@@ -176,7 +176,26 @@
     ];
 
 
+    // page number area // page number area // page number area
+    // page number area // page number area // page number area
+    // page number area // page number area // page number area
+    // page number area // page number area // page number area
+    // page number area // page number area // page number area
+    // page number area // page number area // page number area
+    // page number area // page number area // page number area
 
+    var halamanYangDiakses = 0;
+
+    // Get the current URL
+    const currentUrl = window.location.href;
+
+    // Extract the part after '#ebook/' in the URL
+    const numberPart = currentUrl.split('#ebook/')[1];
+
+    // Convert the extracted part to an integer
+    const pageNumber = parseInt(numberPart);
+
+    halamanYangDiakses = pageNumber;
 
     /* =  event ready
     --------------------------*/
@@ -1659,21 +1678,21 @@
 
 
         },
-
+        // set margin book
         autoMarginB: function () {
-            return Math.round($('#fb5').height() * 0.02)
+            return Math.round($('#fb5').height() * 0.22)
         },
 
         autoMarginT: function () {
-            return Math.round($('#fb5').height() * 0.02)
+            return Math.round($('#fb5').height() * 0.22)
         },
 
         autoMarginL: function () {
-            return Math.round($('#fb5').width() * 0.02)
+            return Math.round($('#fb5').width() * 0.22)
         },
 
         autoMarginR: function () {
-            return Math.round($('#fb5').width() * 0.02)
+            return Math.round($('#fb5').width() * 0.22)
         },
 
         change_address: function () {
@@ -2128,8 +2147,26 @@
                 Book_v5.resize_page()
             });
         },
-
+        
         nextPage: function () {
+            halamanYangDiakses += 2;
+            console.log(halamanYangDiakses);
+            if (halamanYangDiakses == 25) {
+                $('#page25').css('z-index', '209');
+                $('#c1').prop('checked', true);
+                $('#c2').prop('checked', false);
+                $('#c3').prop('checked', false);
+            } else if (halamanYangDiakses == 27) {
+                $('#c1').prop('checked', true);
+                $('#c2').prop('checked', true);
+                $('#c3').prop('checked', true);
+            } else if (halamanYangDiakses == 29) {
+                $('#page25').css('z-index', '11');
+                $('#c1').prop('checked', true);
+                $('#c2').prop('checked', true);
+                $('#c3').prop('checked', true);
+            }
+            
 
             $('#fb5-book').turn('next');
             /*
@@ -2151,9 +2188,26 @@
         },
 
         prevPage: function () {
+            halamanYangDiakses -= 2;
+            console.log(halamanYangDiakses);
+            if (halamanYangDiakses == 27) {
+                $('#page25').css('z-index', '209');
+                $('#c1').prop('checked', true);
+                $('#c2').prop('checked', true);
+                $('#c3').prop('checked', true);
+            } else if (halamanYangDiakses == 25) {
+                $('#c1').prop('checked', true);
+                $('#c2').prop('checked', false);
+                $('#c3').prop('checked', false);
+            } else if (halamanYangDiakses == 23) {
+                $('#page25').css('z-index', '11');
+                $('#c1').prop('checked', false);
+                $('#c2').prop('checked', false);
+                $('#c3').prop('checked', false);
+            }
 
             $('#fb5-book').turn('previous');
-
+            // $('#c2').click();
             /*
             var current=$('#fb5-book').turn('page');
             if(current==1) {return;}

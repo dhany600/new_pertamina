@@ -2161,7 +2161,7 @@
                 $('#c2').prop('checked', true);
                 $('#c3').prop('checked', true);
             } else if (halamanYangDiakses == 29) {
-                $('#page25').css('z-index', '11');
+                $('#page25').css('z-index', '1');
                 $('#c1').prop('checked', true);
                 $('#c2').prop('checked', true);
                 $('#c3').prop('checked', true);
@@ -2200,7 +2200,7 @@
                 $('#c2').prop('checked', false);
                 $('#c3').prop('checked', false);
             } else if (halamanYangDiakses == 23) {
-                $('#page25').css('z-index', '11');
+                $('#page25').css('z-index', '1');
                 $('#c1').prop('checked', false);
                 $('#c2').prop('checked', false);
                 $('#c3').prop('checked', false);

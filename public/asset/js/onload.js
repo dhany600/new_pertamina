@@ -184,7 +184,7 @@
     // page number area // page number area // page number area
     // page number area // page number area // page number area
 
-    var halamanYangDiakses = 0;
+    let halamanYangDiakses = 1;
 
     // Get the current URL
     const currentUrl = window.location.href;
@@ -195,7 +195,11 @@
     // Convert the extracted part to an integer
     const pageNumber = parseInt(numberPart);
 
-    halamanYangDiakses = pageNumber;
+    const pageNumberCheck = !isNaN(pageNumber);
+
+    if (pageNumberCheck) {
+        halamanYangDiakses = pageNumber;
+    }
 
     /* =  event ready
     --------------------------*/

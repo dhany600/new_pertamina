@@ -1248,11 +1248,14 @@ body {
 }
 .turn-page.p24,
 .turn-page.p25,
-.turn-page.p26 {
+.turn-page.p180,
+.turn-page.p181 {
   background-color: transparent !important;
 }
 div#canv24,
-div#canv25 {
+div#canv25,
+div#canv180,
+div#canv181 {
   display: none;
 }
 .color-red {

@@ -2159,17 +2159,19 @@
                 $('#page25').css('z-index', '11');
                 $('#c1').prop('checked', true);
                 $('#c2').prop('checked', false);
-                $('#c3').prop('checked', false);
             } else if (halamanYangDiakses == 27) {
-                $('#c1').prop('checked', true);
-                $('#c2').prop('checked', true);
-                $('#c3').prop('checked', true);
-            } else if (halamanYangDiakses == 29) {
                 $('#page25').css('z-index', '1');
                 $('#c1').prop('checked', true);
                 $('#c2').prop('checked', true);
+            } else if (halamanYangDiakses == 181) {
+                $('#page181').css('z-index', '11');
                 $('#c3').prop('checked', true);
-            }
+                $('#c4').prop('checked', false);
+            } else if (halamanYangDiakses == 183) {
+                $('#page181').css('z-index', '1');
+                $('#c3').prop('checked', true);
+                $('#c4').prop('checked', true);
+            } 
             
 
             $('#fb5-book').turn('next');
@@ -2194,20 +2196,22 @@
         prevPage: function () {
             halamanYangDiakses -= 2;
             console.log(halamanYangDiakses);
-            if (halamanYangDiakses == 27) {
+            if (halamanYangDiakses == 25) {
                 $('#page25').css('z-index', '11');
                 $('#c1').prop('checked', true);
-                $('#c2').prop('checked', true);
-                $('#c3').prop('checked', true);
-            } else if (halamanYangDiakses == 25) {
-                $('#c1').prop('checked', true);
                 $('#c2').prop('checked', false);
-                $('#c3').prop('checked', false);
             } else if (halamanYangDiakses == 23) {
-                $('#page25').css('z-index', '1');
+                $('#page25').css('z-index', '2');
                 $('#c1').prop('checked', false);
                 $('#c2').prop('checked', false);
+            } else if (halamanYangDiakses == 181) {
+                $('#page181').css('z-index', '11');
+                $('#c3').prop('checked', true);
+                $('#c4').prop('checked', false);
+            } else if (halamanYangDiakses == 179) {
+                $('#page181').css('z-index', '1');
                 $('#c3').prop('checked', false);
+                $('#c4').prop('checked', false);
             }
 
             $('#fb5-book').turn('previous');

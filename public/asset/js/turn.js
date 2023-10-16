@@ -872,7 +872,7 @@ turnMethods = {
 	},
 	
 	// Turns to a page
-
+	// untuk akses halaman lewat input
 	_turnPage: function(page) {
 
 		var current, next,

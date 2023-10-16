@@ -105,7 +105,6 @@
                     <!-- For Next/Prev Controls -->
                     <input type="checkbox" id="c1">
                     <input type="checkbox" id="c2">
-                    <input type="checkbox" id="c3">
                     <!-- Book Cover -->
                     <div id="cover">
                     </div>
@@ -138,13 +137,42 @@
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+
+                <div class="book" id="page181">
+                    <input type="checkbox" id="c3">
+                    <input type="checkbox" id="c4">
+                    <!-- Book Cover -->
+                    <div id="cover">
+                    </div>
+                    <!-- Pages -->
+                    <div class="flip-book">
                         <!-- Page 3 -->
                         <div class="flip" id="p3">
                             <div class="back">
-                                <img src="{{ asset('asset/img/Halaman 21.jpg') }}" alt="">
+                                <img src="{{ asset('asset/img/triplet-1.jpg') }}" alt="">
                             </div>
                             <div class="front">
-                                {{-- <img src="{{ asset('asset/img/Halaman 21.jpg') }}" alt=""> --}}
+                            </div>
+                        </div>
+                        <!-- Page 4 -->
+                        <div class="flip" id="p4">
+                            <div class="inner-page inner-1">
+                                <div class="back">
+                                    <img src="{{ asset('asset/img/triplet-2.jpg') }}" alt="">
+                                </div>
+                                <div class="front">
+                                    <img src="{{ asset('asset/img/triplet-2.jpg') }}" alt="">
+                                </div>
+                            </div>
+                            <div class="inner-page inner-4">
+                                <div class="back">
+                                    <img src="{{ asset('asset/img/cover-page-177-1.jpg') }}" alt="">
+                                </div>
+                                <div class="front">
+                                    <img src="{{ asset('asset/img/triplet-3.jpg') }}" alt="">
+                                </div>
                             </div>
                         </div>
                     </div>

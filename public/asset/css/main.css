@@ -1246,6 +1246,15 @@ body {
 .page-template-31 .page-container .page-body .border-bottom-area {
   border-bottom: 1px solid black !important;
 }
+.turn-page.p24,
+.turn-page.p25,
+.turn-page.p26 {
+  background-color: transparent !important;
+}
+div#canv24,
+div#canv25 {
+  display: none;
+}
 .color-red {
   color: red !important;
 }
@@ -1257,7 +1266,6 @@ p {
 .font-color-white {
   color: #fff !important;
 }
-
 .font-roboto-condensed {
   font-family: 'Roboto Condensed', sans-serif !important;
 }

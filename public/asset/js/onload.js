@@ -2152,7 +2152,7 @@
             halamanYangDiakses += 2;
             console.log(halamanYangDiakses);
             if (halamanYangDiakses == 25) {
-                $('#page25').css('z-index', '209');
+                $('#page25').css('z-index', '211');
                 $('#c1').prop('checked', true);
                 $('#c2').prop('checked', false);
                 $('#c3').prop('checked', false);
@@ -2191,7 +2191,7 @@
             halamanYangDiakses -= 2;
             console.log(halamanYangDiakses);
             if (halamanYangDiakses == 27) {
-                $('#page25').css('z-index', '209');
+                $('#page25').css('z-index', '211');
                 $('#c1').prop('checked', true);
                 $('#c2').prop('checked', true);
                 $('#c3').prop('checked', true);

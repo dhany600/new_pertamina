@@ -2990,21 +2990,21 @@
 
         let current_pages = Book_v5.getCurrentPages();
         let paragraphs = [];
-        if (current_pages.left != null) {
-            if (text_to_voices[current_pages.left - 1] != undefined) {
-                text_to_voices[current_pages.left - 1].forEach(function (element) {
-                    paragraphs.push(element);
-                });
-            }
-        }
+        // if (current_pages.left != null) {
+        //     if (text_to_voices[current_pages.left - 1] != undefined) {
+        //         text_to_voices[current_pages.left - 1].forEach(function (element) {
+        //             paragraphs.push(element);
+        //         });
+        //     }
+        // }
 
-        if (current_pages.right != null) {
-            if (text_to_voices[current_pages.right - 1] != undefined) {
-                text_to_voices[current_pages.right - 1].forEach(function (element) {
-                    paragraphs.push(element);
-                });
-            }
-        }
+        // if (current_pages.right != null) {
+        //     if (text_to_voices[current_pages.right - 1] != undefined) {
+        //         text_to_voices[current_pages.right - 1].forEach(function (element) {
+        //             paragraphs.push(element);
+        //         });
+        //     }
+        // }
 
         paragraphs.forEach(function (element) {
             // if browser chrome and device not mobile

@@ -2156,7 +2156,7 @@
             halamanYangDiakses += 2;
             console.log(halamanYangDiakses);
             if (halamanYangDiakses == 25) {
-                $('#page25').css('z-index', '211');
+                $('#page25').css('z-index', '11');
                 $('#c1').prop('checked', true);
                 $('#c2').prop('checked', false);
                 $('#c3').prop('checked', false);
@@ -2176,15 +2176,15 @@
             /*
             var current=$('#fb5-book').turn('page');
             if( current%2==0){
-               var page=current+2
+            var page=current+2
             }else{
-               var page=current+1
+            var page=current+1
             }
 
             if(RTL=='true'){
-              setPage( new Number(page).rtl() )
+            setPage( new Number(page).rtl() )
             }else{
-              setPage(page);
+            setPage(page);
             }
             /*/
 
@@ -2195,7 +2195,7 @@
             halamanYangDiakses -= 2;
             console.log(halamanYangDiakses);
             if (halamanYangDiakses == 27) {
-                $('#page25').css('z-index', '211');
+                $('#page25').css('z-index', '11');
                 $('#c1').prop('checked', true);
                 $('#c2').prop('checked', true);
                 $('#c3').prop('checked', true);

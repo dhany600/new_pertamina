@@ -68,7 +68,7 @@
                     <li key="lazy_loading_thumbs">true</li> <!-- enabled/disabled lazdy loading for thumbs -->
                     <li key="double_click_enabled">true</li> <!-- enabled/disabled double click mouse for flipbook -->
                     <li key="rtl">false</li> <!-- enabled/disabled 'right to left' for eastern countries -->
-                    <li key="pdf_url">{{ asset('asset/img/11-oktober_merged (2)_organized.pdf') }}</li> <!-- pathway to a pdf file ( the file will be read live ) -->
+                    <li key="pdf_url">{{ asset('asset/img/16okt.pdf') }}</li> <!-- pathway to a pdf file ( the file will be read live ) -->
                     <!-- pathway to a pdf file ( the file will be read live ) -->
                     <li key="pdf_scale">4</li>
                     <!-- to live a pdf file (if you want to have a strong zoom - increase the value) -->
@@ -114,7 +114,7 @@
                         <!-- Page 1 -->
                         <div class="flip" id="p1">
                             <div class="back">
-                                <img src="{{ asset('asset/img/apage-1.jpg') }}" alt="">
+                                <img src="{{ asset('asset/img/image-part-1.jpg') }}" alt="">
                             </div>
                             <div class="front">
                             </div>
@@ -123,10 +123,10 @@
                         <div class="flip" id="p2">
                             <div class="inner-page inner-1">
                                 <div class="back">
-                                    <img src="{{ asset('asset/img/apage-2.jpg') }}" alt="">
+                                    <img src="{{ asset('asset/img/image-part-2.jpg') }}" alt="">
                                 </div>
                                 <div class="front">
-                                    <img src="{{ asset('asset/img/apage-2.jpg') }}" alt="">
+                                    <img src="{{ asset('asset/img/image-part-2.jpg') }}" alt="">
                                 </div>
                             </div>
                             <div class="inner-page inner-2">
@@ -134,14 +134,14 @@
                                     <img src="{{ asset('asset/img/Cakrawala Proyek_Divider.jpg') }}" alt="">
                                 </div>
                                 <div class="front">
-                                    <img src="{{ asset('asset/img/a-page-3.jpg') }}" alt="">
+                                    <img src="{{ asset('asset/img/image-part-3.jpg') }}" alt="">
                                 </div>
                             </div>
                         </div>
                         <!-- Page 3 -->
                         <div class="flip" id="p3">
                             <div class="back">
-                                <img src="{{ asset('asset/img/Cakrawala Proyek_Divider.jpg') }}" alt="">
+                                <img src="{{ asset('asset/img/Halaman 21.jpg') }}" alt="">
                             </div>
                             <div class="front">
                                 {{-- <img src="{{ asset('asset/img/Halaman 21.jpg') }}" alt=""> --}}

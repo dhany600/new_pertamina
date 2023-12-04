@@ -173,6 +173,424 @@
             `Andi Pardede`,
             `Corporate Secretary`
         ],
+        // page 8
+        [
+            `Pengantar Direksi`,
+            `Sinergi antara pemimpin yang selalu menginspirasi dan setiap pekerja yang
+            berdedikasi dalam mencapai kesuksesan penyelesaian 14 proyek Early Work ini.
+            Apresiasi disampaikan oleh para Direksi untuk para pekerja dan segenap pihak 
+            yang terlibat dalam proyek Early Work. Kaleidoskop ini diharapkan dapat menjadi 
+            inspirasi dan memberikan semangat bagi para insan perusahaan untuk berkarya bagi 
+            negeri. Kalimat sambutan dan pengantar yang disampaikan oleh pihak manajemen.`
+        ],
+        // page 9
+        [
+            `Kadek Ambara Jaya`,
+            `Nyalakan Semangat Bersama untuk Masa Depan Pertamina`,
+            `PT Pertamina (Persero) melalui Subholding Refining & Petrochemical, PT Kilang 
+            Pertamina Internasional mendapatkan tanggung jawab besar untuk pengembangan produksi
+            kilang minyak melalui Proyek Strategis Nasional RDMP RU V Balikpapan. Kepercayaan 
+            yang diberikan kepada PT Kilang Pertamina Internasional pun ditindaklanjuti dengan 
+            penunjukan PT Kilang Pertamina Balikpapan sebagai pelaksana proyek yang mendapat dukungan 
+            penuh dari Perusahaan dengan target operasional dapat dirampungkan pada tahun 2024.
+            Akselerasi pun dijalankan melalui pekerjaan pendahuluan Early Work dengan 14 proyek-nya 
+            yang berhasil terselesaikan dengan baik bahkan di tengah pandemi COVID-19. Sebuah pencapaian 
+            dan kinerja terbaik para pekerja untuk proyek Early Work patut mendapatkan apresiasi serta menjadi 
+            kebanggaan bagi PT Kilang Pertamina Internasional. Terselesaikannya Early Work melalui 14 proyek menunjukkan
+            bahwa keandalan dalam manajemen proyek merupakan hal yang krusial dalam pelaksanaan RDMP RU V Balikpapan.
+`
+        ],
+        // page 10
+        [
+            `PT Kilang Pertamina Internasional memonitor, memberikan dukungan sumber daya, berkoordinasi dengan PT
+            Kilang Pertamina Balikpapan secara berkesinambungan. Sinergitas yang telah berjalan dan dibangun terus ditingkatkan
+            mengingat proyek RDMP RU V Balikpapan adalah sebuah proyek dengan nilai investasi dan tanggung jawab terhadap perwujudan
+            ketahanan energi di masa depan. Sejumlah terobosan dilakukan terutama melalui peningkatan kinerja. Tim
+            Kilang Pertamina Balikpapan terus beroperasi dan bekerja secara konsisten melalui berbagai kendala pembatasan COVID-19
+            dan pelaksanaan proyek Early Work yang berada di area kilang eksisting.Kendala pembangunan Early Work
+            tersebut tidak mengerucutkan semangat, namun pada akhirnya menjadi sarana pengembangan kompetensi. Berbagai inovasi
+            yang diimplementasikan pada proyek Early Work berhasil mendapatkan penghargaan dalam Continuous Improvement
+            Program (CIP) Pertamina.Keberhasilan ini kian menguatkan peran Early Work sebagai pondasi RDMP RU
+            V Balikpapan yang mengakomodir fasilitas bagi pekerja melalui pembangunan apartemen serta
+            peningkatan kapasitas produksi melalui berbagai pekerjaan persiapan lahan, relokasi, dan pembangunan infrastruktur seperti
+            fasilitas Jetty untuk pengembangan kilang.Kilang RU V Balikpapan yang menjadi kilang terbesar kedua milik
+            Pertamina di Indonesia ini diproyeksikan akan meningkatkan produksi menjadi 360 ribu barrel per hari dan kualitas produk menjadi Euro 5.`,
+            `Bahu Membahu untuk Terus Memberikan Kontribusi bagi Negeri`,
+            `Mewujudkan kemandirian energi melalui proyek RDMP RU V bukan tugas yang mudah. Namun, PT Kilang Pertamina Internasional 
+            terus  bersinergi, bahu membahu dengan satu tujuan, yakni bekerja memberikan energi positif untuk mencapai tujuan berkelanjutan. 
+            Terselesaikannya proyek Early Work adalah sebuah permulaan yang dapat menjadi pembelajaran berharga.
+            Melalui Kaleidoskop ini, diharapkan insan Pertamina bisa memaknai perjuangan dari rekan PT Kilang Pertamina Balikpapan dan bersama-bersama 
+            menguatkan langkah demi masa depan Pertamina. Seperti Early Work yang ditujukan sebagai pondasi RDMP RU Balikpapan, 
+            mari terus kita jaga dan nyalakan semangat sebagai bentuk kontribusi bagi kemandirian energi Indonesia.`
+        ],
+        // page 11
+        [
+            `Feri Yani`,
+            `Direktur Utama PT Kilang Pertamina Balikpapan`,
+            `Upaya PT Kilang Pertamina Balikpapan dalam Mendukung Proyek Strategis Pertamina`,
+            `Proyek Refinery Development Master Plan (RDMP) RU V Balikpapan merupakan salah satu Proyek 
+            Strategis Nasional (PSN) yang dilaksanakan oleh PT Kilang Pertamina Balikpapan, anak perusahaan PT Kilang Pertamina Internasional (PT KPI) yang merupakan subholding 
+            pengolahan dan petrokimia bentukan PT Pertamina (Persero).Proyek RDMP RU V Balikpapan bukan hanya ditujukan untuk peningkatan kapasitas pengolahan kilang, namun secara komprehensif 
+            akan berpengaruh terhadap peningkatan kuantitas dan kualitas produk serta kemampuan kilang. Proyek RDMP Balikpapan akan meningkatkan kapasitas pengolahan kilang 
+            yang semula 260 KBPD menjadi 360 KBPD dengan peningkatan kualitas produk dari Euro II menjadi Euro V. Lebih lanjut, kompleksitas kilang meningkat dari 3.7 menjadi 8 untuk yang dihitung melalui Nelson Complexity Index.
+`
+        ],
+        // page 12
+        [
+            `Mempertimbangkan peran signifikan Proyek RDMP RU V Balikpapan, PT Kilang Pertamina Internasional melalui PT Kilang Pertamina Balikpapan melakukan persiapan pelaksanaan proyek dengan 
+            melaksanakan pekerjaan pendahuluan atau biasa disebut dengan Early Work  yang terdiri dari 14 proyek. Pelaksanaan proyek RDMP RU V Balikpapan memiliki tantangan yang 
+            cukup besar dikarenakan dilakukan di brown area, yakni di area Kilang RU V Balikpapan yang harus tetap beroperasi menghasilkan produk BBM,
+            sehingga eksekusi pekerjaan Early Work membutuhkan kecermatan dan perencanaan matang agar tidak mempengaruhi kondisi dan performa kilang eksisting. Menghadapi kompleksitas skala 
+            pekerjaan dan kendala di lapangan tidak menyurutkan semangat PT Kilang Pertamina Balikpapan. Apresiasi disampaikan kepada para pekerja PT Kilang Pertamina Balikpapan karena berhasil 
+            menyelesaikan pekerjaan Early Work dengan optimal.`,
+            `Kunci Keberhasilan PT Kilang Pertamina Balikpapan dalam Menyelesaikan Early Work`,
+            `Semangat PT Kilang Pertamina Balikpapan dalam perwujudan RDMP RU V Balikpapan tidak lepas dari aspirasi Perusahaan menjadi kilang kelas dunia yang kompetitif dan ramah lingkungan. 
+            Melalui komitmen PT Kilang Pertamina Balikpapan untuk mengelola operasional  kilang yang aman, handal, efisien dan ramah lingkungan demi ketersediaan kebutuhan energi yang berkelanjutan, 
+            Perusahaan mengembangkan inovasi dan fleksibilitas untuk memaksimalkan variabel produk dan memberikan manfaat kepada stakeholder.  
+            Aspirasi dan langkah strategis tersebut mendorong kinerja PT Kilang Pertamina Balikpapan dalam mewujudkan kesuksesan proyek  Early Work. Pembangunan dan pengembangan kilang RDMP RU V 
+            Balikpapan sebagai salah satu Proyek Strategis Nasional mendapatkan dukungan penuh Pemerintah Pusat dan Pemerintah Daerah.
+            Dukungan ini kian menguatkan sinergi antar entitas Pertamina Group yang telah berjalan dengan baik. Sinergi ini akan menjamin kelancaran dan keandalan proyek dan operasi kilang. 
+            Sebagai Pemegang Saham terbesar PT Kilang Pertamina Balikpapan, PT Kilang Pertamina Internasional telah memiliki Sistem Tata Kelola (STK), sistem manajemen dan SDM yang memadai dalam 
+            pengelolaan proyek sehingga Early Work menjadi inisiasi dengan keandalan sumber daya. Secara berkesinambungan, PT Kilang Pertamina Balikpapan secara aktif mendorong kultur keamanan dan 
+            keselamatan kerja di lapangan untuk meminimalisir risiko di lingkungan yang high risk. Hingga saat ini, PT Kilang Pertamina Balikpapan telah mencapai 121 juta jam kerja aman. Perkembangan 
+            dan pencapaian selama tahapan Early Work ini diharapkan bisa tetap konsisten hingga proyek RDMP RU V Balikpapan selesai.`
+        ],
+        // page 13
+        [
+            `Kontribusi PT Kilang Pertamina Balikpapan untuk Indonesia`,
+            `Early Work merupakan inisiasi dan tahapan proyek yang pertama kalinya ada pada sejarah Pertamina. Terselesaikannya proyek Early Work untuk RDMP RU V Balikpapan akan menjadi 
+            pengalaman dalam menangani proyek infrastruktur berskala besar dengan nilai investasi yang cukup besar. Karenanya, terselesaikannya proyek RDMP RU V Balikpapan ini akan berkontribusi 
+            bagi Indonesia dan pekerjaan kami adalah bentuk dukungan untuk memperkuat ketahanan energi nasional dan kemandirian  bagi bangsa. Menjadi catatan penting bahwa Early Work Proyek RDMP 
+            RU V Balikpapan mencakup hampir seluruhnya berupa pekerjaan penyiapan lahan proyek, sarana dan fasilitas yang dapat menunjang kelancaran proyek. Sebuah tahapan krusial dan ada dalam 
+            setiap proyek. Mengingat skala Proyek RDMP RU V Balikpapan yang relatif lebih besar dibandingkan proyek Pertamina sebelum nya di sektor refinery, maka semua hal yang terkait dengan 
+            tahapan Early Work proyek RDMP RU V Balikpapan yang terefleksikan dalam buku Kaleidoskop ini diharapkan dapat menjadi acuan bagi proyek-proyek Pertamina di masa depan.`
+        ],
+        // page 14
+        [
+            `Djoko Koen Soewito`,
+            `Direktur Pengembangan PT KPB.`,
+            `Memaknai Early Work sebagai Sebuah Legasi untuk Negeri`,
+            `Salah satu proyek Strategis Nasional, RDMP RU V Balikpapan merupakan inisiasi yang harus  terus didorong percepatannya. Sebagai pelaksana proyek, 
+            PT Kilang Pertamina Balikpapan memberikan kinerja terbaik untuk mewujudkan keberlangsungan proyek RDMP RU V Balikpapan. Tahapan yang telah dilakukan yakni 
+            terselesaikannya proyek Early Work pekerjaan pendahuluan melalui 14 proyek, seperti pekerjaan persiapan lahan, relokasi, pembangunan fasilitas untuk operasional 
+            kilang dan kesejahteraan pekerja dengan baik. Proyek Early Work di Kilang Balikpapan memiliki tantangan luar biasa, mulai dari pembangunan yang berada di area 
+            kilang eksisting hingga pandemi COVID-19 yang menjadi krisis bagi kelangsungan pembangunan di seluruh du-nia, tidak terkecuali RDMP RU V Balikpapan. Berbagai 
+            kendala yang dihadapi oleh tim PT Kilang Pertamina Balikpapan dalam pengerjaan proyek Early Work menjadi pembelajaran berharga sekaligus bukti kekuatan sinergi dan keandalan PT Kilang Pertamina Balikpapan.`,
+        ],
+        // page 15
+        [
+            `Terima kasih dan apresiasi tertinggi kepada seluruh pihak terutama dedikasi para pekerja yang telah berjuang mewujudkan keberhasilan Early Work. Perjalanan 
+            Early Work menempuh proses panjang sejak perencanaan proyek RDMP RU V Balikpapan. Skala RDMP RU V Balikpapan dengan nilai investasi mencapai 7,2 miliar dolar 
+            membutuhkan persiapan yang lebih komprehensif. Early Work hadir menjadi jawaban dari tahapan pertama pekerjaan RDMP RU V Balikpapan yang diharapkan akan 
+            menciptakan multiplier effect dari segi ekonomi untuk Balikpapan dan Kalimantan Timur. Dampak dari proyek ini pun mendapat dukungan dari Pemerintah Pusat 
+            hingga Pemerintah Daerah sehingga memberikan akselerasi terhadap pemberian izin untuk pelaksanaan proyek Early Work. Krisis pandemi COVID-19 tidak menghentikan 
+            proyek karena pekerjaan terus dilakukan di tengah keterbatasan manpower dan akses distribusi. Kebijakan tersebut diambil untuk mendukung kelancaran proyek 
+            RDMP sesuai target. Lebih lanjut, PT Kilang Pertamina Balikpapan memperhatikan aspek HSSE dengan peningkatan intensitas sosialisasi budaya keselamatan 
+            kerja sebagai upaya menjamin keselamatan ribuan pekerja. Setiap pekerjaan Early Work dipastikan mematuhi Tata Kelola Perusahaan yang Baik dan tahapan 
+            perkembangan proyek dipantau secara berkala agar sesuai spesifikasi melalui koordinasi antar stakeholders.`,
+            `Amanah yang Harus Dijaga dan Dijalankan Sebaik-Baiknya`,
+            `Keberhasilan proyek Early Work merupakan legasi bersama. Semangat pembangunan dan pelaksanaan proyek dilandasi oleh peran operasional kilang Balikpapan 
+            di masa depan menunjukkan komitmen Pertamina siap menjadi babak baru kebutuhan energi Indonesia. Penugasan dan tanggung jawab yang diberikan untuk PT 
+            Kilang Pertamina Balikpapan terhadap RDMP RU V Balikpapan merupakan amanah yang harus dijaga dan dilakukan sebaik-baiknya. Sepanjang perjalanan, PT Kilang 
+            Pertamina Balikpapan telah memupuk sinergi, menjadikan prinsip one team, one spirit, go together untuk maju. Maka, refleksi terhadap perjalanan dan 
+            pengalaman dalam pembangunan Early Work melalui Kaleidoskop diharapkan bisa memberikan improvement terhadap pekerjaan proyek di masa depan sekaligus 
+            menjadi pemantik semangat bagi insan Pertamina untuk terus berkarya dan berdaya.`
+        ],
+        // page 16
+        [
+            `Cakrawala Proyek`,
+            `Mewujudkan mimpi untuk negeri dalam kemandirian energi, sebuah pondasi perlu dibangun secara kokoh sebagai penopang perjalanan. Pondasi yang berisi 
+            pengerjaan persiapan proyek utama tertuang dalam Early  Work PT Kilang Pertamina Balikpapan. Early Work merupakan pekerjaan pendahuluan meliputi penyiapan 
+            lahan, pembangunan utilitas pendukung, hingga kebutuhan untuk kesejahteraan pekerja. Sejalan dengan visi yang ingin dicapai oleh PT Kilang Pertamina 
+            Balikpapan dalam meningkatkan kapasitas kilang serta kualitas produk, proyek Early Work dilakukan untuk menghemat waktu pada proses eksekusi proyek utama 
+            yakni Refinery Development Master Plan di RU V Balikpapan.`
+        ],
+        // page 17
+        [
+            `RDMP RU V Balikpapan`,
+            `Kapasitas Kilang, KBPD`,
+            `Sebelum RDMP`,
+            `260 KBPD`,
+            `Sesudah RDMP`,
+            `360 KBPD`,
+            `Kualitas Produk`,
+            `Sebelum RDMP`,
+            `Euro II`,
+            `Sesudah  RDMP`,
+            `Euro V`,
+            `Kompleksitas Kilang, NCI`,
+            `Sebelum RDMP`,
+            `3,7`,
+            `Sesudah RDMP`,
+            `8,0`,
+            `Target TKDN`,
+            `30-35%`,
+        ],
+        // page 18
+        [
+            `Plot Plan Proyek Early Work Kilang Balikpapan`,
+            `New Workshop & Warehouse`,
+            `Phase-1 Apartment`,
+            `Bendungan Pengendali Banjir (Bendali) Apartment`,
+            `Procurement of Stone Column Aggregate`,
+            `New Lab, Site Office & HSSE Office`,
+            `Re-Route Jl Yos Sudarso`,
+            `Site Development Lawe-Lawe`,
+            `Site Development 2A`,
+            `Relocation of Flare BPP-1`,
+            `EPCI Sheet Pile`,
+            `EPC Flare Balikpapan 2, HCC, Acid Flare`,
+            `New Sulphur Jetty & Dredging`,
+            `Site Development & Jetty Construction`,
+            `Flood Prevention`,
+        ],
+        // page 19
+        [
+            `01`,
+            `Phase-1 Apartment`,
+            `Milestones:
+            Kick Off Meeting
+            15 April 2016
+            Operational Acceptance
+            24 Maret 2017`,
+            `02`,
+            `Relocation of Flare BPP-1`,
+            `Milestones:
+            Kick Off Meeting
+            16 Maret 2017
+            Operational Acceptance
+            16 Januari 2018`,
+            `03`,
+            `Site Development & Jetty Construction`,
+            `Milestones:
+            Kick Off Meeting
+            1 Desember 2016
+            Operational Acceptance
+            31 Desember 2018`,
+            `04`,
+            `EPCI Sheet Pile`,
+            `Milestones:
+            Kick Off Meeting
+            23 November 2017
+            Operational Acceptance
+            31 Maret 2019`,
+            `05`,
+            `Flood Preventation`,
+            `Milestones:
+            Kick Off Meeting
+            16 Januari 2019
+            Operational Acceptance
+            16 Mei 2019`,
+        ],
+        // page 20
+        [
+            `06`,
+            `Procurement of Stone
+            Column Aggregate`,
+            `Milestones:
+            Kick Off Meeting
+            20 Februari 2019
+            Operational Acceptance
+            31 Mei 2019`,
+            `07`,
+            `Site Development
+            Lawe-Lawe`,
+            `Milestones:
+            Kick Off Meeting
+            14 Januari 2019
+            Operational Acceptance
+            29 November 2019`,
+            `08`,
+            `Bendungan Pengendali
+            Banjir (Bendali) Apartemen`,
+            `Milestones:
+            Kick Off Meeting
+            23 Juli 2018
+            Operational Acceptance
+            22 Januari 2020`,
+            `09`,
+            `New Sulphur Jetty & Dredging`,
+            `Milestones:
+            Kick Off Meeting
+            15 April 2019
+            Operational Acceptance
+            3 September 2020`,
+            `10`,
+            `Site Development 2A`,
+            `Milestones:
+            Kick Off Meeting
+            10 April 2019
+            Operational Acceptance
+            31 Desember 2020`,
+            `11`,
+            `EPC Flare Balikpapan 2, HCC, Acid Flare`,
+            `Milestones:
+            Kick Off Meeting
+            15 Februari 2019
+            Operational Acceptance
+            28 April 2021`,
+            `12`,
+            `New Workshop & Warehouse`,
+            `Milestones:
+            Kick Off Meeting
+            5 November 2018
+            Operational Acceptance
+            30 Juni 2021`,
+            `13`,
+            `Re-Route Jl Yos Sudarso`,
+            `Milestones:
+            Kick Off Meeting
+            14 Januari 2019
+            Operational Acceptance
+            31 Agustus 2021`,
+            `14`,
+            `New Lab, Site Office & 
+            HSSE Office`,
+            `Milestones:
+            Kick Off Meeting
+            2 November 2020
+            Operational Acceptance
+            25 Desember 2020`,
+        ],
+        // page 21
+        [
+            `Kilas Balik`,
+            `Dimulai dengan visi untuk negeri berlanjut dengan dedikasi tanpa henti. Sepanjang perjalanan 
+            proyek Early Work, PT Kilang Pertamina Balikpapan telah menunjukkan sinergi–hasil kolektif pengetahuan, 
+            keterampilan, inovasi, serta kerjasama yang solid dalam meletakkan sebuah pondasi. Serangkaian proses 
+            panjang dalam menyelesaikan 14 proyek menjadi sarana yang tepat untuk mendalami kilas balik proyek 
+            Early Work. Mari melangkah bersama menuju cerita penuh dengan makna.`,
+        ],
+        // page 22
+        [
+            `Pondasi Proyek Utama`,
+            `Peningkatan kapasitas serta kualitas kilang Balikpapan merupakan salah satu bentuk intensifikasi, yakni melakukan penambahan unit proses dan utilitas tanpa pembukaan lahan baru. 
+            Keputusan ini diambil karena Pertamina memperhitungkan berbagai aspek, termasuk aspek sosial yang akan mungkin muncul jika mengembangkan kilang dengan membuka lahan di luar lahan milik Pertamina.`
+        ],
+        // page 23
+        [
+            `Namun, hal ini bukan berarti membuat Early Work tak mengalami tantangan pelaksanaan.
+            Karena itulah, untuk menghasilkan lahan siap pada pelaksanaan RDMP diperlukan perencanaan matang, eksekusi tepat karena lahan terdapat bangunan atau fasilitas eksisting.
+            Proses penyiapan lahan jadi penting dan krusial dalam eksekusi RDMP RU V Balikpapan diharapkan lahan segera digunakan saat proses Detailed Engineering Design (DED) selesai atau bahkan paralel dengan kegiatan engineering.`,
+            `Site Development & Jetty Construction`,
+            `Pekerjaan Early Work Site Development adalah persiapan lahan untuk memenuhi fungsi RDMP RU V Balikpapan yang
+            akan melakukan revamping dan penambahan beberapa unit baru. Persiapan ini membutuhkan area yang siap digunakan untuk
+            lahan eksekusi proyek ekspansi. Lahan tersebut akan diserahkan pada kontraktor EPC ISBL OSBL, khususnya untuk area New Utilities
+            and Power Island (North OSBL), Jetty construction, Gudang LLP, dengan pekerjaan cutting Gunung 10 serta clearing and grubbing,
+            demolish beton, dan fasilitas lainnya di area ISBL.`,
+            `Kendala utama pada pekerjaan site development adalah kondisi yang tidak ideal secara pemenuhan sumber daya,
+            baik seperti kesiapan manajemen dan formasi tim Pertamina. Pekerjaan yang dilakukan di kilang eksisting ini pun memiliki
+            temuan yang tidak ditangkap pada FEED dan memiliki deviasi cukup besar sehingga membutuhkan akselerasi dan peningkatan
+            koordinasi dengan pihak terkait.`,
+        ],
+        // page 24
+        [
+            `Koordinasi harus terus ditingkatkan mengingat persiapan lahan yang banyak melakukan pekerjaan demolish 
+            dan harus menunggu perilisan fasilitas eksisting dari RU V. Pekerjaan yang seharusnya dieksekusi dalam waktu 
+            durasi kontrak itu kerap terlewat karena adanya isu interface dengan RU V sehingga fungsi project control 
+            harus mengupayakan solusi terbaik, yakni mencari pengganti bangunan yang akan di-demolish.`,
+        ],
+        // page 25
+        [
+            `Selama kegiatan penggalian serta pembersihan tanah dilakukan dengan cermat karena ditemukan berbagai unforeseen material.
+            Pada saat proses demolish, terdapat sludge, yakni sejenis endapan atau suspensi limbah cair yang berada di area dalam kilang.
+            Keberadaan sludge diluar dugaan dapat dikategorikan sebagai sampah atau limbah yang merupakan hasil timbunan dari bekas drum, kapal, mobil hingga truk yang telah lama ditimbun pada zaman dahulu di area tersebut.
+            Unforeseen ini ditemukan pada saat proses galian sehingga proses pembersihan tanah sebelum demolish ataupun memulai kegiatan pancang menjadi signifikan karena jika pada kedalaman 2-3 meter pancang tidak terpasang dengan sempurna,
+            maka tim Pertamina harus melanjutkan proses penggalian atau penghancuran yang lebih dalam.
+            Akibatnya, pekerjaan untuk konstruksi berikutnya tidak bisa dilaksanakan.
+            Proses pembelahan Gunung 10 menjadi salah satu hambatan terbesar dalam proyek site development di mana area tersebut masih terdapat satwa liar yang tinggal di dalamnya.
+            Sesuai arahan dan aturan dari tim DLH, pekerjaan ini mengharuskan relokasi satwa dengan baik sebelum pekerjaan berjalan yang akhirnya berhasil direlokasi di wilayah baru dan telah ditentukan oleh DLH.`,
+        ],
+        // page 26
+        [
+            `Tidak hanya relokasi satwa liar, aturan preservasi lingkungan perlu diperhatikan, seperti diameter pohon yang ditebang. Perhitungan tinggi pohon di atas 30 meter atau di bawah 30 meter wajib diganti, memaksa Pertamina mengeluarkan biaya besar.
+            Di dalam kilang, penebangan pohon mungkin karena lahan Pertamina. Namun, pohon di luar kilang tidak dapat ditebang langsung karena perizinan belum keluar. Proses cutting dilakukan dengan hati-hati hingga perizinan resmi dikeluarkan oleh Pemerintah setempat.
+            Lebih lanjut, dari sisi keamanan, lokasi proyek site development memiliki sejarah sebagai markas tentara Jepang, memerlukan penanganan khusus. Selama pengerukan, ditemukan bom aktif dari masa Perang, mengejutkan tim Pertamina. Tim Pertamina bekerjasama dengan tim Gegana untuk menangani bom tersebut.
+            Proses penemuan dan eksekusi mempengaruhi durasi timeline proyek karena memerlukan keahlian khusus dan perizinan eksternal. Rapat umum di wilayah dilakukan untuk meminimalisir kesalahpahaman dengan masyarakat setempat.`,
+        ],
+        // page 27
+        [
+            `Permasalahan perizinan juga datang dari izin Amdal dan izin lingkungan lain. Pada prinsipnya keinginan dari KLHK mengenai Amdal sendiri merupakan salah satu ikrar atau janji terhadap lingkungan agar tidak terdampak akibat 
+            adanya proses proyek RU V ini baik di darat ataupun di laut. Pada saat proses penandatanganan kontrak dengan vendor kontraktor yang terpilih yakni WIKA, proses bongkar muat alat sudah mulai memasuki area proyek, eksavator 
+            sudah siap dijalankan, serta SDM sudah siap dimulai. Namun, kendala tersebut menjadikan adanya penundaan dalam perjalanan proyek.`,
+            `Tim Pertamina juga mendapat resistensi dari faktor eksternal yang disebabkan oleh masyarakat sekitar seperti LSM. Adanya demo dan komplain dari beberapa LSM cukup memperumit keadaan. Terlebih, terdapat perubahan dalam 
+            jajaran direksi sehingga penyelesaian masalah juga dengan LSM terkendala. Selain permasalahan dengan LSM, kendala di luar kilang juga cukup banyak dan rumit seperti beberapa area pengerjaan site development 1 berdekatan 
+            dengan wilayah atau stadion sepak bola milik Pemerintah Daerah (Pemda) Balikpapan sehingga mengharuskan stadion tersebut untuk direlokasi.`
+        ],
+        // page 28
+        [
+            `Persetujuan relokasi sudah dikeluarkan, namun Pemda Balikpapan mengharuskan pihak Pertamina untuk menyiapkan stadion terlebih dahulu sebelum proses relokasi dikarenakan adanya liga pertandingan sepak bola skala 
+            Nasional yang akan diselenggarakan di stadion tersebut. Hal tersebut berimplikasi pada segi keamanan karena area rumah di sekitar Stadion sudah memasuki tahap demolish. Mengingat pertandingan liga ini berskala Nasional, 
+            maka tingkat pembatalan sepihak akan terlampau sulit. Tim Pertamina pun bekerjasama dengan pihak keamanan untuk memastikan situasi bisa terpantau dan terkondisikan dengan baik.`,
+            `Sebagai pondasi proyek utama Early Work, maka Site Development dikerjakan bersamaan dengan Jetty Construction. Jetty Construction ini dibangun karena jetty yang ada di Kilang Balikpapan tidak mampu menampung 
+            spesifikasi dan beban muatan yang begitu besar. Jetty ini akan difungsikan sebagai fasilitas pelabuhan khusus yang akan menjadi infrastruktur kunci yang memfasilitasi pengiriman alat berat untuk instalasi EPC saat RDMP berjalan. 
+            Melalui dermaga yang sesuai spesifikasi dan kokoh akan memberikan akses optimal untuk kebutuhan material dan peralatan. Kehadiran jetty siap menjadi pintu gerbang utama bagi kemajuan proyek dan perkembangan Early Work secara keseluruhan.
+            Jetty Construction ini berperan dalam percobaan penjemputan peralatan dengan berat mencapai 15 hingga 30 Ton. Jetty menjadi titik awal untuk memudahkan serta mendukung proses pengerjaan Early Work karena semua akses suplai material 
+            dilakukan melalui jalur laut. Dalam proses pembangunannya, Jetty Construction menggunakan tiang pancang sebagai pondasi utama. Saat dilakukan pemasangan tiang pancang terdapat beberapa kesulitan karena tidak adanya catatan dan 
+            pengawasan proyek sehingga pemancangan dapat terpasang. Ketika dilakukan penyelaman, ditemukan titik utama permasalahan yakni adanya potongan besi, plat, dan tiang pancang yang berada di pinggir laut. Hal ini mengakibatkan adanya 
+            change order di dalam kontrak proyek tersebut.`
+        ],
+        // page 29
+        [
+            `Lebih lanjut, pada saat proses pembangunan Jetty Construction, kendala tidak hanya datang dari daratan melainkan dalam sisi laut pun muncul yang mana memerlukan proses menjangkau dasar laut sedalam 210 meter. Seiring 
+            berjalannya waktu, ternyata dalam proses penanaman pancang untuk jembatan mengalami hambatan sebab ditemukannya rel kereta api yang ternyata dibuang di dalam dasar laut oleh para pendahulu. Penemuan unforeseen tersebut menyebabkan 
+            penanaman pancang Jetty Construction tidak bisa terpasang dengan sempurna.
+            Proses pemancangan untuk jembatan Jetty Construction cukup memakan waktu yang panjang karena faktor unforeseen. Dengan sigap, tim Pertamina berkoordinasi dan bekerjasama dengan regu penyelam untuk mengangkat material yang menghambat proses 
+            penanaman pancang.`,
+            `Pekerjaan untuk mengangkat unforeseen tersebut tidak bisa langsung diseksekusi karena membutuhkan pembersihan menggunakan kompresor dan crane.
+            Unforeseen lainnya, yakni adanya bangkai kapal, plat besi hingga bangkai tank yang berada di dasar laut juga menghambat proses pemancangan. Guna mengatasi hal ini, maka dredging menjadi tidak terhindarkan. Regu penyelam 
+            kembali diturunkan untuk mengecek sedalam 20 meter dari permukaan laut untuk melihat hambatan yang menghalangi di sekitar pemasangan alat pemancang. Hambatan tidak terduga yang cukup mengejutkan di saat regu penyelam 
+            mencari titik permasalahan adalah kemunculan hewan seperti buaya muara yang menghalangi proses pencarian titik. Beberapa cara pun dikerahkan agar proses pemancangan berjalan dengan lancar, seperti penggunaan crawler 
+            untuk memungut unforeseen yang berada di dasar laut.`,
+        ],
+        // page 30
+        [
+            `Menimbang kendala unforeseen yang mengganggu proses pemasangan tiang pancang, tim Pertamina berinisiatif untuk lebih memperketat setiap aspek pekerjaan. Seperti halnya kendala unforeseen yang terdapat pada Site Development, 
+            hal ini juga berpengaruh besar terhadap timeline pekerjaan dan menyebabkan kesulitan saat proses aktualisasi berjalan.`,
+            `Maka dari itu, histori catatan proyek menjadi krusial adanya. Setiap perencanaan, sisa material harus terdokumentasi dengan baik untuk proyek ekspansi di masa depan sehingga dapat mempengaruhi kelancaran proses 
+            pengerjaan. Dalam lingkup proyek ini, detail teknis dan sinergi dari tim Pertamina menjadi faktor kunci dalam mengatasi permasalahan di lapangan sehingga proyek Site Development bisa terselesaikan dan Operational Acceptance 
+            bisa terselesaikan pada tanggal 31 Desember 2018 sehingga dengan ini area yang akan digunakan di proyek EPC ISBL OSBL telah dinyatakan siap dan diserahterimakan ke Kontraktor EPC ISBL OSBL.`
+        ],
+        // page 3
+        [
+            `lorem`,
+        ],
+        // page 3
+        [
+            `lorem`,
+        ],
+        // page 3
+        [
+            `lorem`,
+        ],
+        // page 3
+        [
+            `lorem`,
+        ],
+        // page 3
+        [
+            `lorem`,
+        ],
+        // page 3
+        [
+            `lorem`,
+        ],
+        // page 3
+        [
+            `lorem`,
+        ],
+        // page 3
+        [
+            `lorem`,
+        ],
+        // page 3
+        [
+            `lorem`,
+        ],
+        // page 3
+        [
+            `lorem`,
+        ],
     ];
 
 

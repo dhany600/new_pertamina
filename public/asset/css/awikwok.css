@@ -108,6 +108,14 @@
   transform: rotateY(-180deg);
   z-index: 2;
 }
+#c5:checked ~ .flip-book #p5 {
+  transform: rotateY(-180deg);
+  z-index: 2;
+}
+#c6:checked ~ .flip-book #p6 {
+  transform: rotateY(-180deg);
+  z-index: 2;
+}
 #c1:checked ~ .flip-book .inner-2 {
   transform: rotateY(0deg) translateX(100%);
   z-index: 2;

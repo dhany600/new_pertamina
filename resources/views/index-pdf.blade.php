@@ -177,6 +177,38 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="book" id="page209">
+                    <input type="checkbox" id="c5">
+                    <input type="checkbox" id="c6">
+                    <!-- Book Cover -->
+                    <div id="cover">
+                    </div>
+                    <!-- Pages -->
+                    <div class="flip-book">
+                        <!-- Page 3 -->
+                        <div class="flip" id="p5">
+                            <div class="back">
+                                {{-- <img src="{{ asset('asset/img/triplet-1.jpg') }}" alt=""> --}}
+                            </div>
+                            <div class="front">
+                            </div>
+                        </div>
+                        <!-- Page 4 -->
+                        <div class="flip" id="p6">
+                            <div class="inner-page inner-1">
+                                <div class="back">
+                                    {{-- <img src="{{ asset('asset/img/triplet-2.jpg') }}" alt=""> --}}
+                                </div>
+                                <div class="front">
+                                    <video width="100%" id="video1" style="position: absolute; top: 50%; transform: translateY(-50%)" controls autoplay>
+                                        <source src="{{ asset('asset/img/videoplayback.mp4') }}" type="video/mp4">
+                                    </video>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <!-- BEGIN PAGES -->
                 <div id="fb5-book">
                 </div>

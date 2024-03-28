@@ -2572,30 +2572,50 @@
         
         nextPage: function () {
             let jumlahSemuaHalaman = $('li[data-address][data-page]').length;
+            let myVideo = document.getElementById("video1");
 
             if (halamanYangDiakses < jumlahSemuaHalaman) {
                 halamanYangDiakses += 2;
                 console.log(halamanYangDiakses);
+
+                const page25 = $('#page25');
+                const page181 = $('#page181');
+                const page209 = $('#page209');
+
                 if (halamanYangDiakses == 25) {
-                    $('#page25').css('z-index', '11');
-                    $('#c1').prop('checked', true);
-                    $('#c2').prop('checked', false);
+                    setPageStyle(page25, '11', true, false, true, true, true, true);
                 } else if (halamanYangDiakses == 27) {
-                    $('#page25').css('z-index', '0');
-                    $('#c1').prop('checked', true);
-                    $('#c2').prop('checked', true);
+                    setPageStyle(page25, '0', true, true, true, true, true, true);
                 } else if (halamanYangDiakses == 181) {
-                    $('#page181').css('z-index', '11');
-                    $('#c3').prop('checked', true);
-                    $('#c4').prop('checked', false);
+                    setPageStyle(page181, '11', true, true, true, false, true, true);
                 } else if (halamanYangDiakses == 183) {
-                    $('#page181').css('z-index', '0');
-                    $('#c3').prop('checked', true);
-                    $('#c4').prop('checked', true);
+                    setPageStyle(page181, '0', true, true, true, true, true, true);
                 } else if (halamanYangDiakses == 199) {
-                    $('#page25').css('display', 'none');
-                    $('#page181').css('display', 'none');
+                    hidePages([page25, page181]);
+                } else if (halamanYangDiakses == 209) {
+                    setPageStyle(page209, '11', true, true, true, true, true, false);
+                    setTimeout(function () {
+                        myVideo.play();
+                    }, 1000);
+                } else if (halamanYangDiakses == 211) {
+                    setPageStyle(page209, '0', true, true, true, true, true, true);
+                    myVideo.pause();
                 }
+                // console.log(halamanYangDiakses);
+            }
+
+            function setPageStyle(page, zIndex, c1Checked, c2Checked, c3Checked, c4Checked, c5Checked, c6Checked) {
+                page.css('z-index', zIndex);
+                $('#c1').prop('checked', c1Checked);
+                $('#c2').prop('checked', c2Checked);
+                $('#c3').prop('checked', c3Checked);
+                $('#c4').prop('checked', c4Checked);
+                $('#c5').prop('checked', c5Checked);
+                $('#c6').prop('checked', c6Checked);
+            }
+
+            function hidePages(pages) {
+                pages.forEach(page => page.css('display', 'none'));
             }
             
 
@@ -2619,33 +2639,58 @@
         },
 
         prevPage: function () {
+            let myVideo = document.getElementById("video1");
             if (halamanYangDiakses > 1) {
                 halamanYangDiakses -= 2;
                 console.log(halamanYangDiakses);
 
-                if (halamanYangDiakses == 25) {
-                    $('#page25').css('z-index', '11');
-                    $('#c1').prop('checked', true);
-                    $('#c2').prop('checked', false);
-                } else if (halamanYangDiakses == 23) {
-                    $('#page25').css('z-index', '2');
-                    $('#c1').prop('checked', false);
-                    $('#c2').prop('checked', false);
-                } else if (halamanYangDiakses == 181) {
-                    $('#page181').css('z-index', '11');
-                    $('#c3').prop('checked', true);
-                    $('#c4').prop('checked', false);
-                } else if (halamanYangDiakses == 179) {
-                    $('#page181').css('z-index', '1');
-                    $('#c3').prop('checked', false);
-                    $('#c4').prop('checked', false);
-                } else if (halamanYangDiakses == 195) {
-                    $('#page25').css('display', 'flex');
-                    $('#page181').css('display', 'flex');
+                const page25 = $('#page25');
+                const page181 = $('#page181');
+                const page209 = $('#page209');
+
+                switch (halamanYangDiakses) {
+                    case 25:
+                        setPageStyle(page25, '11', true, false, false, false);
+                        break;
+                    case 23:
+                        setPageStyle(page25, '2', false, false, false, false);
+                        break;
+                    case 181:
+                        setPageStyle(page181, '11', false, false, true, false);
+                        break;
+                    case 179:
+                        setPageStyle(page181, '1', false, false, false, false);
+                        break;
+                    case 209:
+                        setPageStyle(page209, '11', false, false, false, false, true, false);
+                        setTimeout(function () {
+                            myVideo.play();
+                        }, 1000);
+                        break;
+                    case 207:
+                        setPageStyle(page209, '1', false, false, false, false, false, false);
+                        myVideo.pause();
+                        break;
+                    case 195:
+                        showPages([page25, page181]);
+                        break;
                 }
             } else {
-                // Optional: Handle the case when halamanYangDiakses is already 1 or less.
                 console.log("Cannot go below 1");
+            }
+
+            function setPageStyle(page, zIndex, c1Checked, c2Checked, c3Checked, c4Checked, c5Checked, c6Checked) {
+                page.css('z-index', zIndex);
+                $('#c1').prop('checked', c1Checked);
+                $('#c2').prop('checked', c2Checked);
+                $('#c3').prop('checked', c3Checked);
+                $('#c4').prop('checked', c4Checked);
+                $('#c5').prop('checked', c5Checked);
+                $('#c6').prop('checked', c6Checked);
+            }
+
+            function showPages(pages) {
+                pages.forEach(page => page.css('display', 'flex'));
             }
 
             $('#fb5-book').turn('previous');
